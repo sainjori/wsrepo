@@ -75,12 +75,12 @@
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480682805342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480687112048">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480938195836">
         <mark key="'" line="15" column="7" />
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="29" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -205,7 +205,7 @@
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'input'</text>
+        <text>focua</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -232,7 +232,7 @@
         <text encoding="base64">ICAgICAgICA8IS0tPHdpZGdldC1vbmUgW21lc3NhZ2VdPSJzaW1wbGVTZXJ2aWNlLm1lc3NhZ2UiPjwvd2lkZ2V0LW9uZT4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>'input'</text>
+        <text>focua</text>
       </register>
     </registers>
     <search>
