@@ -66,7 +66,8 @@
       <file name="/JavaScript Console" timestamp="1480687173161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480950468429">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480950754210">
+        <mark key="'" line="6" column="16" />
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
@@ -203,15 +204,22 @@
       <jump line="38" column="13" filename="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" />
       <jump line="15" column="7" filename="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" />
+      <jump line="6" column="16" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiICNjb250YWluZXI+PC9kaXY+Cgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;container&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text>class</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2lucHV0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiICNjb250YWluZXI+PC9kaXY+Cgo=</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiICNjb250YWluZXI+PC9kaXY+Cgo=</text>
       </register>
       <register name="2" type="2">
@@ -238,16 +246,18 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>&quot;container&quot;</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>class</last-search>
+      <last-offset />
+      <last-pattern>class</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>class</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
