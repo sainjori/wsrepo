@@ -5,8 +5,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="lga" value="console.log(&quot;$VARIABLE$: &quot;, $VARIABLE$);&#10;$END$" description="Console log with arguments" toReformat="false" toShortenFQNames="true">
-    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="lga" value="console.log($name$, $date$ &quot;$VARIABLE$: &quot;, $VARIABLE$);&#10;$END$" description="Console log with arguments" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />

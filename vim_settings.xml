@@ -18,7 +18,7 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widgets.module.ts" timestamp="1480939668835">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widgets.module.ts" timestamp="1480946707093">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
@@ -66,14 +66,17 @@
       <file name="/JavaScript Console" timestamp="1480687173161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480942682020">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="12" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480947644233">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480682805342">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480946581156">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480945795704">
         <mark key="[" line="6" column="14" />
@@ -206,34 +209,34 @@
         <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2lucHV0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmVmZWZhZTogIiwgZmVmZWZhZSk7CiAgICAgICAgY29uc29sZS5sb2coImxmZWZrZWthcyIpOwogICAgICAgIGNvbnNvbGUubG9nKCJma2Vma2tlZms6ICIsIGZrZWZra2Vmayk7CiAgICAgICAgCgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmVmZWZhZTogIiwgZmVmZWZhZSk7CiAgICAgICAgY29uc29sZS5sb2coImxmZWZrZWthcyIpOwogICAgICAgIGNvbnNvbGUubG9nKCJma2Vma2tlZms6ICIsIGZrZWZra2Vmayk7CiAgICAgICAgCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS08d2lkZ2V0LW9uZT48L3dpZGdldC1vbmU+LS0+Cg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS08d2lkZ2V0LW9uZT48L3dpZGdldC1vbmU+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD4gICAgPGlucHV0ICNpbnB1dCB0eXBlPSJ0ZXh0Ij48Lz4K</text>
+        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlcmVyLmludm9rZUVsZW1lbnRNZXRob2QoCg==</text>
+        <text encoding="base64">PD4gICAgPGlucHV0ICNpbnB1dCB0eXBlPSJ0ZXh0Ij48Lz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlcmVyLmludm9rZUVsZW1lbnRNZXRob2QoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXRocmVlPjwvd2lkZ2V0LXRocmVlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXRocmVlPjwvd2lkZ2V0LXRocmVlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>`</text>
@@ -285,6 +288,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
