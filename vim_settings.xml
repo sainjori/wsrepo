@@ -73,12 +73,12 @@
       <file name="/JavaScript Console" timestamp="1480963274372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480966376622">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="66" />
-        <mark key="]" line="41" column="35" />
-        <mark key="^" line="41" column="35" />
-        <mark key="." line="41" column="35" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480967282951">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480946581156">
         <mark key="[" line="6" column="0" />
@@ -218,57 +218,58 @@
       <jump line="6" column="44" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="11" column="17" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="25" column="17" filename="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="8" column="30" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="34" column="48" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
-      <jump line="7" column="39" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="32" column="16" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="14" column="13" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="39" column="32" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="12" column="32" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="47" column="57" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="7" column="43" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnkpOwogICAgICAgIHRoaXMuY29udGFpbmVyLmNyZWF0ZUNvbXBvbmVudCh3aWRnZXRGYWN0b3J5KTsKICAgICAgICB0aGlzLmNvbnRhaW5lci5jcmVhdGVDb21wb25lbnQod2lkZ2V0RmFjdG9yeSk7CiAgICAgICAgdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnkpOwogICAgICAgIHRoaXMuY29udGFpbmVyLmNyZWF0ZUNvbXBvbmVudCh3aWRnZXRGYWN0b3J5KTsKICAgICAgICB0aGlzLmNvbnRhaW5lci5jcmVhdGVDb21wb25lbnQod2lkZ2V0RmFjdG9yeSk7CiAgICAgICAgdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnkpOwogICAgICAgIHRoaXMuY29udGFpbmVyLmNyZWF0ZUNvbXBvbmVudCh3aWRnZXRGYWN0b3J5KTsKICAgICAgICB0aGlzLmNvbnRhaW5lci5jcmVhdGVDb21wb25lbnQod2lkZ2V0RmFjdG9yeSk7CiAgICAgICAgdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnkpOwogICAgICAgIGNvbnN0IHdpZGdldFJlZiA9IHRoaXMuY29udGFpbmVyLmNyZWF0ZUNvbXBvbmVudCh3aWRnZXRGYWN0b3J5KTsKCiAgICAgICAgd2lkZ2V0UmVmLmluc3RhbmNlLm1lc3NhZ2UgPSAiSSdtIGxhc3QhIjsKCiAgICB9CiAgICBvbkNsaWNrKCl7CgogICAgICAgIGNvbnN0IHdpZGdldFJlZiA9IHRoaXMuY29udGFpbmVyLmNyZWF0ZUNvbXBvbmVudCh3aWRnZXRGYWN0b3J5KTsKCiAgICAgICAgd2lkZ2V0UmVmLmluc3RhbmNlLm1lc3NhZ2UgPSAiSSdtIGxhc3QhIjsKICAgIH0KfQoKCgoKCgoKCgoKCgo=</text>
+      <register name="0" type="4">
+        <text>template</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
     </registers>
     <search>
