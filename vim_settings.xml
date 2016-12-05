@@ -66,10 +66,11 @@
       <file name="/JavaScript Console" timestamp="1480687173161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480939829494">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1480941758010">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480682805342">
         <mark key="[" line="0" column="0" />
@@ -205,34 +206,34 @@
         <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2lucHV0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXRocmVlPjwvd2lkZ2V0LXRocmVlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IDx3aWRnZXQtdHdvPgogICAgICAgIDxoMyBmb290ZXI+Rm9vdGVyPC9oMz4KICAgICAgICA8aDIgaGVhZGVyPlRpdGxlPC9oMj4KICAgICAgICA8ZGl2IGNvbnRlbnQ+U29tZSBjb250ZW50PC9kaXY+CiAgICAgICAgPC93aWRnZXQtdHdvPg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IDx3aWRnZXQtdHdvPgogICAgICAgIDxoMyBmb290ZXI+Rm9vdGVyPC9oMz4KICAgICAgICA8aDIgaGVhZGVyPlRpdGxlPC9oMj4KICAgICAgICA8ZGl2IGNvbnRlbnQ+U29tZSBjb250ZW50PC9kaXY+CiAgICAgICAgPC93aWRnZXQtdHdvPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXR3bz4KICAgICAgICA8aDMgZm9vdGVyPkZvb3RlcjwvaDM+CiAgICAgICAgPGgyIGhlYWRlcj5UaXRsZTwvaDI+CiAgICAgICAgPGRpdiBjb250ZW50PlNvbWUgY29udGVudDwvZGl2PgogICAgICAgIDwvd2lkZ2V0LXR3bz4K</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>WidgetThree</text>
