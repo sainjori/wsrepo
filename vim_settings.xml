@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480682805342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480939784871">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480945795704">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -206,37 +206,37 @@
         <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2lucHV0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXRocmVlPjwvd2lkZ2V0LXRocmVlPgo=</text>
+        <text encoding="base64">ICAgIDwhLS08d2lkZ2V0LW9uZT48L3dpZGdldC1vbmU+LS0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxpbnB1dCAjaW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD4gICAgPGlucHV0ICNpbnB1dCB0eXBlPSJ0ZXh0Ij48Lz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlbmRlcmVyLmludm9rZUVsZW1lbnRNZXRob2QoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJjb250YWluZXIiPjwvZGl2PmRkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8d2lkZ2V0LXRocmVlPjwvd2lkZ2V0LXRocmVlPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDx3aWRnZXQtdHdvPgogICAgICAgIDxoMyBmb290ZXI+Rm9vdGVyPC9oMz4KICAgICAgICA8aDIgaGVhZGVyPlRpdGxlPC9oMj4KICAgICAgICA8ZGl2IGNvbnRlbnQ+U29tZSBjb250ZW50PC9kaXY+CiAgICAgICAgPC93aWRnZXQtdHdvPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>WidgetThree</text>
+        <text>`</text>
       </register>
     </registers>
     <search>
@@ -282,6 +282,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
