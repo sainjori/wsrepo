@@ -24,11 +24,18 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1480681661131">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/index.html" timestamp="1481038642159">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1481039571935">
+        <mark key="'" line="8" column="55" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.js" timestamp="1480959847832">
         <mark key="[" line="8" column="109" />
@@ -72,6 +79,11 @@
       <file name="/JavaScript Console" timestamp="1480963274372">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1481023709734">
         <mark key="'" line="26" column="38" />
         <mark key="[" line="45" column="55" />
@@ -84,6 +96,12 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.routes.ts" timestamp="1481038806341">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480960550332">
         <mark key="'" line="26" column="17" />
@@ -110,15 +128,18 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481036423440">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1481039750271">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1480678098505">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1481037266623">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1480939444438">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
@@ -190,6 +211,12 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481038426316">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-one.component.ts" timestamp="1480939242747">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="11" column="32" />
@@ -237,13 +264,14 @@
       <jump line="7" column="43" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="33" column="53" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="26" column="38" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="20" column="55" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>d base ref. Got basic routing to work</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d base ref. Got basic routing to work</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
@@ -252,31 +280,31 @@
         <text>./app/**/*.js</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGFwcFJvdXRlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVzID0gWwogICAge3BhdGg6ICcnLCBjb21wb25lbnQ6IEhvbWVDb21wb25lbnR9Cl07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QENvbXBvbmVudCh7CiAgICB0ZW1wbGF0ZTogYAogICAgSSdtIGEgSG9tZSBjb21wb25lbnQKYAp9KQpleHBvcnQgY2xhc3MgSG9tZUNvbXBvbmVudCB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBIZWxsbyBXb3JsZCEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgYnlhIG9uIDA2LjEyLjIwMTYuCiAqLwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtCcm93c2VyTW9kdWxlfSBmcm9tICJAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyIjsK</text>
       </register>
     </registers>
     <search>

@@ -49,6 +49,10 @@
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt #10000fc" />
   </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
