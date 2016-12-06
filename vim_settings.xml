@@ -93,6 +93,12 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/gulpfile.js" timestamp="1481034918013">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+      </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="39" />
@@ -179,12 +185,6 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1480682257026">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,9 +193,6 @@
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481031052027">
-        <mark key="[" line="1" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -240,44 +237,44 @@
       <jump line="26" column="38" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>template</text>
+        <text>./app/**/*.js</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
       </register>
     </registers>
     <search>
