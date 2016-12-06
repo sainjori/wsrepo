@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/systemjs.config.js" timestamp="1481027438381" />
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.module.ts" timestamp="1480679087058">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="24" />
@@ -194,9 +193,6 @@
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481026433259">
-        <mark key="[" line="2" column="4" />
       </file>
     </filemarks>
     <jumps>
