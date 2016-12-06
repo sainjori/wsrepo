@@ -26,9 +26,6 @@
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/index.html" timestamp="1481038642159">
         <mark key="[" line="2" column="8" />
-        <mark key="]" line="9" column="42" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1481039571935">
         <mark key="'" line="8" column="55" />
@@ -132,12 +129,6 @@
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1481037266623">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
         <mark key="[" line="9" column="21" />
@@ -268,16 +259,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d base ref. Got basic routing to work</text>
+        <text>js</text>
       </register>
       <register name="-" type="4">
-        <text>d base ref. Got basic routing to work</text>
+        <text>js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>./app/**/*.js</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBwLyoqLyouanMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFwcFJvdXRlcwo=</text>
