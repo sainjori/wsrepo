@@ -194,6 +194,9 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481031052027">
+        <mark key="[" line="1" column="6" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="110" column="10" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/DashboardController.js" />
