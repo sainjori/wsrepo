@@ -36,7 +36,6 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="/systemjs.config.js" timestamp="1481026599171" />
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/services/simple.service.ts" timestamp="1480681090765">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="45" />
@@ -110,6 +109,9 @@
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481036423440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1480678098505">
         <mark key="[" line="0" column="0" />
