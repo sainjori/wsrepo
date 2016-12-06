@@ -72,12 +72,12 @@
       <file name="/JavaScript Console" timestamp="1480963274372">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1481019433299">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1481023709734">
+        <mark key="'" line="26" column="38" />
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480946581156">
         <mark key="[" line="6" column="0" />
@@ -184,6 +184,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1481024494257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-one.component.ts" timestamp="1480939242747">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="11" column="32" />
@@ -191,10 +194,10 @@
         <mark key="." line="11" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1480959582495">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -235,10 +238,12 @@
       <jump line="12" column="32" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="47" column="57" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="7" column="43" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="33" column="53" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
+      <jump line="26" column="38" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -250,31 +255,31 @@
         <text>template</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBjb25zdCByYW5kb21JbmRleCA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHRoaXMuY29udGFpbmVyLmxlbmd0aCk7CiAgICAgICAgdGhpcy5jb250YWluZXIubW92ZSh0aGlzLndpZGdldFJlZi5ob3N0VmlldywgcmFuZG9tSW5kZXgpOwogICAgICAgIC8vIHRoaXMuY29udGFpbmVyLmRldGFjaCgyKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3aWRnZXRGYWN0b3J5ID0gdGhpcy5yZXNvbHZlci5yZXNvbHZlQ29tcG9uZW50RmFjdG9yeShXaWRnZXRUaHJlZSk7CiAgICAgICAgY29uc3Qgd2lkZ2V0UmVmID0gdGhpcy5jb250YWluZXIuY3JlYXRlQ29tcG9uZW50KHdpZGdldEZhY3RvcnksIDMpOwogICAgICAgIHdpZGdldFJlZi5pbnN0YW5jZS5tZXNzYWdlID0gIkknbSBmb3VydGgiOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
