@@ -67,7 +67,14 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1481205593042" />
       <file name="/Angular2HTML Fragment (app.component.ts:98).html" timestamp="1481198797559" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.js" timestamp="1481203031625">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
         <mark key="[" line="39" column="23" />
       </file>
@@ -80,7 +87,7 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="/" timestamp="1480592951284">
+      <file name="/" timestamp="1481205554256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.routes.ts" timestamp="1481200999657">
@@ -153,7 +160,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1480963274372">
+      <file name="/JavaScript Console" timestamp="1481205772076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
@@ -168,10 +175,10 @@
         <mark key="^" line="46" column="30" />
         <mark key="." line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481198139653">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481205042825">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="29" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
@@ -180,16 +187,23 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481107032986">
+      <file name="/Dummy.txt" timestamp="1481202981370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.routes.ts" timestamp="1481202102566">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" timestamp="1481206107378">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="13" column="34" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.routes.ts" timestamp="1481203195035">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="36" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
@@ -200,12 +214,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="97" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.ts" timestamp="1481201445597">
-        <mark key="'" line="8" column="20" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.ts" timestamp="1481203365669">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/NavbarController.js" timestamp="1479729019671">
         <mark key="[" line="170" column="36" />
@@ -229,11 +243,11 @@
         <mark key="^" line="290" column="41" />
         <mark key="." line="290" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481202407922">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="63" />
-        <mark key="." line="14" column="63" />
-        <mark key="^" line="14" column="63" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481204991459">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-one.component.ts" timestamp="1480939242747">
         <mark key="[" line="10" column="39" />
@@ -284,46 +298,47 @@
       <jump line="26" column="38" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="20" column="55" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" />
       <jump line="11" column="20" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.ts" />
+      <jump line="11" column="37" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YF0sCg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, ContactsComponent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6dHJ1ZX0iIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyczogW10sCg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydHM6IFtdLAo=</text>
+        <text encoding="base64">QENvbXBvbmVudCh7CiAgICBtb2R1bGVJZDogbW9kdWxlLmlkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gIi4vLmNvbXBvbmVudCI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LCBSb3V0ZXJNb2R1bGUuZm9yQ2hpbGQocm91dGVzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVzID0gWwogICAge3BhdGg6JycsIGNvbXBvbmVudDogSG9tZUNvbXBvbmVudH0KXTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21tb25Nb2R1bGV9IGZyb20gIkBhbmd1bGFyL2NvbW1vbiIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHNlbGVjdG9yOiAnc2VsZWN0b3InLAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6dHJ1ZX0iIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pZCA9IHJvdXRlLnBhcmFtcy5tYXAoKHA6YW55KSA9PiBwLmlkKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEknbSB0aGUgZmlyc3QgY29udGFjdAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIEknbSB0aGUgZmlyc3QgY29udGFjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnZzY29kZS8K</text>
+        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
       </register>
     </registers>
     <search>
