@@ -67,8 +67,6 @@
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/main.ts" timestamp="1481205593042" />
-      <file name="/Angular2HTML Fragment (app.component.ts:98).html" timestamp="1481198797559" />
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.js" timestamp="1481203031625">
         <mark key="[" line="8" column="109" />
         <mark key="]" line="8" column="3" />
@@ -246,12 +244,12 @@
         <mark key="^" line="290" column="41" />
         <mark key="." line="290" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481211248705">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481211655900">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-one.component.ts" timestamp="1480939242747">
         <mark key="[" line="10" column="39" />
@@ -319,17 +317,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIb21lCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7dXJsOiAiIiwgY29udGVudDogIkhvbWUifSwK</text>
+      <register name="0" type="4">
+        <text>routerLink</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBIb21lCg==</text>
