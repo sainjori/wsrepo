@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.module.ts" timestamp="1481199688308">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-      </file>
       <file name="/fragment.js" timestamp="1480961819083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,30 +18,11 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/index.html" timestamp="1481038642159">
-        <mark key="[" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1481198362368">
-        <mark key="'" line="9" column="55" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="64" />
-        <mark key="^" line="10" column="64" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.js" timestamp="1480959847832">
-        <mark key="[" line="8" column="109" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/services/simple.service.ts" timestamp="1480681090765">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
-        <mark key="^" line="3" column="45" />
-        <mark key="." line="3" column="45" />
-      </file>
-      <file name="$USER_HOME$/sandbox/debugging-webpack/main.js" timestamp="1480591169108">
-        <mark key="[" line="6" column="54" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1481201600952">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" timestamp="1480676106847">
         <mark key="'" line="41" column="13" />
@@ -56,49 +31,17 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-two.component.ts" timestamp="1480686036254">
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="16" column="33" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-      </file>
-      <file name="/Angular2HTML Fragment (home.component.ts:149).html" timestamp="1480685125749">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/views/dashboards/dashboard.html" timestamp="1479735789953">
         <mark key="[" line="6" column="75" />
         <mark key="]" line="6" column="75" />
         <mark key="^" line="6" column="85" />
         <mark key="." line="6" column="75" />
       </file>
-      <file name="/JavaScript Console" timestamp="1480963274372">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1481023709734">
-        <mark key="'" line="26" column="38" />
-        <mark key="[" line="45" column="55" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/styles.css" timestamp="1480946581156">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.routes.ts" timestamp="1481199783598">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" timestamp="1480960550332">
         <mark key="'" line="26" column="17" />
@@ -107,34 +50,17 @@
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481198139653">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/gulpfile.js" timestamp="1481034918013">
         <mark key="[" line="22" column="51" />
         <mark key="]" line="22" column="51" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
-      <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
-      </file>
       <file name="C:/++Monitoring/dsc-monitoring/.gitignore" timestamp="1479894414646">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="9" column="5" />
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1481107032986">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
         <mark key="[" line="9" column="21" />
@@ -157,14 +83,17 @@
       <file name="/" timestamp="1480592951284">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.routes.ts" timestamp="1481200999657">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+      </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/filters/DigitalValueWidgetFilter.js" timestamp="1479735862447">
         <mark key="[" line="49" column="3" />
         <mark key="]" line="49" column="3" />
         <mark key="^" line="40" column="46" />
         <mark key="." line="49" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
-        <mark key="[" line="4" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/services/services.module.ts" timestamp="1480681722131">
         <mark key="[" line="10" column="1" />
@@ -172,11 +101,111 @@
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
+      <file name="$USER_HOME$/sandbox/debugging-webpack/webpack.config.js" timestamp="1480591864111">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1481024494257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481197052818">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.module.ts" timestamp="1481201074810">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/index.html" timestamp="1481038642159">
+        <mark key="[" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.js" timestamp="1480959847832">
+        <mark key="[" line="8" column="109" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/services/simple.service.ts" timestamp="1480681090765">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
+      </file>
+      <file name="$USER_HOME$/sandbox/debugging-webpack/main.js" timestamp="1480591169108">
+        <mark key="[" line="6" column="54" />
+      </file>
+      <file name="/fragment.ts" timestamp="1481202196581">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-two.component.ts" timestamp="1480686036254">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+      </file>
+      <file name="/Angular2HTML Fragment (home.component.ts:149).html" timestamp="1480685125749">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1480963274372">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" timestamp="1481023709734">
+        <mark key="'" line="26" column="38" />
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481198139653">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="39" />
+        <mark key="^" line="19" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481107032986">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.routes.ts" timestamp="1481202102566">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
+        <mark key="[" line="4" column="10" />
+      </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/index.html" timestamp="1480675541864">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="97" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="97" />
+      </file>
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.ts" timestamp="1481201445597">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="26" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/NavbarController.js" timestamp="1479729019671">
         <mark key="[" line="170" column="36" />
@@ -200,31 +229,17 @@
         <mark key="^" line="290" column="41" />
         <mark key="." line="290" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/debugging-webpack/webpack.config.js" timestamp="1480591864111">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1481024494257">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481198865572">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" timestamp="1481202407922">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="63" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-one.component.ts" timestamp="1480939242747">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="11" column="32" />
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481197052818">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -268,46 +283,47 @@
       <jump line="33" column="53" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="26" column="38" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="20" column="55" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" />
+      <jump line="11" column="20" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HomeComponent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YF0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>HomeComponent</text>
+        <text>, ContactsComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWaWV3Q2hpbGRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGEgcm91dGVyTGluaz0iIj5Ib21lPC9hPgo=</text>
+        <text encoding="base64">YF0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21tb25Nb2R1bGV9IGZyb20gIkBhbmd1bGFyL2NvbW1vbiIK</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVyczogW10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdG9yOiAnc2VsZWN0b3InLAo=</text>
+        <text encoding="base64">ICAgIGV4cG9ydHM6IFtdLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gIi4vLmNvbXBvbmVudCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnZzY29kZS8K</text>
+        <text encoding="base64">LCBSb3V0ZXJNb2R1bGUuZm9yQ2hpbGQocm91dGVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Y29uc3Qgcm91dGVzID0gWwogICAge3BhdGg6JycsIGNvbXBvbmVudDogSG9tZUNvbXBvbmVudH0KXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmYzE0OGM4Li4uIGRlbGV0ZSBqcyBhbmQgbWFwIGZpbGVzIQo=</text>
+        <text encoding="base64">aW1wb3J0IHtDb21tb25Nb2R1bGV9IGZyb20gIkBhbmd1bGFyL2NvbW1vbiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdG9yOiAnc2VsZWN0b3InLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFwcFJvdXRlcwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgcm91dGVzID0gWwogICAge3BhdGg6ICcnLCBjb21wb25lbnQ6IEhvbWVDb21wb25lbnR9Cl07Cg==</text>
+        <text encoding="base64">LnZzY29kZS8K</text>
       </register>
     </registers>
     <search>
