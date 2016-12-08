@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -30,12 +34,14 @@
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="alt k" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
