@@ -208,12 +208,12 @@
       <file name="/Dummy.txt" timestamp="1481269853468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" timestamp="1481271320188">
-        <mark key="'" line="16" column="67" />
-        <mark key="[" line="29" column="81" />
-        <mark key="]" line="29" column="85" />
-        <mark key="." line="29" column="85" />
-        <mark key="^" line="29" column="85" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" timestamp="1481276024360">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.routes.ts" timestamp="1481203195035">
         <mark key="[" line="5" column="29" />
@@ -344,46 +344,48 @@
       <jump line="26" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
       <jump line="24" column="12" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
       <jump line="16" column="67" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
+      <jump line="12" column="14" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
+      <jump line="10" column="22" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7KGNvbnRhY3QkIHwgYXN5bmMpLmltYWdlfX0K</text>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text>rc=</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
       </register>
       <register name="0" type="4">
-        <text>contact {{(contact$ | async).name}}</text>
+        <text>(contact$ | async)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
+        <text encoding="base64">ICAgIHt7KGNvbnRhY3QkIHwgYXN5bmMpLmltYWdlfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
+        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3RhcnRXaXRoCg==</text>
+        <text encoding="base64">IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
+        <text encoding="base64">c3RhcnRXaXRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAubWFwKHJlcyA9PiByZXMuanNvbigpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRhY3Qge3soY29udGFjdCQgfCBhc3luYyk/Lm5hbWV9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAubWFwKHJlcyA9PiByZXMuanNvbigpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnRhY3Qge3soY29udGFjdCQgfCBhc3luYyk/Lm5hbWV9fQo=</text>
       </register>
     </registers>
     <search>
