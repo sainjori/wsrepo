@@ -192,10 +192,10 @@
         <mark key="^" line="46" column="30" />
         <mark key="." line="46" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481267688501">
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" timestamp="1481268999422">
         <mark key="'" line="9" column="19" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="4" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="62" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
@@ -205,15 +205,15 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481267770319">
+      <file name="/Dummy.txt" timestamp="1481269853468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" timestamp="1481208638630">
-        <mark key="'" line="15" column="37" />
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="31" />
+      <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" timestamp="1481271320188">
+        <mark key="'" line="16" column="67" />
+        <mark key="[" line="29" column="81" />
+        <mark key="]" line="29" column="85" />
+        <mark key="." line="29" column="85" />
+        <mark key="^" line="29" column="85" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.routes.ts" timestamp="1481203195035">
         <mark key="[" line="5" column="29" />
@@ -340,46 +340,50 @@
       <jump line="13" column="18" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
       <jump line="9" column="19" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
+      <jump line="18" column="12" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
+      <jump line="24" column="12" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
+      <jump line="16" column="67" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhIFtyb3V0ZXJMaW5rXT0iY29udGFjdC5pZCI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>img</text>
       </register>
       <register name="-" type="4">
-        <text>routerLinkActive</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhIFtyb3V0ZXJMaW5rXT0iY29udGFjdC5pZCI+Cg==</text>
+      <register name="0" type="4">
+        <text>contact {{(contact$ | async).name}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAge3tjb250YWN0Lm5hbWV9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaGlzIGlzIGEgY29udGFjdHMgY29tcG9uZW50Cg==</text>
+        <text encoding="base64">IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">c3RhcnRXaXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMDkuMTIuMjAxNi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJmaWxlcyI6IFsiLi9zcmMvKiovKi57aHRtbCxodG0sY3NzLGpzfSJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAubWFwKHJlcyA9PiByZXMuanNvbigpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXIiOiB7ICJiYXNlRGlyIjogIi4vc3JjIiB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRhY3Qge3soY29udGFjdCQgfCBhc3luYyk/Lm5hbWV9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGV4dCA9ICB7dGVzdH0gOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
