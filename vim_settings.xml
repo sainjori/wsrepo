@@ -30,6 +30,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481540020275">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+      </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" timestamp="1480676106847">
         <mark key="'" line="41" column="13" />
         <mark key="[" line="5" column="2" />
@@ -62,6 +68,12 @@
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
       </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/.gitignore" timestamp="1481538338337">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+      </file>
       <file name="C:/++Monitoring/dsc-monitoring/.gitignore" timestamp="1479894414646">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="9" column="5" />
@@ -90,6 +102,9 @@
         <mark key="]" line="4" column="12" />
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
+        <mark key="[" line="6" column="19" />
       </file>
       <file name="/" timestamp="1481205554256">
         <mark key="[" line="0" column="0" />
@@ -205,6 +220,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481539975149">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+      </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="39" />
@@ -220,10 +241,10 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.component.html" timestamp="1481538210594">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.component.html" timestamp="1481538389257">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
@@ -352,44 +373,44 @@
       <jump line="10" column="22" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGgzPgogIEFuZ3VsYXIgMiBTZWVkCjwvaDM+CjxuYXY+Cgk8YSBbcm91dGVyTGlua109IlsnLyddIj4KICAgIEhvbWUKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9hYm91dCddIj4KICAgIEFib3V0CiAgPC9hPgogIHwKCTxhIFtyb3V0ZXJMaW5rXT0iWycvZ2l0aHViJywgJ2FuZ3VsYXInXSI+CiAgICBHaXRodWIgUmVwb3MKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9jb250YWN0J10iPgogICAgQ29udGFjdCBVcwogIDwvYT4KPC9uYXY+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPkVuZ2xpc2g8L29wdGlvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1pbmxpbmUgLS1wcm9ncmVzcyAtLWNvcnMg</text>
+        <text>First Name</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
       </register>
-      <register name="0" type="4">
-        <text>{name: &quot;loading...&quot;, image: ''}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJhZGlvIj4KICAgICAgPGxhYmVsPgogICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0icGF5LXR5cGUiIHZhbHVlPSJ3MiI+CiAgICAgICAgVzIKICAgICAgPC9sYWJlbD4KICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGgzPgogIEFuZ3VsYXIgMiBTZWVkCjwvaDM+CjxuYXY+Cgk8YSBbcm91dGVyTGlua109IlsnLyddIj4KICAgIEhvbWUKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9hYm91dCddIj4KICAgIEFib3V0CiAgPC9hPgogIHwKCTxhIFtyb3V0ZXJMaW5rXT0iWycvZ2l0aHViJywgJ2FuZ3VsYXInXSI+CiAgICBHaXRodWIgUmVwb3MKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9jb250YWN0J10iPgogICAgQ29udGFjdCBVcwogIDwvYT4KPC9uYXY+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPkVuZ2xpc2g8L29wdGlvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogImxvYWRpbmcuLi4iLCBpbWFnZTogJyd9KTsK</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPk90aGVyPC9vcHRpb24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHt7KGNvbnRhY3QkIHwgYXN5bmMpLmltYWdlfX0K</text>
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIiPlNwYW5pc2g8L29wdGlvbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IGlkPSJmaXJzdE5hbWVJZCIgY2xhc3M9ImZvcm0tY29udHJvbCIgdHlwZT0idGV4dCIgcmVxdWlyZWQgcGxhY2Vob2xkZXI9Ik5hbWUiIG5hbWU9Im5hbWUiIG5nTW9kZWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0iZmlyc3ROYW1lSWQiPkZpcnN0IE5hbWU8L2xhYmVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IjsK</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgbmFtZT0iaXMtZnVsbC10aW1lIiBuZ21vZGVsIHR5cGU9ImNoZWNrYm94Ij4gRnVsbCBUaW1lIEVtcGxveWVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhcnRXaXRoCg==</text>
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB0eXBlPSJzdWJtaXQiPk9LPC9idXR0b24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
+        <text encoding="base64">ICAgICAgPGlucHV0IHR5cGU9InRleHQiIHJlcXVpcmVkIHBsYWNlaG9sZGVyPSJOYW1lIiBuYW1lPSJuYW1lIiBuZ01vZGVsPgogICAgIG5nTW9kZWwgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB0eXBlPSJzdWJtaXQiPk9LPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3tmb3JtLnByaXN0aW5lfX0K</text>
       </register>
     </registers>
     <search>
