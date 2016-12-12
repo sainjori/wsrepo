@@ -30,12 +30,12 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481568853191">
-        <mark key="'" line="44" column="39" />
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481571240566">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" timestamp="1480676106847">
         <mark key="'" line="41" column="13" />
@@ -230,12 +230,11 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481565443769">
-        <mark key="'" line="8" column="46" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="31" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481571412799">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -266,11 +265,11 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" timestamp="1481559294842">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="35" column="13" />
-        <mark key="^" line="35" column="13" />
-        <mark key="." line="35" column="13" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" timestamp="1481570337527">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/index.html" timestamp="1480675541864">
         <mark key="[" line="9" column="97" />
@@ -406,52 +405,53 @@
       <jump line="76" column="8" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="39" column="39" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
       <jump line="7" column="46" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW2RhdGVwaWNrZXJNb2RlXT0iJ21vbnRoJyIK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>= new Date('Jan 1 2017');</text>
       </register>
       <register name="/" type="4">
-        <text>ngMo</text>
+        <text>%dd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZXh0cmFjdERhdGEocmVzOlJlc3BvbnNlKXsKICAgICAgbGV0IGJvZHkgPSByZXMuanNvbigpOwogICAgICByZXR1cm4gYm9keS5maWVsZHMgfHwge307CiAgICB9Cg==</text>
+        <text encoding="base64">LyogIHN0YXJ0RGF0ZSA9IG5ldyBEYXRlKCdKYW4gMSAyMDE3Jyk7Ki8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMz5DbGFzc2VzPC9oMz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2RhdGVwaWNrZXJNb2RlXT0iJ21vbnRoJyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoND57e2ZpcnN0TmFtZS5jbGFzc05hbWV9fTwvaDQ+Cg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0RGF0ZSA9IG5ldyBEYXRlKCdKYW4gMSAyMDE3Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgzICpuZ0lmPSJsYW5ndWFnZXMubGVuZ3RoID09IDAiPkxvYWRpbmcuLi48L2gzPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIiAqbmdJZj0ibGFuZ3VhZ2VzLmxlbmd0aCA+IDAiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8aDM+QW5ndWxhciAyIEZvcm1zPC9oMz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coIjEyLjEyLjIwMTY6ICIsIDEyLjEyLjIwMTYpOwo=</text>
+        <text encoding="base64">ICA8Zm9ybSAoc3VibWl0KT0ic3VibWl0Rm9ybShmb3JtKSIgI2Zvcm09Im5nRm9ybSIgbm92YWxpZGF0ZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGdhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxoMz57e2Zvcm0udmFsaWR9fTwvaDM+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIFtjbGFzcy5oYXMtZXJyb3JdPSJmaXJzdE5hbWUuaW52YWxpZCAmJiBmaXJzdE5hbWUudG91Y2hlZCI+Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>ngMo</last-search>
+      <last-search>%dd</last-search>
       <last-offset />
-      <last-pattern>ngMo</last-pattern>
+      <last-pattern>%dd</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -463,6 +463,7 @@
         <entry encoding="base64">XDxWaWV3Q2hpbGRcPg==</entry>
         <entry>active</entry>
         <entry>ngMo</entry>
+        <entry>%dd</entry>
       </history-search>
       <history-cmd />
       <history-expr />
