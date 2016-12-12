@@ -18,6 +18,12 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/package.json" timestamp="1481537713443">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/app.module.ts" timestamp="1481201600952">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="30" />
@@ -160,7 +166,6 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/sandbox/pluralsightNg2Forms/README.md" timestamp="1481537282402" />
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-two.component.ts" timestamp="1480686036254">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="33" />
@@ -214,6 +219,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="36" />
+      </file>
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.component.html" timestamp="1481538210594">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
@@ -343,10 +353,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5jb250YWN0JCA9IA==</text>
+        <text encoding="base64">PGgzPgogIEFuZ3VsYXIgMiBTZWVkCjwvaDM+CjxuYXY+Cgk8YSBbcm91dGVyTGlua109IlsnLyddIj4KICAgIEhvbWUKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9hYm91dCddIj4KICAgIEFib3V0CiAgPC9hPgogIHwKCTxhIFtyb3V0ZXJMaW5rXT0iWycvZ2l0aHViJywgJ2FuZ3VsYXInXSI+CiAgICBHaXRodWIgUmVwb3MKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9jb250YWN0J10iPgogICAgQ29udGFjdCBVcwogIDwvYT4KPC9uYXY+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5jb250YWN0JCA9IA==</text>
+        <text encoding="base64">LS1pbmxpbmUgLS1wcm9ncmVzcyAtLWNvcnMg</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
@@ -354,32 +364,32 @@
       <register name="0" type="4">
         <text>{name: &quot;loading...&quot;, image: ''}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogImxvYWRpbmcuLi4iLCBpbWFnZTogJyd9KTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGgzPgogIEFuZ3VsYXIgMiBTZWVkCjwvaDM+CjxuYXY+Cgk8YSBbcm91dGVyTGlua109IlsnLyddIj4KICAgIEhvbWUKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9hYm91dCddIj4KICAgIEFib3V0CiAgPC9hPgogIHwKCTxhIFtyb3V0ZXJMaW5rXT0iWycvZ2l0aHViJywgJ2FuZ3VsYXInXSI+CiAgICBHaXRodWIgUmVwb3MKICA8L2E+CiAgfAoJPGEgW3JvdXRlckxpbmtdPSJbJy9jb250YWN0J10iPgogICAgQ29udGFjdCBVcwogIDwvYT4KPC9uYXY+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7KGNvbnRhY3QkIHwgYXN5bmMpLmltYWdlfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogImxvYWRpbmcuLi4iLCBpbWFnZTogJyd9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
+        <text encoding="base64">ICAgIHt7KGNvbnRhY3QkIHwgYXN5bmMpLmltYWdlfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
+        <text encoding="base64">aW1wb3J0ICJyeGpzL2FkZC9vcGVyYXRvci87Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0YXJ0V2l0aCh7bmFtZTogJ0xvYWRpbmcuLi4nfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhcnRXaXRoCg==</text>
+        <text encoding="base64">IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
+        <text encoding="base64">c3RhcnRXaXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAuc3RhcnRXaXRoKHtuYW1lOiAnTG9hZGluZy4uLid9KWQvL2F1Y2gge25hbWU6ICcnfSBt9mdsaWNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAubWFwKHJlcyA9PiByZXMuanNvbigpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
