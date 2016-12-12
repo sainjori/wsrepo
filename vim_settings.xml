@@ -220,12 +220,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481548673384">
-        <mark key="'" line="21" column="29" />
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="85" />
-        <mark key="." line="3" column="47" />
-        <mark key="^" line="3" column="46" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481549701521">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zmlyc3ROYW1lLmludmFsaWQgJiYgZmlyc3ROYW1lLnRvdWNoZWQ=</text>
+        <text encoding="base64">Y2xhc3M9Imhhcy1lcnJvciIg</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">Y2xhc3M9Imhhcy1lcnJvciIg</text>
       </register>
       <register name="/" type="4">
         <text>ngMo</text>
