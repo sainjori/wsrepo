@@ -30,11 +30,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481545148005">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="60" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481548479874">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" timestamp="1480676106847">
         <mark key="'" line="41" column="13" />
@@ -220,11 +220,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481545903466">
-        <mark key="'" line="20" column="29" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481548673384">
+        <mark key="'" line="21" column="29" />
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="85" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="46" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -385,44 +386,44 @@
       <jump line="18" column="29" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Zmlyc3ROYW1lLmludmFsaWQgJiYgZmlyc3ROYW1lLnRvdWNoZWQ=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>ngMo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgaXNGdWxsVGltZTogYm9vbGVhbiwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">Zmlyc3ROYW1lLmludmFsaWQgJiYgZmlyc3ROYW1lLnRvdWNoZWQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
+        <text encoding="base64">ICAgICAgPGRpdj50ZXN0PC9kaXY+ZGQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBheS10eXBlIiB2YWx1ZT0iMTA5OSIK</text>
+        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBheS10eXBlIiB2YWx1ZT0iMTA5OSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaXJzdE5hbWVUb1VwcGVyQ2FzZSh2YWx1ZTpzdHJpbmcpewogICAgaWYodmFsdWUubGVuZ3RoID4gMCl7CiAgICAgIHRoaXMubW9kZWwuZmlyc3ROYW1lID0gdmFsdWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyB2YWx1ZS5zbGljZSgxKTsKICAgIH1lbHNlIHsKICAgICAgdGhpcy5tb2RlbC5maXJzdE5hbWUgPSB2YWx1ZTsKICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSAgICAgIFsobmdNb2RlbCldPSJtb2RlbC5maXJzdE5hbWUiLS0+Cg==</text>
+        <text encoding="base64">ICBmaXJzdE5hbWVUb1VwcGVyQ2FzZSh2YWx1ZTpzdHJpbmcpewogICAgaWYodmFsdWUubGVuZ3RoID4gMCl7CiAgICAgIHRoaXMubW9kZWwuZmlyc3ROYW1lID0gdmFsdWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyB2YWx1ZS5zbGljZSgxKTsKICAgIH1lbHNlIHsKICAgICAgdGhpcy5tb2RlbC5maXJzdE5hbWUgPSB2YWx1ZTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFtuZ01vZGVsXT0ibW9kZWwuZmlyc3ROYW1lIgogICAgICAgICAgICAgKG5nTW9kZWxDaGFuZ2UpPSJmaXJzdE5hbWVUb1VwcGVyQ2FzZSgkZXZlbnQpIgo=</text>
+        <text encoding="base64">PCEtLSAgICAgIFsobmdNb2RlbCldPSJtb2RlbC5maXJzdE5hbWUiLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFsobmdNb2RlbCldPSJtb2RlbC5maXJzdE5hbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIFtuZ01vZGVsXT0ibW9kZWwuZmlyc3ROYW1lIgogICAgICAgICAgICAgKG5nTW9kZWxDaGFuZ2UpPSJmaXJzdE5hbWVUb1VwcGVyQ2FzZSgkZXZlbnQpIgo=</text>
       </register>
     </registers>
     <search>
