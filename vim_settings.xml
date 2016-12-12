@@ -30,11 +30,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481548479874">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" timestamp="1481552620002">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="11" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/simple-form/simple-form.component.ts" timestamp="1480676106847">
         <mark key="'" line="41" column="13" />
@@ -220,12 +220,12 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481549701521">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" timestamp="1481552898379">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="73" column="61" />
+        <mark key="]" line="74" column="19" />
+        <mark key="." line="74" column="19" />
+        <mark key="^" line="74" column="19" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/directives/digitalValueDirective.js" timestamp="1479734149392">
         <mark key="[" line="19" column="32" />
@@ -387,43 +387,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3M9Imhhcy1lcnJvciIg</text>
+        <text>event</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M9Imhhcy1lcnJvciIg</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>ngMo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Zmlyc3ROYW1lLmludmFsaWQgJiYgZmlyc3ROYW1lLnRvdWNoZWQ=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5oYXNQcmltYXJ5TGFuZ3VhZ2VFcnJvciA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj50ZXN0PC9kaXY+ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIChibHVyKT0idmFsaWRhdGVQcmltYXJ5TGFuZ3VhZ2UoJGV2ZW50KSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBheS10eXBlIiB2YWx1ZT0iMTA5OSIK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coYnlhLCAxMi4xMi4yMDE2ICIxMi4xMi4yMDE2OiAiLCAxMi4xMi4yMDE2KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5nYmx1Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPGRpdj50ZXN0PC9kaXY+ZGQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaXJzdE5hbWVUb1VwcGVyQ2FzZSh2YWx1ZTpzdHJpbmcpewogICAgaWYodmFsdWUubGVuZ3RoID4gMCl7CiAgICAgIHRoaXMubW9kZWwuZmlyc3ROYW1lID0gdmFsdWUuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyB2YWx1ZS5zbGljZSgxKTsKICAgIH1lbHNlIHsKICAgICAgdGhpcy5tb2RlbC5maXJzdE5hbWUgPSB2YWx1ZTsKICAgIH0K</text>
+        <text encoding="base64">PHByZT4gICAge3tmaXJzdE5hbWUgfCBqc29ufX08L3ByZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLSAgICAgIFsobmdNb2RlbCldPSJtb2RlbC5maXJzdE5hbWUiLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InBheS10eXBlIiB2YWx1ZT0iMTA5OSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIFtuZ01vZGVsXT0ibW9kZWwuZmlyc3ROYW1lIgogICAgICAgICAgICAgKG5nTW9kZWxDaGFuZ2UpPSJmaXJzdE5hbWVUb1VwcGVyQ2FzZSgkZXZlbnQpIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
