@@ -88,11 +88,6 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.module.js" timestamp="1481203031625">
         <mark key="[" line="8" column="109" />
         <mark key="]" line="8" column="3" />
@@ -114,7 +109,7 @@
       <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.css" timestamp="1481559491310">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481640837029">
+      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481643409899">
         <mark key="'" line="22" column="48" />
         <mark key="[" line="22" column="22" />
         <mark key="]" line="22" column="48" />
@@ -150,22 +145,17 @@
         <mark key="^" line="40" column="46" />
         <mark key="." line="49" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/bs-config.json" timestamp="1481266227429">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/services/services.module.ts" timestamp="1480681722131">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="7" column="36" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481640869433">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="54" />
-        <mark key="." line="0" column="54" />
-        <mark key="^" line="0" column="54" />
+      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481643975182">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="44" />
+        <mark key="." line="2" column="44" />
+        <mark key="^" line="2" column="44" />
       </file>
       <file name="$USER_HOME$/sandbox/debugging-webpack/webpack.config.js" timestamp="1480591864111">
         <mark key="[" line="1" column="14" />
@@ -175,11 +165,6 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481197052818">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.module.ts" timestamp="1481201074810">
         <mark key="[" line="6" column="26" />
@@ -223,29 +208,14 @@
       <file name="/fragment.ts" timestamp="1481202196581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/my-bs-config.js" timestamp="1481265950113">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-two.component.ts" timestamp="1480686036254">
         <mark key="[" line="16" column="28" />
         <mark key="]" line="16" column="33" />
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="33" />
       </file>
-      <file name="/Angular2HTML Fragment (home.component.ts:149).html" timestamp="1480685125749">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
       <file name="/JavaScript Console" timestamp="1481642450962">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/package.json" timestamp="1481266208011">
         <mark key="[" line="5" column="58" />
@@ -302,17 +272,14 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/app.component.html" timestamp="1481538389257">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481641372219">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481643340899">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+        <mark key="^" line="60" column="4" />
       </file>
       <file name="/kibana-dashboard.component.ts" timestamp="1481640604704" />
+      <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481643649620" />
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
       </file>
@@ -471,11 +438,11 @@
       <jump line="22" column="48" filename="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vc2VydmljZXMvS2liYW5hRGFzaGJvYXJkU2VydmljZSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aHR0cDovL3ZtLWdyYWZhbmEuZHNjc2FnLm5ldDo1NjAxL2FwcC9raWJhbmEjL2Rhc2hib2FyZD9lbWJlZD10cnVlJl9nPShyZWZyZXNoSW50ZXJ2YWw6KGRpc3BsYXk6T2ZmLHBhdXNlOiFmLHZhbHVlOjApLHRpbWU6KGZyb206bm93JTJGZCxtb2RlOnF1aWNrLHRvOm5vdykp</text>
       </register>
       <register name="-" type="4">
-        <text>Dashboard</text>
+        <text encoding="base64">aHR0cDovL3ZtLWdyYWZhbmEuZHNjc2FnLm5ldDo1NjAxL2FwcC9raWJhbmEjL2Rhc2hib2FyZD9lbWJlZD10cnVlJl9nPShyZWZyZXNoSW50ZXJ2YWw6KGRpc3BsYXk6T2ZmLHBhdXNlOiFmLHZhbHVlOjApLHRpbWU6KGZyb206bm93JTJGZCxtb2RlOnF1aWNrLHRvOm5vdykp</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
@@ -483,13 +450,16 @@
       <register name="0" type="4">
         <text>dashboardUrl</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vc2VydmljZXMvS2liYW5hRGFzaGJvYXJkU2VydmljZSc7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGNoaWxkcmVuOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHBhdGg6ICdkYXNoYm9hcmQnLAogICAgICAgICAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2Rhc2hib2FyZC9kYXNoYm9hcmQubW9kdWxlI0Rhc2hib2FyZE1vZHVsZScKICAgICAgICAgICAgfQogICAgICAgIF0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4vc2VydmljZXMvS2liYW5hRGFzaGJvYXJkU2VydmljZSc7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
         path:'kibana',
         component:FullLayoutComponent,
@@ -499,23 +469,20 @@
         loadChildren: 'app/dashboard/dashboard.module#DashboardModule'
     },</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG5nT25Jbml0KCk6IHZvaWQgewogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTMuMTIuMjAxNi4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fS8qKgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PHA+RGFzaGJvYXJkcyBjb21pbmcgc29vbi4uLjwvcD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPkN1c3RvbWVyczwvaDE+Cg==</text>
+        <text encoding="base64">PHA+RGFzaGJvYXJkcyBjb21pbmcgc29vbi4uLjwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
