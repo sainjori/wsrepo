@@ -162,6 +162,12 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
+      <file name="$USER_HOME$/sandbox/playByPlayAng2RestRxjs/config/config.development.json" timestamp="1481635896361">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/index.html" timestamp="1481209835693">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="51" />
@@ -202,7 +208,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1481205772076">
+      <file name="/JavaScript Console" timestamp="1481636807589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
@@ -415,46 +421,50 @@
       <jump line="26" column="24" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" />
       <jump line="5" column="62" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="6" column="25" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
+      <jump line="22" column="69" filename="$USER_HOME$/sandbox/playByPlayAng2RestRxjs/app/shared/services/data.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hover</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>hover</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBob3Zlcih2YWx1ZSl7CiAgICBjb25zb2xlLmxvZygiaG92ZXI6ICIsIHZhbHVlKTsKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9tYXAnOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgCmZvcj0iIg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">PGgxPkN1c3RvbWVyczwvaDE+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuZ0NsYXNzPSIiCg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTaW5nbGUgVG9nZ2xlCg==</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiIFtoaWRkZW5dPSIhZXJyb3JNZXNzYWdlIj57eyBlcnJvck1lc3NhZ2UgfX08L3NwYW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD4gICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3Nob3dXZWVrc109ImZhbHNlIgogICAgICAgICAgICBbbWluRGF0ZV09Im1pbkRhdGUiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2RhdGVwaWNrZXJNb2RlXT0iJ21vbnRoJyIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0RGF0ZSA9IG5ldyBEYXRlKCdKYW4gMSAyMDE3Jyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8YnIgLz4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgKGNsaWNrKT0iZWRpdElkPTAiPkNhbmNlbDwvc3Bhbj4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgzICpuZ0lmPSJsYW5ndWFnZXMubGVuZ3RoID09IDAiPkxvYWRpbmcuLi48L2gzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyIgKGNsaWNrKT0ic2F2ZShjdXN0b21lcikiPlNhdmU8L3NwYW4+Jm5ic3A7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%d</text>
       </register>
     </registers>
     <search>
@@ -476,7 +486,11 @@
         <entry>style</entry>
         <entry>1099</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>%d</entry>
+        <entry>dd</entry>
+        <entry>d</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
