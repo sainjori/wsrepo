@@ -19,12 +19,15 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481657890489">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481660366013">
         <mark key="'" line="4" column="28" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
+        <mark key="[" line="4" column="75" />
+        <mark key="]" line="4" column="75" />
+        <mark key="^" line="4" column="62" />
+        <mark key="." line="4" column="75" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.scss" timestamp="1481658771265">
+        <mark key="[" line="1" column="18" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481643409899">
         <mark key="'" line="22" column="48" />
@@ -59,11 +62,11 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481657930111">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481659585953">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="40" column="4" />
+        <mark key="." line="40" column="4" />
+        <mark key="^" line="38" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481656766452">
         <mark key="[" line="13" column="21" />
@@ -227,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kkkk</text>
+        <text>[height]=&quot;iframeHeight&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>kkkk</text>
+        <text>[height]=&quot;iframeHeight&quot;</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
