@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481710031884">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481711854791">
         <mark key="'" line="4" column="28" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="76" />
+        <mark key="." line="5" column="76" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.scss" timestamp="1481658771265">
         <mark key="[" line="1" column="18" />
@@ -263,16 +263,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[style.height]=&quot;iframeStyleHeight&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>[style.height]=&quot;iframeStyleHeight&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmcmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdpZnJhbWUnKTsK</text>
+        <text encoding="base64">PGlmcmFtZSAgc3R5bGU9IndpZHRoOiAxMDAlOyBoZWlnaHQ6IDEwMCU7IHBvc2l0aW9uOiBhYnNvbHV0ZSIgW3NyY109InVybCIgIFt3aWR0aF09ImlmcmFtZVdpZHRoIiBmcmFtZUJvcmRlcj0iMCIgc2Nyb2xsaW5nPSJubyI+PC9pZnJhbWU+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">e3tpZnJhbWVTdHlsZUhlaWdodH19Cg==</text>
