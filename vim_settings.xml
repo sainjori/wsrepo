@@ -62,11 +62,11 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481659585953">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="4" />
-        <mark key="." line="40" column="4" />
-        <mark key="^" line="38" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481707238288">
+        <mark key="[" line="31" column="26" />
+        <mark key="]" line="31" column="44" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481656766452">
         <mark key="[" line="13" column="21" />
@@ -230,49 +230,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[height]=&quot;iframeHeight&quot;</text>
+        <text>resizeIframe</text>
       </register>
       <register name="-" type="4">
-        <text>[height]=&quot;iframeHeight&quot;</text>
+        <text>resizeIframe</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDonOm5hbWUnLAogICAgICAgICAgICAgICAgY29tcG9uZW50OiBEYXNoYm9hcmRDb21wb25lbnQKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmcmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdpZnJhbWUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkRGFzaGJvYXJkRGF0YShwYXJhbXNbJ25hbWUnXSkK</text>
+        <text encoding="base64">ICAgIGlmcmFtZVdpZHRoID0gJzEwMCUnOwogICAgaWZyYW1lSGVpZ2h0ID0gJzEwMCUnOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmcmFtZSA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdpZnJhbWUnKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkRGFzaGJvYXJkRGF0YShwYXJhbXNbJ25hbWUnXSkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsKICAgICAgICBwYXRoOiAnJywKICAgICAgICByZWRpcmVjdFRvOidkYXNoYm9hcmQnLAogICAgICAgIHBhdGhNYXRjaDogJ2Z1bGwnCiAgICB9LA==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
         path: 'kibana',
         redirectTo:'dashboard'
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>component: DashboardComponent,
         data: {
             title: 'Dashboard'
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNhbmkgPSB0aGlzLnNhbml0aXplcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhbmk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNhbmkgPSB0aGlzLnNhbml0aXplcjsK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
