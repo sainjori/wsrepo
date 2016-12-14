@@ -77,9 +77,11 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481723354078">
-        <mark key="[" line="24" column="0" />
-        <mark key="^" line="0" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481727293595">
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="5" column="75" />
+        <mark key="^" line="5" column="75" />
+        <mark key="." line="5" column="75" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1481722365775">
         <mark key="[" line="21" column="55" />
@@ -270,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dashboard1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
