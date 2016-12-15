@@ -6,12 +6,12 @@
       <file name="/fragment.js" timestamp="1480961819083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481813246270">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481816032320">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1481286351307">
+      <file name="/a.dummy" timestamp="1481816453187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
@@ -57,6 +57,9 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481816194160">
+        <mark key="[" line="9" column="30" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/dist/out-tsc/src/app/administration/midways/midways.component.js" timestamp="1481812689322">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="0" />
@@ -68,7 +71,7 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481276786635">
+      <file name="/Dummy.txt" timestamp="1481816453211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
@@ -116,11 +119,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481805909170">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="^" line="16" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481816310502">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1481722777433">
         <mark key="[" line="86" column="33" />
@@ -170,9 +173,9 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481805324529">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481816259826">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="4" />
+        <mark key="[" line="35" column="14" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
@@ -289,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiZWxlbWVudCJdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -301,33 +304,31 @@
         <text>variables[0].preferenceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="4">
-        <text>&quot;rulesDirectory&quot;: [
-    &quot;node_modules/codelyzer&quot;
-  ],</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJuby11bnVzZWQtdmFyaWFibGUiOiB0cnVlLAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiZWxlbWVudCJdLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiYXR0cmlidXRlIl0sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItbmFtZSI6IFt0cnVlLCAia2ViYWItY2FzZSJdLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItbmFtZSI6IFt0cnVlLCAiY2FtZWxDYXNlIl0sCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItcHJlZml4IjogW3RydWUsICJhcHAiXSwK</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItcHJlZml4IjogW3RydWUsICJhcHAiXSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJuby11bnJlYWNoYWJsZSI6IHRydWUsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUta2V5IjogdHJ1ZSwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJsYWJlbC11bmRlZmluZWQiOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
