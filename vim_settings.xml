@@ -6,11 +6,11 @@
       <file name="/fragment.js" timestamp="1480961819083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481801415976">
-        <mark key="[" line="51" column="5" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
-        <mark key="^" line="51" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481807270926">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1481286351307">
         <mark key="[" line="0" column="0" />
@@ -19,12 +19,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/main.ts" timestamp="1481642225057" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/scss/_custom.scss" timestamp="1481730071094">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="32" />
-      </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/tsconfig.json" timestamp="1481038186015">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -35,9 +29,6 @@
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.css" timestamp="1481559491310">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481715469443">
         <mark key="[" line="0" column="0" />
@@ -91,8 +82,11 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481729596631">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1481805324529">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1481722365775">
         <mark key="[" line="21" column="55" />
@@ -102,7 +96,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/package.json" timestamp="1481721317294" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481722317757">
         <mark key="[" line="61" column="24" />
         <mark key="]" line="13" column="21" />
@@ -158,7 +151,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481729101519">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481805909170">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
@@ -187,7 +180,6 @@
       <file name="/app.routing.ts" timestamp="1481639913642" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/++Monitoring/dashboard/public/stylesheets/main.css" />
       <jump line="70" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/DashboardController.js" />
       <jump line="93" column="13" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/DashboardController.js" />
       <jump line="9" column="25" filename="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.component.ts" />
@@ -287,58 +279,56 @@
       <jump line="44" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="24" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
+      <jump line="2" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>no-unused-variable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiZWxlbWVudCJdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>no-unused-variable</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>1099</text>
+        <text>\</text>
       </register>
       <register name="0" type="4">
         <text>variables[0].preferenceValue</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                throw new Error(&quot;Base url not set&quot;);
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiZWxlbWVudCJdLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByCg==</text>
+        <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItdHlwZSI6IFt0cnVlLCAiYXR0cmlidXRlIl0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItbmFtZSI6IFt0cnVlLCAia2ViYWItY2FzZSJdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYmFzZVVybCA9IHZhcmlhYmxlWzBdLnByZWZlcmVuY2VWYWx1ZSA/IHZhcmlhYmxlWzBdLnByZWZlcmVuY2VWYWx1ZSA6IHRocm93cyBuZXcgRXJyb3IoIkJhIikpOwo=</text>
+        <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItbmFtZSI6IFt0cnVlLCAiY2FtZWxDYXNlIl0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZhcmlhYmxlKTsK</text>
+        <text encoding="base64">ICAgICJjb21wb25lbnQtc2VsZWN0b3ItcHJlZml4IjogW3RydWUsICJhcHAiXSwK</text>
       </register>
-      <register name="6" type="4">
-        <text>.no-padding{
-  margin-bottom: 0 !important;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJkaXJlY3RpdmUtc2VsZWN0b3ItcHJlZml4IjogW3RydWUsICJhcHAiXSwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">W25nQ2xhc3NdPSJ7J25vLXBhZGRpbmcnOm5vUGFkZGluZ30iPgogICAgICAgIDxyb3V0ZXItb3V0bGV0Pjwvcm91dGVyLW91dGxldD4KICAgIDwvZGl2</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJub1VudXNlZFBhcmFtZXRlcnMiOiB0cnVlLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHN0eWxlID4KICAgICAgICBib2R5ewogICAgICAgICAgICAvKm92ZXJmbG93OiBoaWRkZW47Ki8KICAgICAgICB9CgogICAgICAgIAogICAgPC9zdHlsZSA+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJuby11bnJlYWNoYWJsZSI6IHRydWUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qZGFzaGJvYXJkVXJsID0gImh0dHA6Ly92bS1ncmFmYW5hLmRzY3NhZy5uZXQ6NTYwMS9hcHAva2liYW5hIy9kYXNoYm9hcmQvbGF0ZXN0X3N0YXRzX2RiP19nPShyZWZyZXNoSW50ZXJ2YWw6KGRpc3BsYXk6T2ZmLHBhdXNlOiFmLHZhbHVlOjApLHRpbWU6KGZyb206bm93JTJGZCxtb2RlOnF1aWNrLHRvOm5vdykpJl9hPShmaWx0ZXJzOiEoKSxvcHRpb25zOihkYXJrVGhlbWU6IWYpLHBhbmVsczohKChjb2w6MSxpZDpSdW5uaW5nLUluc3RhbmNlcyxwYW5lbEluZGV4OjQscm93OjEsc2l6ZV94OjMsc2l6ZV95OjMsdHlwZTp2aXN1YWxpemF0aW9uKSwoY29sOjQsaWQ6Q2xpZW50LUNvdW50LUNoYXJ0LHBhbmVsSW5kZXg6Mixyb3c6MSxzaXplX3g6NCxzaXplX3k6Myx0eXBlOnZpc3VhbGl6YXRpb24pLChjb2w6OCxpZDpUb3RhbC1DbGllbnQtQ291bnQscGFuZWxJbmRleDozLHJvdzoxLHNpemVfeDo0LHNpemVfeTozLHR5cGU6dmlzdWFsaXphdGlvbiksKGNvbDoxLGlkOkNsaWVudC1Db3VudC1UYWJsZSxwYW5lbEluZGV4OjYscm93OjQsc2l6ZV94OjYsc2l6ZV95OjMsdHlwZTp2aXN1YWxpemF0aW9uKSwoY29sOjcsaWQ6UmVsYXRpdmUtYW1vdW50LW9mLWFjdGl2ZS1zbGFzaC1pbmFjdGl2ZS1jbGllbnRzLHBhbmVsSW5kZXg6Nyxyb3c6NCxzaXplX3g6NSxzaXplX3k6Myx0eXBlOnZpc3VhbGl6YXRpb24pKSxxdWVyeToocXVlcnlfc3RyaW5nOihhbmFseXplX3dpbGRjYXJkOiF0LHF1ZXJ5OicqJykpLHRpdGxlOmxhdGVzdF9zdGF0c19kYix1aVN0YXRlOihQLTI6KHZpczooY29sb3JzOignQWN0aXZlJTIwQ2xpZW50cyc6JTIzNTA4NjQyLCdJbmFjdGl2ZSUyMENsaWVudHMnOiUyM0UyNEQ0MiksbGVnZW5kT3BlbjohdCkpLFAtNzoodmlzOihjb2xvcnM6KCdBY3RpdmUlMjBDbGllbnRzJzolMjM1MDg2NDIsJ0luYWN0aXZlJTIwQ2xpZW50cyc6JTIzRTI0RDQyKSxsZWdlbmRPcGVuOiF0KSkpKSI7Ki8K</text>
+        <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUta2V5IjogdHJ1ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>1099</last-search>
+      <last-search>\</last-search>
       <last-offset />
-      <last-pattern>1099</last-pattern>
+      <last-pattern>\</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -353,6 +343,7 @@
         <entry>%dd</entry>
         <entry>style</entry>
         <entry>1099</entry>
+        <entry>\</entry>
       </history-search>
       <history-cmd>
         <entry>%d</entry>

@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="tslintscope" />
-    <option name="defaultScopeName" value="tslintscope" />
-    <option name="SEARCH_SCOPE" value="tslintscope" />
+    <option name="customScope" value="mytslintCodeScope" />
+    <option name="defaultScopeName" value="mytslintCodeScope" />
+    <option name="SEARCH_SCOPE" value="mytslintCodeScope" />
   </component>
 </application>
