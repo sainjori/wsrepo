@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="mytslintCodeScope" />
-    <option name="defaultScopeName" value="mytslintCodeScope" />
-    <option name="SEARCH_SCOPE" value="mytslintCodeScope" />
+    <option name="customScope" value="monitoringLintRelevant" />
+    <option name="defaultScopeName" value="monitoringLintRelevant" />
+    <option name="SEARCH_SCOPE" value="monitoringLintRelevant" />
   </component>
 </application>
