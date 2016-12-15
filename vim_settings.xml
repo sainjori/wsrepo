@@ -6,6 +6,12 @@
       <file name="/fragment.js" timestamp="1480961819083">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481801415976">
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1481286351307">
         <mark key="[" line="0" column="0" />
       </file>
@@ -284,12 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>else {
-                throw new Error(&quot;Base url not set&quot;);
-            }</text>
+        <text>no-unused-variable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gImh0dHA6Ly92bS1ncmFmYW5hLmRzY3NhZy5uZXQ6NTYwMS8iOw==</text>
+        <text>no-unused-variable</text>
       </register>
       <register name="/" type="4">
         <text>1099</text>
