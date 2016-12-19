@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1482147106466">
+      <file name="/fragment.js" timestamp="1482162305907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1481816032320">
@@ -24,6 +24,11 @@
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
         <mark key="." line="9" column="21" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana-routing.module.ts" timestamp="1482161721135">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
         <mark key="[" line="39" column="23" />
@@ -100,26 +105,36 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1481722365775">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1482162764476">
         <mark key="[" line="21" column="55" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1482152688027">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1482162800751">
         <mark key="'" line="80" column="37" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="81" column="73" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481197052818">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482158392850">
-        <mark key="[" line="76" column="9" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="76" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482161528100">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1482162040174">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482161274071">
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
+        <mark key="^" line="68" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -147,7 +162,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1482154696603">
+      <file name="/JavaScript Console" timestamp="1482162129059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
@@ -162,17 +177,17 @@
         <mark key="." line="11" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1482145428676" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1481819093380">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1482161650648">
+        <mark key="[" line="39" column="25" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482154857222">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="33" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482160143000">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="15" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/dist/out-tsc/src/app/administration/midways/midways.component.js" timestamp="1481812689322">
         <mark key="[" line="5" column="2" />
@@ -197,11 +212,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481816310502">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1482160890562">
         <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -225,6 +240,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482160582037">
+        <mark key="[" line="5" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481723207994">
         <mark key="[" line="15" column="36" />
@@ -345,11 +363,11 @@
       <jump line="81" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-dashboard</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-dashboard</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
@@ -358,31 +376,45 @@
         <text>variables[0].preferenceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiAnQ2xpZW50ICcgKyByb3V0ZS5wYXJhbXNbJ2NsaWVudE5hbWUnXTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICBwcm92aWRlOiAnZXZlbnRMb2cnLAogICAgICAgICAgICB1c2VWYWx1ZTogKCkgPT4gJ0V2ZW50IExvZycKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgcHJvdmlkZTogJ2NsaWVudEluZm8nLAogICAgICAgICAgICB1c2VWYWx1ZTogKCkgPT4gJ0NsaWVudCBJbmZvJwogICAgICAgIH0s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyZW50LmRhdGFbJ25vUGFkZGluZyddID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgcHJvdmlkZTogJ2V2ZW50TG9nJywKICAgICAgICAgICAgdXNlVmFsdWU6ICgpID0+ICdFdmVudCBMb2cnCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIHByb3ZpZGU6ICdjbGllbnRJbmZvJywKICAgICAgICAgICAgdXNlVmFsdWU6ICgpID0+ICdDbGllbnQgSW5mbycKICAgICAgICB9LA==</text>
+        <text>data: {
+            noPadding: true
+        },</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ6Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>{
+        path: 'maintain',
+        component: MaintainDashboardComponent,
+        data: {
+            title: 'Maintain'
+        }
+    }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>{
+        path: ':name',
+        component: DashboardComponent,
+        resolve: {
+            title: 'dashboarName'
+        }
+    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIERhc2hib2FyZFJvdXRpbmdNb2R1bGUge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6ICdLaWJhbmEnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
