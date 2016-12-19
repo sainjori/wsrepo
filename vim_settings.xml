@@ -108,11 +108,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1482162764476">
         <mark key="[" line="21" column="55" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1482162800751">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" timestamp="1482164296097">
         <mark key="'" line="80" column="37" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="48" />
+        <mark key="." line="31" column="48" />
+        <mark key="^" line="31" column="48" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/.gitignore" timestamp="1481197052818">
         <mark key="[" line="2" column="0" />
@@ -125,10 +126,10 @@
         <mark key="^" line="11" column="25" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1482163532443">
-        <mark key="[" line="50" column="5" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1482164071342">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482161274071">
         <mark key="[" line="68" column="23" />
@@ -162,7 +163,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1482162129059">
+      <file name="/JavaScript Console" timestamp="1482164299724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
@@ -364,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
@@ -376,45 +377,33 @@
         <text>variables[0].preferenceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyZW50LmRhdGFbJ25vUGFkZGluZyddID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hY3RpdmF0ZWRSb3V0ZS5wYXJlbnQucGFyZW50LmNvbXBvbmVudC4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyZW50LmRhdGFbJ25vUGFkZGluZyddID0gdHJ1ZTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>data: {
             noPadding: true
         },</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ6Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>{
-        path: 'maintain',
-        component: MaintainDashboardComponent,
-        data: {
-            title: 'Maintain'
-        }
-    }</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        path: ':name',
-        component: DashboardComponent,
-        resolve: {
-            title: 'dashboarName'
-        }
-    }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGU6ICdLaWJhbmEnLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQ6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
