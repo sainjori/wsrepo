@@ -137,10 +137,11 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="/dashboard-routing.module.ts" timestamp="1482165109171" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482166639526">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482167899916">
         <mark key="[" line="118" column="37" />
-        <mark key="]" line="118" column="37" />
-        <mark key="." line="118" column="37" />
+        <mark key="]" line="142" column="7" />
+        <mark key="." line="142" column="7" />
+        <mark key="^" line="142" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -176,10 +177,11 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482165536675">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482168415771">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
         <mark key="[" line="11" column="20" />
@@ -375,8 +377,8 @@
       <jump line="81" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHNjcm9sbGluZz0ibm8i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibG9nYSIsICsgdGhpcy5hY3RpdmRhdGVkUm91dGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHNjcm9sbGluZz0ibm8i</text>
@@ -387,32 +389,32 @@
       <register name="0" type="4">
         <text>variables[0].preferenceValue</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygibG9nYSIsICsgdGhpcy5hY3RpdmRhdGVkUm91dGUpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICB7CiAgICAgICAgICAgICAgICBwYXRoOiAnJywKICAgICAgICAgICAgICAgIGNvbXBvbmVudDogS2liYW5hQ29tcG9uZW50LAogICAgICAgICAgICAgICAgcGF0aE1hdGNoOiAnZnVsbCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcGF0aDogJ21haW50YWluJywKICAgICAgICAgICAgICAgIGNvbXBvbmVudDogTWFpbnRhaW5EYXNoYm9hcmRDb21wb25lbnQsCiAgICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdNYWludGFpbicKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSw=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBhY3RpdmF0ZWRSb3V0ZS5wYXJlbnQucGFyZW50Lgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8qIHsKICAgICAgICBwYXRoOiAna2liYW5hLWRhc2hib2FyZCcsCiAgICAgICAgY29tcG9uZW50OiBGdWxsTGF5b3V0Q29tcG9uZW50LAogICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgdGl0bGU6ICdLaWJhbmEnLAogICAgICAgICAgICBub1BhZGRpbmc6IHRydWUKICAgICAgICB9LAogICAgICAgIGxvYWRDaGlsZHJlbjogJ2FwcC9kYXNoYm9hcmQvZGFzaGJvYXJkLm1vZHVsZSNEYXNoYm9hcmRNb2R1bGUnCiAgICB9LCov</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hY3RpdmF0ZWRSb3V0ZS5wYXJlbnQucGFyZW50LmNvbXBvbmVudC4K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hY3RpdmF0ZWRSb3V0ZS5wYXJlbnQucGFyZW50LmNvbXBvbmVudC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGl2YXRlZFJvdXRlLnBhcmVudC5wYXJlbnQuX3ZhbHVlWydub1BhZGRpbmcnXSA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyZW50LmRhdGFbJ25vUGFkZGluZyddID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
