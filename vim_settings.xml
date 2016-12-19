@@ -115,10 +115,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481819454139">
-        <mark key="]" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-        <mark key="^" line="6" column="2" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1482155246204">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -140,12 +141,13 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-info/client-info-routing.module.ts" timestamp="1482154497886" />
       <file name="/Angular2HTML Fragment (home.component.ts:149).html" timestamp="1480685125749">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1482146842995">
+      <file name="/JavaScript Console" timestamp="1482154696603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
@@ -166,8 +168,11 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481816194160">
-        <mark key="[" line="9" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482154857222">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/dist/out-tsc/src/app/administration/midways/midways.component.js" timestamp="1481812689322">
         <mark key="[" line="5" column="2" />
@@ -340,11 +345,11 @@
       <jump line="81" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgbG9jYXRpb246IExvY2F0aW9uLAo=</text>
+      <register name="&quot;" type="4">
+        <text>-dashboard</text>
       </register>
       <register name="-" type="4">
-        <text>this.baseUrl + dashboard.kibanaRelativeUrl</text>
+        <text>-dashboard</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
@@ -353,31 +358,31 @@
         <text>variables[0].preferenceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgbG9jYXRpb246IExvY2F0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJldHVybiAnQ2xpZW50ICcgKyByb3V0ZS5wYXJhbXNbJ2NsaWVudE5hbWUnXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJsQ29uY2F0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidXJsY29uY2F0IiArIHVybENvbmNhdCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBwcm92aWRlOiAnZXZlbnRMb2cnLAogICAgICAgICAgICB1c2VWYWx1ZTogKCkgPT4gJ0V2ZW50IExvZycKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgcHJvdmlkZTogJ2NsaWVudEluZm8nLAogICAgICAgICAgICB1c2VWYWx1ZTogKCkgPT4gJ0NsaWVudCBJbmZvJwogICAgICAgIH0s</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiYWxsOiAiICsgdGhpcy5iYXNlVXJsICt0ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdGVzdCA9ICIvIiArIGRhc2hib2FyZC5raWJhbmFSZWxhdGl2ZVVybDsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgcHJvdmlkZTogJ2V2ZW50TG9nJywKICAgICAgICAgICAgdXNlVmFsdWU6ICgpID0+ICdFdmVudCBMb2cnCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgIHByb3ZpZGU6ICdjbGllbnRJbmZvJywKICAgICAgICAgICAgdXNlVmFsdWU6ICgpID0+ICdDbGllbnQgSW5mbycKICAgICAgICB9LA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbHVtbkRlZmluaXRpb25zfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbHVtbkRlZmluaXRpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">fGpzb259fQo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvZAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIERhc2hib2FyZFJvdXRpbmdNb2R1bGUge30K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
