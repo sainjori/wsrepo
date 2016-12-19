@@ -32,18 +32,17 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/src/main.ts" timestamp="1482186538944">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+      <file name="C:/Entwicklung/sandbox/typescript_learn/src/main.ts" timestamp="1482190843824">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="24" />
+        <mark key="^" line="1" column="24" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" timestamp="1482186121176">
+      <file name="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" timestamp="1482190070466">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
         <mark key="[" line="0" column="0" />
@@ -129,11 +128,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/index.html" timestamp="1482185762303">
-        <mark key="[" line="8" column="95" />
-        <mark key="]" line="8" column="82" />
-        <mark key="^" line="8" column="82" />
-        <mark key="." line="8" column="82" />
+      <file name="C:/Entwicklung/sandbox/typescript_learn/index.html" timestamp="1482190656291">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="54" />
+        <mark key="^" line="20" column="54" />
+        <mark key="." line="20" column="54" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -147,6 +146,7 @@
       <file name="/fragment.ts" timestamp="1481202196581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Entwicklung/sandbox/typescript_learn/typings/modules/lodash/index.d.ts" timestamp="1482190840824" />
       <file name="$USER_HOME$/sandbox/buildingng2Componens/bs-config.json" timestamp="1481266227429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -368,44 +368,45 @@
       <jump line="10" column="16" filename="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLycK</text>
+      <register name="&quot;" type="4">
+        <text>lodash</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lodash</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
       </register>
-      <register name="0" type="4">
-        <text>variables[0].preferenceValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJ0eXBpbmdzL21vZHVsZXMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLycK</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgY29uc29sZS5sb2coIkhhbG9vIik7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV3IFR3bygpOwo=</text>
+        <text encoding="base64">bmV3IEFwcCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtUd299IGZyb20gIi4vdHdvIjsK</text>
+      <register name="4" type="4">
+        <text>&quot;typings/modules&quot;,
+    &quot;typings/index.d.ts&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiZmlsZXMiOiBbCiAgICAic3JjL21haW4udHMiCiAgXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">pyQkJacK</text>
+        <text encoding="base64">aW1wb3J0ICcuLycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICIuL3R3byI7Cg==</text>
+        <text encoding="base64">bmV3IFR3bygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICGnJCQlVAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAibm9FIgo=</text>
+        <text encoding="base64">aW1wb3J0IHtUd299IGZyb20gIi4vdHdvIjsK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
