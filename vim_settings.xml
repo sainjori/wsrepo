@@ -211,6 +211,11 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.html" timestamp="1482144576234">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481723207994">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="45" />
@@ -328,7 +333,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbHVtbkRlZmluaXRpb25zfX0K</text>
       </register>
       <register name="-" type="4">
         <text>['kibanaRelativeUrl']</text>
@@ -340,16 +345,16 @@
         <text>variables[0].preferenceValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL2JvZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbHVtbkRlZmluaXRpb25zfX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2NvbHVtbkRlZmluaXRpb25zCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">fGpzb259fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2JvZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -360,8 +365,8 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGFjdGl2YXRlZFJvdXRlLnBhcmFtcy5zdWJzY3JpYmUocGFyYW1zID0+IHsKICAgICAgICAgICAgdGhpcy5wcmVmZXJlbmNlRW5kcG9pbnRBcGkuZ2V0U3lzdGVtUHJlZmVyZW5jZXMoWydraWJhbmEuZW5hYmxlLmxpbmsucmV3cml0aW5nJ10pLnN1YnNjcmliZShyZXdyaXRlUHJlZnMgPT4gewogICAgICAgICAgICAgICAgaWYgKHJld3JpdGVQcmVmcy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLl9lbmFibGVMaW5rUmV3cml0aW5nID0gcmV3cml0ZVByZWZzWzBdLnByZWZlcmVuY2VWYWx1ZSA9PT0gJ3RydWUnOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIC8vIExvYWQgZGFzaGJvYXJkcyBhZnRlciBwcmVmZXJlbmNlcyBoYXZlIGJlZW4gbG9hZGVkIHRvIGJlIHN1cmUgdGhhdCB0aGUgcHJlZmVyZW5jZSBpcyBwcmVzZW50CiAgICAgICAgICAgICAgICAvLyBXaGVuIGNoZWNraW5nIHdoZXRoZXIgbGluayByZXdyaXRpbmcgaXMgZW5hYmxlZAoKICAgICAgICAgICAgICAgIGxldCBuYW1lID0gcGFyYW1zWyduYW1lJ107CiAgICAgICAgICAgICAgICBpZiAobmFtZSkgewogICAgICAgICAgICAgICAgICAgIHRoaXMubG9hZERhc2hib2FyZERhdGEobmFtZSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwoJ3BhZ2VzLzQwNCcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9KTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
