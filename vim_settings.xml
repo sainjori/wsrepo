@@ -306,12 +306,13 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482256588312">
-        <mark key="'" line="39" column="13" />
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482260778301">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="38" />
+        <mark key="o" line="44" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481723207994">
         <mark key="[" line="15" column="36" />
@@ -330,11 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="44" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
-      <jump line="11" column="17" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
-      <jump line="25" column="17" filename="$USER_HOME$/sandbox/buildingng2Componens/app/widgets/widget-three.component.ts" />
-      <jump line="8" column="30" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="38" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="34" column="48" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="32" column="16" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
@@ -428,57 +424,62 @@
       <jump line="79" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="41" column="26" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="25" column="13" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="24" column="24" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="43" column="6" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="41" column="5" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="22" column="30" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="27" column="8" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="31" column="8" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>column</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>column</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInJ4anMiOiJub2RlX21vZHVsZXMvcnhqcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BsYXk6IGNvOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CjxuYXYgPgogICAgPHVsID4KICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiA+PGEgaHJlZj0iIyIgPkhvbWU8L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+QWJvdXQ8L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+Rm9ydW08L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+U3VwcG9ydDwvYSA+PC9saSA+CiAgICA8L3VsID4KPC9uYXYgPgo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrIDsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICBodG1sLGJvZHl7CiAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0KICAgICAgICAvKmJvZHl7Ki8KICAgICAgICAvKmJhY2tncm91bmQ6ICMwMGIxYjM7Ki8KICAgICAgICAvKmZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOyovCiAgICAgICAgLypkaXNwbGF5OiBmbGV4OyovCiAgICAgICAgLyphbGlnbi1pdGVtczogZmxleC1lbmQ7Ki8KICAgICAgICAvKmp1c3RpZnktY29udGVudDogZmxleC1lbmQ7Ki8KICAgICAgICAvKn0qLwoKICAgICAgICBib2R5IHsKICAgICAgICAgICAgZm9udC1zaXplOiAxNnB4OwogICAgICAgICAgICBmb250LWZhbWlseTogc2Fucy1zZXJpZjsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICB9CgogICAgICAgIG5hdiA+IHVsewogICAgICAgICAgICBtYXJnaW46IDA7CiAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7CiAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYXJvdW5kOwogICAgICAgIH0KICAgICAgICAubmF2LWl0ZW0gewogICAgICAgICAgICBwYWRkaW5nOiAzZW07CgogICAgICAgIH0KCiAgICAgICAgbmF2IHsKICAgICAgICAgICAgYmFja2dyb3VuZDogI2Y5ZjlmOTsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gRXZlbmlldCBpZCBpc3RlIG1vbGVzdGlhZSBub2JpcyBvZmZpY2lpcyBxdWlkZW0gc2FwaWVudGU/IERvbG9ydW0gZW9zIGltcGVkaXQgbWludXMgbmVjZXNzaXRhdGlidXMsIHF1YW0gcXVpIHJhdGlvbmUgcmVjdXNhbmRhZSByZXBlbGxlbmR1cy4gQ3VwaWRpdGF0ZSBkb2xvciBlc3QgbWluaW1hLgogICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CjxuYXYgPgogICAgPHVsID4KICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIiA+PGEgaHJlZj0iIyIgPkhvbWU8L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+QWJvdXQ8L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+Rm9ydW08L2EgPjwvbGkgPgogICAgICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iID48YSBocmVmPSIjIiA+U3VwcG9ydDwvYSA+PC9saSA+CiAgICA8L3VsID4KPC9uYXYgPgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICBodG1sLGJvZHl7CiAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgIH0KICAgICAgICAvKmJvZHl7Ki8KICAgICAgICAvKmJhY2tncm91bmQ6ICMwMGIxYjM7Ki8KICAgICAgICAvKmZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOyovCiAgICAgICAgLypkaXNwbGF5OiBmbGV4OyovCiAgICAgICAgLyphbGlnbi1pdGVtczogZmxleC1lbmQ7Ki8KICAgICAgICAvKmp1c3RpZnktY29udGVudDogZmxleC1lbmQ7Ki8KICAgICAgICAvKn0qLwoKICAgICAgICBib2R5IHsKICAgICAgICAgICAgZm9udC1zaXplOiAxNnB4OwogICAgICAgICAgICBmb250LWZhbWlseTogc2Fucy1zZXJpZjsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICB9CgogICAgICAgIG5hdiA+IHVsewogICAgICAgICAgICBtYXJnaW46IDA7CiAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAgICAgIGxpc3Qtc3R5bGU6IG5vbmU7CiAgICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYXJvdW5kOwogICAgICAgIH0KICAgICAgICAubmF2LWl0ZW0gewogICAgICAgICAgICBwYWRkaW5nOiAzZW07CgogICAgICAgIH0KCiAgICAgICAgbmF2IHsKICAgICAgICAgICAgYmFja2dyb3VuZDogI2Y5ZjlmOTsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPkZsZXggVGhpcyE8L2gxPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHNjcmlwdCBpZD0iX19ic19zY3JpcHRfXyI+Ly88IVtDREFUQVsKZG9jdW1lbnQud3JpdGUoIjxzY3JpcHQgYXN5bmMgc3JjPSdodHRwOi8vSE9TVDozMDAwL2Jyb3dzZXItc3luYy9icm93c2VyLXN5bmMtY2xpZW50LmpzP3Y9Mi4xOC41Jz48XC9zY3JpcHQ+Ii5yZXBsYWNlKCJIT1NUIiwgbG9jYXRpb24uaG9zdG5hbWUpKTsKLy9dXT48L3NjcmlwdD4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -495,6 +496,7 @@
         <entry>\</entry>
         <entry encoding="base64">XDxfYmFzZVVybFw+</entry>
         <entry>style</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
