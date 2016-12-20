@@ -11,5 +11,6 @@
     <option name="MAX_CLIPBOARD_CONTENTS" value="1111" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="586" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
   </component>
 </application>
