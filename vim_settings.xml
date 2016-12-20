@@ -58,6 +58,11 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.html" timestamp="1482249473896">
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481715469443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -189,12 +194,11 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482248737023">
-        <mark key="'" line="83" column="87" />
-        <mark key="[" line="83" column="77" />
-        <mark key="]" line="83" column="77" />
-        <mark key="." line="83" column="77" />
-        <mark key="^" line="90" column="77" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482249954765">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
         <mark key="[" line="11" column="20" />
@@ -203,10 +207,9 @@
         <mark key="." line="11" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1482245657180">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="73" column="21" />
-        <mark key="." line="73" column="21" />
-        <mark key="^" line="73" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482160143000">
         <mark key="[" line="15" column="5" />
@@ -308,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="20" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="18" column="25" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
       <jump line="6" column="44" filename="$USER_HOME$/sandbox/buildingng2Componens/app/home/home.component.ts" />
@@ -406,15 +408,16 @@
       <jump line="102" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="89" column="66" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="85" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="19" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="79" column="87" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="79" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{{url}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVUkxQYXJzZXIucGFyc2VVUkwoTG9jYXRpb25VdGlscy5nZXRDdXJyZW50VVJMKCkpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>{{url}}</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYmFzZVVybFw+</text>
@@ -423,31 +426,31 @@
         <text encoding="base64">ICAgICAgICAgICAgInJ4anMiOiJub2RlX21vZHVsZXMvcnhqcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhVUkxQYXJzZXIucGFyc2VVUkwoTG9jYXRpb25VdGlscy5nZXRDdXJyZW50VVJMKCkpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdXJsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMuYmFzZVVybCA9IGN1cnJlbnRVcmxQYXJ0cy5ob3N0bmFtZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIFVSTFBhcnNlci5wYXJzZVVSTChMb2NhdGlvblV0aWxzLmdldEN1cnJlbnRVUkwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgcHJvY2Vzc1Jlc3VsdChkYXNoYm9hcmQpIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmJhc2VVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvY2Vzc1Jlc3VsdChkYXNoYm9hcmQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhMb2NhdGlvblV0aWxzLmdldEN1cnJlbnRVUkwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZCA9IGRhc2hib2FyZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhdGlvblV0aWxzLmdldEN1cnJlbnRVUkwoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVybCA9IHRoaXMuc2FuaXRpemVyLmJ5cGFzc1NlY3VyaXR5VHJ1c3RSZXNvdXJjZVVybChraWJhbmFJZnJhbWVVcmwgKyAnP2VtYmVkPXRydWUnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2NhdGlvblV0aWxzLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIga2liYW5hSWZyYW1lVXJsID0gTG9jYXRpb24uam9pbldpdGhTbGFzaChMb2NhdGlvbi5qb2luV2l0aFNsYXNoKHRoaXMuZ2V0QmFzZVBhdGgoKSwgImtpYmFuYSIpLCBkYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
