@@ -123,11 +123,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482238452205">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="29" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="29" />
+      <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239094535">
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
       </file>
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
@@ -479,6 +479,7 @@
         <entry>dd</entry>
         <entry>d</entry>
         <entry>%d</entry>
+        <entry>echo 'Current time is ' . strftime('%c')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -540,6 +541,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
