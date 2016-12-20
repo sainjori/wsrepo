@@ -123,11 +123,11 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239094535">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+      <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239859635">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
@@ -412,11 +412,11 @@
       <jump line="18" column="31" filename="$USER_HOME$/sandbox/ehLeanTS/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcHt9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
@@ -425,13 +425,13 @@
         <text encoding="base64">ICAgICAgICAgICAgInJ4anMiOiJub2RlX21vZHVsZXMvcnhqcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcHt9Cg==</text>
+        <text encoding="base64">CgpsZXQgc29tZVN0cmluZzogc3RyaW5nID0gImNvaWZmaWZlb29sIjsKLy8gaW1wb3J0IHtBcHAsIFBlcnNvbiwgU29jaWFsfSBmcm9tICd0cy1sZXNzb25zJzsKCmxldCBjb29sRnVuYyA9IChhOnN0cmluZywgYjpudW1iZXIpID0+IGErYjsKY29vbEZ1bmMoc29tZVN0cmluZywge30pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3MK</text>
+        <text encoding="base64">bGV0IGZlZmUgPSAidGVzIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3MK</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcHt9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Z3MK</text>
@@ -478,8 +478,8 @@
       <history-cmd>
         <entry>dd</entry>
         <entry>d</entry>
-        <entry>%d</entry>
         <entry>echo 'Current time is ' . strftime('%c')</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
