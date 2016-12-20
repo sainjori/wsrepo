@@ -32,17 +32,17 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/src/main.ts" timestamp="1482190843824">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
+      <file name="C:/Entwicklung/sandbox/typescript_learn/src/main.ts" timestamp="1482192964857">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="4" column="35" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" timestamp="1482190070466">
+      <file name="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" timestamp="1482191926506">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
         <mark key="[" line="0" column="0" />
@@ -128,11 +128,10 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="C:/Entwicklung/sandbox/typescript_learn/index.html" timestamp="1482190656291">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="54" />
-        <mark key="^" line="20" column="54" />
-        <mark key="." line="20" column="54" />
+      <file name="C:/Entwicklung/sandbox/typescript_learn/index.html" timestamp="1482192632401">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -368,45 +367,45 @@
       <jump line="10" column="16" filename="C:/Entwicklung/sandbox/typescript_learn/tsconfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lodash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHtTb2NpYWxOZXR3b3JrfSBmcm9tICcuL3NvY2lhbC5uZXR3b3Jrcyc7CmltcG9ydCAqIGFzIF8gZnJvbSAnbG9kYXNoJzsKaW1wb3J0IHtPYnNlcnZhYmxlfSBmcm9tICdyeGpzL09ic2VydmFibGUnOwppbXBvcnQgJ3J4anMvYWRkL29ic2VydmFibGUvdGltZXInOwppbXBvcnQgJ3J4anMvYWRkL29ic2VydmFibGUvaW50ZXJ2YWwnOwoKICAgIC5zdWJzY3JpYmUoeCA9PiBjb25zb2xlLmxvZyh4KSk7CmNsYXNzIEFwcCBpbXBsZW1lbnRzIFNvY2lhbE5ldHdvcmt7CiAgICB0aXRsZSA9ICJFZ2doZWFkcyI7CgogICAgZ2V0VXNlcnMoKXsKICAgICAgICByZXR1cm4gW3tuYW1lOiJqb2huIn1dOwogICAgfQoKfQoKY29uc29sZS5sb2coXy5pc0FycmF5KG5ldyBBcHAoKS5nZXRVc2VycygpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>lodash</text>
+        <text>timer</text>
       </register>
       <register name="/" type="4">
         <text>\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL21vZHVsZXMiLAo=</text>
+        <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vYnNlcnZhYmxlL3RpbWVyJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgY29uc29sZS5sb2coIkhhbG9vIik7CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtTb2NpYWxOZXR3b3JrfSBmcm9tICcuL3NvY2lhbC5uZXR3b3Jrcyc7CmltcG9ydCAqIGFzIF8gZnJvbSAnbG9kYXNoJzsKaW1wb3J0IHtPYnNlcnZhYmxlfSBmcm9tICdyeGpzL09ic2VydmFibGUnOwppbXBvcnQgJ3J4anMvYWRkL29ic2VydmFibGUvdGltZXInOwppbXBvcnQgJ3J4anMvYWRkL29ic2VydmFibGUvaW50ZXJ2YWwnOwoKICAgIC5zdWJzY3JpYmUoeCA9PiBjb25zb2xlLmxvZyh4KSk7CmNsYXNzIEFwcCBpbXBsZW1lbnRzIFNvY2lhbE5ldHdvcmt7CiAgICB0aXRsZSA9ICJFZ2doZWFkcyI7CgogICAgZ2V0VXNlcnMoKXsKICAgICAgICByZXR1cm4gW3tuYW1lOiJqb2huIn1dOwogICAgfQoKfQoKY29uc29sZS5sb2coXy5pc0FycmF5KG5ldyBBcHAoKS5nZXRVc2VycygpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV3IEFwcCgpOwo=</text>
+        <text encoding="base64">T2JzZXJ2YWJsZS5pbnRlcnZhbCgxMDAwKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgY29uc29sZS5sb2coIkhhbG9vIik7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bmV3IEFwcCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>&quot;typings/modules&quot;,
     &quot;typings/index.d.ts&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bmV3IFR3bygpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtUd299IGZyb20gIi4vdHdvIjsK</text>
+        <text encoding="base64">aW1wb3J0ICcuLycK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
@@ -433,9 +432,9 @@
         <entry>\</entry>
       </history-search>
       <history-cmd>
-        <entry>%d</entry>
         <entry>dd</entry>
         <entry>d</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
