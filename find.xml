@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[Angular2_CLI_Full_Project] - ...'" />
-    <option name="defaultScopeName" value="Directory '[Angular2_CLI_Full_Project] - ...'" />
-    <option name="SEARCH_SCOPE" value="Directory '[Angular2_CLI_Full_Project] - ...'" />
+    <option name="customScope" value="monitoringLintRelevant" />
+    <option name="defaultScopeName" value="monitoringLintRelevant" />
+    <option name="SEARCH_SCOPE" value="monitoringLintRelevant" />
   </component>
 </application>
