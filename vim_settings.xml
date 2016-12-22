@@ -105,11 +105,11 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482419009577">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="131" column="51" />
-        <mark key="." line="4" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482421157202">
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="12" />
+        <mark key="^" line="129" column="12" />
+        <mark key="." line="129" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -156,7 +156,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.testmodule.ts" timestamp="1481819465300">
         <mark key="[" line="27" column="2" />
       </file>
-      <file name="/fragment.js" timestamp="1482171171766">
+      <file name="/fragment.js" timestamp="1482420374225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/historyfile" timestamp="1482238200180">
@@ -239,6 +239,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1482407286139">
         <mark key="[" line="21" column="55" />
       </file>
+      <file name="vm:2247" timestamp="1482420816056">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
       </file>
@@ -250,7 +253,7 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="/JavaScript Console" timestamp="1482419562761">
+      <file name="/JavaScript Console" timestamp="1482420847614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
