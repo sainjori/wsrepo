@@ -171,6 +171,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/tst.js" timestamp="1482492753186">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482160143000">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="5" />
@@ -381,6 +387,13 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
+      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" timestamp="1482495682550">
+        <mark key="'" line="23" column="73" />
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+      </file>
       <file name="/JavaScript Console" timestamp="1482421200341">
         <mark key="[" line="0" column="0" />
       </file>
@@ -447,19 +460,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482498269196">
+        <mark key="'" line="32" column="15" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="19" />
+        <mark key="." line="42" column="19" />
+        <mark key="^" line="39" column="21" />
+      </file>
       <file name="vm:13136" timestamp="1482147117156">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="20" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" />
-      <jump line="33" column="1" filename="$USER_HOME$/sandbox/buildingng2Componens/app/app.component.ts" />
-      <jump line="2" column="31" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
-      <jump line="7" column="14" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
-      <jump line="13" column="18" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
-      <jump line="9" column="19" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contacts.component.ts" />
-      <jump line="18" column="12" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
       <jump line="24" column="12" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
       <jump line="16" column="67" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
@@ -513,7 +525,6 @@
       <jump line="79" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="19" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="25" column="13" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="24" column="24" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="43" column="6" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="41" column="5" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
@@ -526,7 +537,6 @@
       <jump line="34" column="37" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="39" column="0" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="92" column="2" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
-      <jump line="26" column="30" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="49" column="10" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="53" column="11" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="61" column="10" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
@@ -552,55 +562,65 @@
       <jump line="139" column="103" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="83" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
       <jump line="191" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="13" column="42" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="26" column="18" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="40" column="8" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
+      <jump line="58" column="12" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
+      <jump line="57" column="9" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
+      <jump line="63" column="10" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
+      <jump line="23" column="73" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
+      <jump line="25" column="27" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
+      <jump line="28" column="15" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DateRangeDialogData</text>
+        <text>16.66667%;</text>
       </register>
       <register name="-" type="4">
-        <text>DateRangeDialogData</text>
+        <text>16.66667%;</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtEYXRlUmFuZ2VEaWFsb2dEYXRhfSBmcm9tICcuLi8uLi9jb21tb24tY29tcG9uZW50cy9kaWFsb2dzL2RhdGVyYW5nZS1kaWFsb2ctZGF0YSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY29sdW1uLmlzLTJ7CiAgICAgICAgICAgIHdpZHRoOiAxNi42NjY2NyU7CiAgICAgICAgICAgIGZsZXg6IG5vbmU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9ImRpc3BsYXk6dGFibGU7IG1hcmdpbjogYXV0bzsiPgogICAgICAgICAgICAgIDxzdHJvbmc+U3RhcnQgRGF0ZTo8L3N0cm9uZz4KICAgICAgICAgICAgICA8ZGF0ZXBpY2tlciBbKG5nTW9kZWwpXT0iZGF0YS5mcm9tRGF0ZSIgW3N0YXJ0aW5nRGF5XT0iMSIgW21pbkRhdGVdPSJkYXRhLmZyb21EYXRlTWluIiBbbWF4RGF0ZV09ImRhdGEuZnJvbURhdGVNYXgiIFtzaG93V2Vla3NdPSJmYWxzZSI+PC9kYXRlcGlja2VyPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgICAgICA8ZGl2IHN0eWxlPSJkaXNwbGF5OnRhYmxlOyBtYXJnaW46IGF1dG87Ij4KICAgICAgICAgICAgICA8c3Ryb25nPkVuZCBEYXRlOjwvc3Ryb25nPgogICAgICAgICAgICAgIDxkYXRlcGlja2VyIFsobmdNb2RlbCldPSJkYXRhLnRvRGF0ZSIgW3N0YXJ0aW5nRGF5XT0iMSIgW21pbkRhdGVdPSJkYXRhLnRvRGF0ZU1pbiIgW21heERhdGVdPSJkYXRhLnRvRGF0ZU1heCIgW3Nob3dXZWVrc109ImZhbHNlIj48L2RhdGVwaWNrZXI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pg==</text>
+        <text encoding="base64">IDxkaXYgY2xhc3M9ImNvbHVtbiBpcy02Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYm94Ij5IZWxsbyBXb3JsZDwvZGl2PgogICAgICAgIDwvZGl2Pg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgo8ZGl2IGNsYXNzPSJtZWRpYSI+CiAgICA8ZGl2IGNsYXNzPSJtZWRpYS1sZWZ0Ij4KICAgICAgICA8aW1nIHNyYz0iaHR0cDovL3BsYWNlaG9sZC5pdC81MHg1MCIgYWx0PSIiPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJtZWRpYS1jb250ZW50Ij4KICAgICAgICA8aDQ+Sm9obiBEb2U8L2g0PgogICAgICAgIDxwPkxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LiBDdWxwYSBlYXJ1bSBlaXVzLCBlbmltIGV4cGVkaXRhIGZ1Z2EgcGxhY2VhdCBxdWlhCiAgICAgICAgICAgcXVvIHNvbHV0YSB2ZWwgdm9sdXB0YXR1bS4gQSBkb2xvcmVtcXVlIGV4Y2VwdHVyaSBpbXBlZGl0IG5lY2Vzc2l0YXRpYnVzIG5lbW8gcHJvdmlkZW50IHNpdCB0ZW1wb3JpYnVzIHZlbD8KICAgICAgICA8L3A+CiAgICA8L2Rpdj4KPC9kaXY+Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgYm9keSxodG1sewogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgfQogICAgICAgIGJvZHl7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwogICAgICAgICAgICBtYXgtd2lkdGg6IDUwMHB4OwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIH0KCgogICAgICAgIC5tZWRpYXsKICAgICAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICB9CiAgICAgICAgaDR7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICB9CiAgICAgICAgLm1lZGlhLWxlZnR7CiAgICAgICAgICAgIG1hcmdpbi1yaWdodDogMWVtOwogICAgICAgIH0KICAgIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgYm9keSxodG1sewogICAgICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgICAgfQogICAgICAgIGJvZHl7CiAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBzYW5zLXNlcmlmOwogICAgICAgICAgICBtYXgtd2lkdGg6IDUwMHB4OwogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICAgICAgbWFyZ2luOiBhdXRvOwogICAgICAgIH0KCgogICAgICAgIC5tZWRpYXsKICAgICAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICB9CiAgICAgICAgaDR7CiAgICAgICAgICAgIG1hcmdpbjogMDsKICAgICAgICB9CiAgICAgICAgLm1lZGlhLWxlZnR7CiAgICAgICAgICAgIG1hcmdpbi1yaWdodDogMWVtOwogICAgICAgIH0KICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgPGg0PkpvaG4gRG9lPC9oND4KICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gQ3VscGEgZWFydW0gZWl1cywgZW5pbSBleHBlZGl0YSBmdWdhIHBsYWNlYXQgcXVpYQogICAgICAgICAgIHF1byBzb2x1dGEgdmVsIHZvbHVwdGF0dW0uIEEgZG9sb3JlbXF1ZSBleGNlcHR1cmkgaW1wZWRpdCBuZWNlc3NpdGF0aWJ1cyBuZW1vIHByb3ZpZGVudCBzaXQgdGVtcG9yaWJ1cyB2ZWw/CiAgICAgICAgPC9wPgogICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1lZGlhLXJpZ2h0Ij4KICAgICAgICA8aSBjbGFzcz0ibWF0ZXJpYWwtaWNvbnMiPmRlbGV0ZTwvaT4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>column</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>column</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -624,6 +644,8 @@
         <entry>epi</entry>
         <entry>title</entry>
         <entry>&quot;</entry>
+        <entry>form</entry>
+        <entry>column</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
