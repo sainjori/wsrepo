@@ -54,6 +54,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="GuiDesigner.GoToListener">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="alt #10000fc" />
@@ -109,5 +121,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
 </keymap>

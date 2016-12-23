@@ -460,10 +460,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482502105664">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482505104330">
+        <mark key="[" line="19" column="38" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="vm:13136" timestamp="1482147117156">
         <mark key="[" line="0" column="0" />
@@ -717,6 +718,9 @@ is-3</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>pressed F2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
