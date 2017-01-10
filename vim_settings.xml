@@ -150,6 +150,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1482407584366">
         <mark key="[" line="43" column="116" />
       </file>
+      <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484056265080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
         <mark key="[" line="15" column="82" />
       </file>
@@ -158,7 +161,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1482427984518">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484055958870">
         <mark key="'" line="192" column="30" />
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="34" />
@@ -351,6 +354,9 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="/AppModule/DashboardComponent/host.ngfactory.js" timestamp="1484056250792">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239859635">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="52" />
@@ -394,7 +400,7 @@
         <mark key="." line="32" column="34" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="/JavaScript Console" timestamp="1482421200341">
+      <file name="/JavaScript Console" timestamp="1484055923568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/buildingng2Componens/home/home.component.ts" timestamp="1481038691710">
