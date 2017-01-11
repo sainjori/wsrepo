@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[monitoring] - ...\dashboard\dashboard-frontend\src\app\kibana\dashboard'" />
-    <option name="defaultScopeName" value="Directory '[monitoring] - ...\dashboard\dashboard-frontend\src\app\kibana\dashboard'" />
-    <option name="SEARCH_SCOPE" value="Directory '[monitoring] - ...\dashboard\dashboard-frontend\src\app\kibana\dashboard'" />
+    <option name="customScope" value="jj" />
+    <option name="defaultScopeName" value="jj" />
+    <option name="SEARCH_SCOPE" value="jj" />
   </component>
 </application>
