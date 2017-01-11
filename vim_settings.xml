@@ -283,12 +283,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1484150729523">
-        <mark key="'" line="83" column="29" />
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="94" column="47" />
-        <mark key="." line="94" column="47" />
-        <mark key="^" line="94" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1484152161739">
+        <mark key="'" line="94" column="82" />
+        <mark key="[" line="96" column="99" />
+        <mark key="]" line="96" column="99" />
+        <mark key="." line="96" column="99" />
+        <mark key="^" line="96" column="99" />
       </file>
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
@@ -381,8 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="$USER_HOME$/sandbox/buildingng2Componens/app/contacts/contact.component.ts" />
-      <jump line="15" column="9" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="51" column="5" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="13" column="10" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="18" column="29" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
@@ -481,13 +479,15 @@
       <jump line="52" column="5" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="136" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="204" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="96" column="57" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
+      <jump line="95" column="82" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Add Filtter to Dashboard</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Add Filtter to Dashboard</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
