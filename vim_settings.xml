@@ -186,7 +186,11 @@
         <mark key="^" line="26" column="43" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1484061406258" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1484123694845">
+        <mark key="[" line="49" column="21" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
       </file>
@@ -462,11 +466,10 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.html" timestamp="1484059860145" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1482406381776">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1484123751031">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
@@ -584,11 +587,13 @@
       <jump line="136" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BASE_PATH</text>
+      <register name="&quot;" type="8">
+        <text>.forRoot()
+.forRoot()
+.forRoot()</text>
       </register>
       <register name="-" type="4">
-        <text>BASE_PATH</text>
+        <text>.forRoot()</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -596,32 +601,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRyb2wgaGFzLWFkZG9uIj4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImNvbnRyb2wtZmllbGQiPgogICAgICAgIDxzcGFuIGNsYXNzPSJjb250cm9sLWFkZG9uIj4KICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXVzZXIiPjwvaT4KICAgICAgICA8L3NwYW4+CiAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZmxleDogMTsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2UzZTNlMzsgLypzaG91bGQgZ28gdG8gZGVmYXVsdCBpbnB1dCBzdHlsaW5nKi8K</text>
+      <register name="1" type="8">
+        <text>.forRoot()
+.forRoot()
+.forRoot()</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZmxleDogMTsKICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgI2UzZTNlMzsgLypzaG91bGQgZ28gdG8gZGVmYXVsdCBpbnB1dCBzdHlsaW5nKi8K</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IDxzcGFuIGNsYXNzPSJjb250cm9sLWFkZG9uIj4KICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXVzZXIiPjwvaT4KICAgICAgICA8L3NwYW4+</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZmxleDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIDwvc3R5bGU+CjwvaGVhZD4KPGJvZHk+Cjxmb3JtPgogICAgPGRpdj4KICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCI+Cjw+ICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdXNlciI+PC9pPjwvPgogICAgPC9kaXY+CjwvZm9ybT4KPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBuYXYgewogICAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47CiAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIxYjM7CiAgICAgICAgICAgIHBhZGRpbmc6IDFlbTsKICAgICAgICB9CgogICAgICAgIC5uYXYtaXRlbSB7CiAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTsKICAgICAgICAgICAgcGFkZGluZzogMCAxZW07CiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICB9CgogICAgICAgIC5uYXYtaXRlbSA+IGkgewogICAgICAgICAgICBjb2xvcjogIzAwNTE1MjsKICAgICAgICAgICAgcGFkZGluZy1yaWdodDogNnB4OwogICAgICAgIH0KCiAgICAgICAgLm5hdi1pdGVtOmhvdmVyIHsKCiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOwogICAgICAgIH0KCiAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsKICAgICAgICAgICAgbmF2IHsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICB9CgogICAgICAgICAgICBuYXYgYSB7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CjxuYXY+CiAgICA8ZGl2IGNsYXNzPSJuYXYtbGVmdCI+CiAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiPjwvaT4gSG9tZQogICAgICAgIDwvYT4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtaW5mby1jaXJjbGUiPjwvaT4gQWJvdXQKICAgICAgICA8L2E+CiAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLXBsdXMtY2lyY2xlIj48L2k+CiAgICAgICAgICAgIFNlcnZpY2VzCiAgICAgICAgPC9hPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJuYXYtY2VudGVyIj4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtZmFjZWJvb2stc3F1YXJlIj48L2k+CiAgICAgICAgICAgIEZhY2Vib29rPC9hPgogICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10d2l0dGVyLXNxdWFyZSI+PC9pPgogICAgICAgICAgICBUd2l0dGVyPC9hPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJuYXYtcmlnaHQiPgogICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS11c2VyLXBsdXMiPjwvaT4KICAgICAgICAgICAgU2lnbiBVcDwvYT4KICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtc2lnbi1pbiI+PC9pPgogICAgICAgICAgICBMb2dpbjwvYT4KICAgIDwvZGl2PgoKPC9uYXY+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9IiMiPlNpZ24gVXA8L2E+CiAgICA8YSBocmVmPSIjIj5TaWduIEluPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
