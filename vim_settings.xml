@@ -221,13 +221,13 @@
         <mark key="." line="32" column="34" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484225340469">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484226013003">
         <mark key="[" line="248" column="80" />
-        <mark key="]" line="248" column="89" />
-        <mark key="^" line="248" column="89" />
-        <mark key="." line="250" column="89" />
+        <mark key="]" line="229" column="40" />
+        <mark key="^" line="229" column="40" />
+        <mark key="." line="229" column="40" />
       </file>
-      <file name="/JavaScript Console" timestamp="1484224789377">
+      <file name="/JavaScript Console" timestamp="1484225407475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
