@@ -180,12 +180,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1484222632339">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1484228195561">
         <mark key="'" line="94" column="82" />
-        <mark key="[" line="98" column="96" />
-        <mark key="]" line="98" column="108" />
-        <mark key="." line="96" column="99" />
-        <mark key="^" line="96" column="99" />
+        <mark key="[" line="109" column="94" />
+        <mark key="]" line="109" column="99" />
+        <mark key="." line="109" column="99" />
+        <mark key="^" line="109" column="99" />
       </file>
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
@@ -221,7 +221,7 @@
         <mark key="." line="32" column="34" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484226013003">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484226260891">
         <mark key="[" line="248" column="80" />
         <mark key="]" line="229" column="40" />
         <mark key="^" line="229" column="40" />
