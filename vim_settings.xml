@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/systemjs.config.js" timestamp="1484240459938">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="66" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="16" column="66" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/index.html" timestamp="1484240723605">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="7" column="87" />
+        <mark key="." line="7" column="87" />
+        <mark key="^" line="7" column="87" />
+      </file>
       <file name="/fragment.js" timestamp="1484224916387">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,6 +59,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1482407014238">
         <mark key="[" line="26" column="48" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1484240212633">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
@@ -187,6 +205,12 @@
         <mark key="." line="109" column="99" />
         <mark key="^" line="109" column="99" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/bs-config.js" timestamp="1484241560245">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,13 +237,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
         <mark key="[" line="15" column="82" />
-      </file>
-      <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" timestamp="1482495682550">
-        <mark key="'" line="23" column="73" />
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484226260891">
         <mark key="[" line="248" column="80" />
@@ -482,10 +499,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -493,32 +510,32 @@
       <register name="0" type="4">
         <text>const dashboardName</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNvbnN0IGFkZEZpbHRlckRpYWxvZ0RhdGE6IEZpbHRlckRpYWxvZ0RhdGEgPSB7CiAgICAgICAgICAgIGZpZWxkTmFtZXM6IHsKICAgICAgICAgICAgICAgICdkYXNoYm9hcmRGaWVsZHMnOiBkYXNoYm9hcmRGaWVsZHMsCiAgICAgICAgICAgICAgICAnbWV0YWRhdGFGaWVsZHMnOiBtZXRhZGF0YUZpZWxkcywKICAgICAgICAgICAgICAgICdudW1lcmljRmllbGRzJzogbnVtZXJpY0ZpZWxkcwogICAgICAgICAgICB9LAogICAgICAgIH07</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGdvb2dsZWFwaXdzCg==</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IGNvbnN0IGFkZEZpbHRlckRpYWxvZ0RhdGE6IEZpbHRlckRpYWxvZ0RhdGEgPSB7CiAgICAgICAgICAgIGZpZWxkTmFtZXM6IHsKICAgICAgICAgICAgICAgICdkYXNoYm9hcmRGaWVsZHMnOiBkYXNoYm9hcmRGaWVsZHMsCiAgICAgICAgICAgICAgICAnbWV0YWRhdGFGaWVsZHMnOiBtZXRhZGF0YUZpZWxkcywKICAgICAgICAgICAgICAgICdudW1lcmljRmllbGRzJzogbnVtZXJpY0ZpZWxkcwogICAgICAgICAgICB9LAogICAgICAgIH07</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IGNvbnN0IGRhc2hib2FyZE5hbWUgPSB0aGlzLl9nZXREYXNoYm9hcmRJbnRlcm5hbE5hbWUoKTsKICAgICAgICBjb25zdCBkYXNoYm9hcmRGaWVsZHMgPSBbXTsKICAgICAgICBjb25zdCBtZXRhZGF0YUZpZWxkcyA9IFtdOwogICAgICAgIGNvbnN0IG51bWVyaWNGaWVsZHMgPSBbXTsKICAgICAgICBpZiAoZGFzaGJvYXJkTmFtZSkgewogICAgICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZEVuZHBvaW50QXBpLmdldEZpZWxkTWFwcGluZyhkYXNoYm9hcmROYW1lKS5zdWJzY3JpYmUocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgIGZvciAobGV0IGtleSBvZiBPYmplY3Qua2V5cyhyZXN1bHQpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdFtrZXldLnR5cGUgIT09ICdkYXRlJykgewogICAgICAgICAgICAgICAgICAgICAgICBkYXNoYm9hcmRGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGROYW1lJzoga2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiByZXN1bHRba2V5XS50eXBlCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0W2tleV0udHlwZSA9PT0gJ2tleXdvcmQnIHx8IHJlc3VsdFtrZXldLnR5cGUgPT09ICd0ZXh0JykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGFGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ZpZWxkTmFtZSc6IGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6IHJlc3VsdFtrZXldLnR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtZXJpY0ZpZWxkcy5wdXNoKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGROYW1lJzoga2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogcmVzdWx0W2tleV0udHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRoRWxlbWVudHMgPSBVUkxQYXJzZXIuZ2V0UGF0aEVsZW1lbnRzKHRoaXMua2liYW5hRGFzaGJvYXJkLmtpYmFuYVJlbGF0aXZlVXJsKTsKICAgICAgICBjb25zdCBkYXNoYm9hcmROYW1lID0gKHBhdGhFbGVtZW50cyAmJiBwYXRoRWxlbWVudHMubGVuZ3RoKSA/IHBhdGhFbGVtZW50c1twYXRoRWxlbWVudHMubGVuZ3RoIC0gMV0gOiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwYXRoRWxlbWVudHMgPSBVUkxQYXJzZXIuZ2V0UGF0aEVsZW1lbnRzKHRoaXMua2liYW5hRGFzaGJvYXJkLmtpYmFuYVJlbGF0aXZlVXJsKTsKICAgICAgICBjb25zdCBkYXNoYm9hcmROYW1lID0gKHBhdGhFbGVtZW50cyAmJiBwYXRoRWxlbWVudHMubGVuZ3RoKSA/IHBhdGhFbGVtZW50c1twYXRoRWxlbWVudHMubGVuZ3RoIC0gMV0gOiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXNoYm9hcmRGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICdmaWVsZE5hbWUnOiBrZXksCiAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogcmVzdWx0W2tleV0udHlwZQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7ZGF0YSB8IGpzb24gfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXNoYm9hcmRGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICdmaWVsZE5hbWUnOiBrZXksCiAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogcmVzdWx0W2tleV0udHlwZQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
@@ -627,6 +644,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
