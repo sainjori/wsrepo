@@ -321,11 +321,11 @@
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.component.ts" timestamp="1484245392130">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.component.ts" timestamp="1484245822004">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="45" />
+        <mark key="^" line="3" column="45" />
+        <mark key="." line="3" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
@@ -514,16 +514,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Component</text>
+        <text>templates/app.component.html</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text encoding="base64">JzxoMT5IZWxsbyBBbmd1bGFyPC9oMT4n</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
       </register>
       <register name="0" type="4">
-        <text>const dashboardName</text>
+        <text>templates/app.component.html</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHtwbGF0Zm9ybUJyb3dzZXJEeW5hbWljfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnCg==</text>
