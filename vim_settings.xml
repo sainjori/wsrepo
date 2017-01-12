@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1484149458982">
+      <file name="/fragment.js" timestamp="1484224916387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
@@ -78,7 +78,7 @@
       <file name="/" timestamp="1482423513498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="webpack:///./~/@angular/core/src/zone/ng_zone.js" timestamp="1484142960388">
+      <file name="webpack:///./~/@angular/core/src/zone/ng_zone.js" timestamp="1484224181432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.scss" timestamp="1481723144270">
@@ -165,11 +165,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1484215099556">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="5" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1484225325792">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
         <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="vm:3774" timestamp="1482248463378">
         <mark key="[" line="0" column="0" />
@@ -221,13 +221,13 @@
         <mark key="." line="32" column="34" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484223954005">
-        <mark key="[" line="200" column="37" />
-        <mark key="]" line="200" column="56" />
-        <mark key="^" line="200" column="56" />
-        <mark key="." line="200" column="56" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484225340469">
+        <mark key="[" line="248" column="80" />
+        <mark key="]" line="248" column="89" />
+        <mark key="^" line="248" column="89" />
+        <mark key="." line="250" column="89" />
       </file>
-      <file name="/JavaScript Console" timestamp="1484223765359">
+      <file name="/JavaScript Console" timestamp="1484224789377">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
@@ -248,7 +248,7 @@
       <file name="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/adblock-uiscripts-rightclick_hook.js" timestamp="1482423553046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="webpack:///./~/zone.js/dist/zone.js" timestamp="1484149411697">
+      <file name="webpack:///./~/zone.js/dist/zone.js" timestamp="1484224708389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1484143103968">
@@ -482,10 +482,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
