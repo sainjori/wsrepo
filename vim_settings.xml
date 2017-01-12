@@ -27,6 +27,9 @@
       <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/@angular/platform-browser/src/dom/dom_renderer.js" timestamp="1482423573791">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/main.ts" timestamp="1484247717725">
+        <mark key="[" line="3" column="36" />
+      </file>
       <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1482424461503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -179,6 +182,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.module.ts" timestamp="1481819668885">
         <mark key="[" line="16" column="37" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/app.component.html" timestamp="1484247564965">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
       </file>
@@ -269,11 +278,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1484245473778">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1484248288865">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1482405433742">
         <mark key="[" line="36" column="10" />
@@ -513,8 +522,8 @@
       <jump line="95" column="82" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>templates/app.component.html</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JzxoMT5IZWxsbyBBbmd1bGFyPC9oMT4n</text>
@@ -526,15 +535,18 @@
         <text>templates/app.component.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtwbGF0Zm9ybUJyb3dzZXJEeW5hbWljfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBNb2R1bGV9IGZyb20gJycK</text>
+        <text encoding="base64">aW1wb3J0IHtwbGF0Zm9ybUJyb3dzZXJEeW5hbWljfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHBNb2R1bGV9IGZyb20gJycK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>import { NgModule } from '@angular/core';
 
 import { BrowserModule} from '@angular/platform-browser'
@@ -547,20 +559,17 @@ import { BrowserModule} from '@angular/platform-browser'
 })
 export class Module { }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnLi8uY29tcG9uZW50JzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGdvb2dsZWFwaXdzCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGNvbnN0IGFkZEZpbHRlckRpYWxvZ0RhdGE6IEZpbHRlckRpYWxvZ0RhdGEgPSB7CiAgICAgICAgICAgIGZpZWxkTmFtZXM6IHsKICAgICAgICAgICAgICAgICdkYXNoYm9hcmRGaWVsZHMnOiBkYXNoYm9hcmRGaWVsZHMsCiAgICAgICAgICAgICAgICAnbWV0YWRhdGFGaWVsZHMnOiBtZXRhZGF0YUZpZWxkcywKICAgICAgICAgICAgICAgICdudW1lcmljRmllbGRzJzogbnVtZXJpY0ZpZWxkcwogICAgICAgICAgICB9LAogICAgICAgIH07</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGNvbnN0IGRhc2hib2FyZE5hbWUgPSB0aGlzLl9nZXREYXNoYm9hcmRJbnRlcm5hbE5hbWUoKTsKICAgICAgICBjb25zdCBkYXNoYm9hcmRGaWVsZHMgPSBbXTsKICAgICAgICBjb25zdCBtZXRhZGF0YUZpZWxkcyA9IFtdOwogICAgICAgIGNvbnN0IG51bWVyaWNGaWVsZHMgPSBbXTsKICAgICAgICBpZiAoZGFzaGJvYXJkTmFtZSkgewogICAgICAgICAgICB0aGlzLmtpYmFuYURhc2hib2FyZEVuZHBvaW50QXBpLmdldEZpZWxkTWFwcGluZyhkYXNoYm9hcmROYW1lKS5zdWJzY3JpYmUocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgIGZvciAobGV0IGtleSBvZiBPYmplY3Qua2V5cyhyZXN1bHQpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHJlc3VsdFtrZXldLnR5cGUgIT09ICdkYXRlJykgewogICAgICAgICAgICAgICAgICAgICAgICBkYXNoYm9hcmRGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGROYW1lJzoga2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiByZXN1bHRba2V5XS50eXBlCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0W2tleV0udHlwZSA9PT0gJ2tleXdvcmQnIHx8IHJlc3VsdFtrZXldLnR5cGUgPT09ICd0ZXh0JykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbWV0YWRhdGFGaWVsZHMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ZpZWxkTmFtZSc6IGtleSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6IHJlc3VsdFtrZXldLnR5cGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtZXJpY0ZpZWxkcy5wdXNoKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZmllbGROYW1lJzoga2V5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogcmVzdWx0W2tleV0udHlwZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
