@@ -57,6 +57,12 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1484311399582">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="59" column="10" />
+        <mark key="." line="59" column="10" />
+        <mark key="^" line="54" column="111" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1482331398495">
         <mark key="[" line="20" column="56" />
       </file>
@@ -135,7 +141,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
         <mark key="[" line="15" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484310796767">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484310815250">
         <mark key="'" line="316" column="40" />
         <mark key="[" line="349" column="20" />
         <mark key="]" line="349" column="24" />
@@ -560,10 +566,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>icon-speedometer</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>icon-speedometer</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
