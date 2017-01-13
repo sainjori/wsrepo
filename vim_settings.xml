@@ -135,11 +135,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
         <mark key="[" line="15" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484226260891">
-        <mark key="[" line="248" column="80" />
-        <mark key="]" line="229" column="40" />
-        <mark key="^" line="229" column="40" />
-        <mark key="." line="229" column="40" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484309753231">
+        <mark key="[" line="347" column="29" />
+        <mark key="]" line="347" column="38" />
+        <mark key="." line="347" column="38" />
+        <mark key="^" line="347" column="38" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
         <mark key="[" line="11" column="20" />
@@ -392,6 +392,12 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1484251604900">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="10" column="14" />
@@ -448,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="5" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="13" column="10" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="18" column="29" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="74" column="24" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
@@ -548,13 +553,14 @@
       <jump line="204" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="96" column="57" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
       <jump line="95" column="82" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
+      <jump line="347" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>component: ProjectsComponent}</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>component: ProjectsComponent}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -563,29 +569,32 @@
         <text encoding="base64">ICAgIHtwYXRoOiAncHJvamVjdHMnLCBjb21wb25lbnQ6IFByb2plY3RzQ29tcG9uZW50fQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydCgnYmFsJyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDxwcm9qZWN0cz48L3Byb2plY3RzPgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>?
 ?
 ?</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtwbGF0Zm9ybUJyb3dzZXJEeW5hbWljfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBNb2R1bGV9IGZyb20gJycK</text>
+        <text encoding="base64">aW1wb3J0IHtwbGF0Zm9ybUJyb3dzZXJEeW5hbWljfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMnCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtBcHBNb2R1bGV9IGZyb20gJycK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>import { NgModule } from '@angular/core';
 
 import { BrowserModule} from '@angular/platform-browser'
@@ -597,9 +606,6 @@ import { BrowserModule} from '@angular/platform-browser'
     providers: [],
 })
 export class Module { }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50IH0gZnJvbSAnLi8uY29tcG9uZW50JzsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
