@@ -291,10 +291,11 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="C:/Entwicklung/sandbox/plsRxjsScottallen/package.json" timestamp="1484517567452">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/Entwicklung/sandbox/plsRxjsScottallen/package.json" timestamp="1484520615353">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="/fragment.js" timestamp="1484310290169">
         <mark key="[" line="0" column="0" />
@@ -307,11 +308,11 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Entwicklung/sandbox/plsRxjsScottallen/webpack.config.js" timestamp="1484518353990">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="C:/Entwicklung/sandbox/plsRxjsScottallen/webpack.config.js" timestamp="1484520546133">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+        <mark key="." line="12" column="35" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/app.component.html" timestamp="1484251151253">
         <mark key="[" line="6" column="0" />
