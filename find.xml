@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="monitoringLintRelevant" />
-    <option name="defaultScopeName" value="monitoringLintRelevant" />
-    <option name="SEARCH_SCOPE" value="monitoringLintRelevant" />
+    <option name="customScope" value="jj" />
+    <option name="defaultScopeName" value="jj" />
+    <option name="SEARCH_SCOPE" value="jj" />
   </component>
 </application>

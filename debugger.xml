@@ -11,6 +11,7 @@
           <stepping-filters>
             <stepping-filter url-pattern="*.js" />
           </stepping-filters>
+          <stepping-filters-enabled>false</stepping-filters-enabled>
         </configuration>
       </debugger>
     </debuggers>
