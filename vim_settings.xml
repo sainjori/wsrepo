@@ -117,6 +117,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/user-management/edit-user/edit-user.component.ts" timestamp="1482407000884">
         <mark key="[" line="81" column="20" />
       </file>
+      <file name="http://localhost:4200/main.bundle.js" timestamp="1484581080892">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1484225325792">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -306,7 +309,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1482407014238">
         <mark key="[" line="26" column="48" />
       </file>
-      <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484569780820">
+      <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484580549835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
@@ -390,11 +393,11 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484579417309">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484581643819">
+        <mark key="[" line="12" column="44" />
+        <mark key="]" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
@@ -600,10 +603,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text encoding="base64">ICE9PSBudWxs</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">ICE9PSBudWxs</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -612,13 +615,13 @@
         <text encoding="base64">ICAgaXQoJ3Nob3VsZCBtb2RpZnkgYSBzdHJpbmcgd2l0aCB0aGUgc2FtZSBwbGFjZWhvbGRlciBvY2N1cnJpbmcgbXVsdGlwbGUgdGltZXMnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChTdHJpbmdVdGlscy5zdHJpbmdSZXBsYWNlQ3VybHlCcmFjZSgndGVzdCB7ZGF0YX0ge2RhdGF9IDEyMzQ1Jywge2RhdGE6ICd0ZXN0J30pKS50b0JlKCd0ZXN0IHRlc3QgdGVzdCAxMjM0NScpOwogICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgaXQoJ3Nob3VsZCBub3QgbW9kaWZ5IGEgc3RyaW5nIHdpdGhvdXQgcGxhY2Vob2xkZXJzJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoU3RyaW5nVXRpbHMuc3RyaW5nUmVwbGFjZUN1cmx5QnJhY2UoJ3Rlc3QgYXNkZiAxMjM0NScsIHtkYXRhOiAndGVzdCd9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbXlhcnJheTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KFN0cmluZ1V0aWxzLnN0cmluZ1JlcGxhY2VDdXJseUJyYWNlKCd0ZXN0IGFzZGYgMTIzNDUnLCB7fSkpOwo=</text>
+        <text encoding="base64">ICAgaXQoJ3Nob3VsZCBub3QgbW9kaWZ5IGEgc3RyaW5nIHdpdGhvdXQgcGxhY2Vob2xkZXJzJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoU3RyaW5nVXRpbHMuc3RyaW5nUmVwbGFjZUN1cmx5QnJhY2UoJ3Rlc3QgYXNkZiAxMjM0NScsIHtkYXRhOiAndGVzdCd9KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KFN0cmluZ1V0aWxzLnN0cmluZ1JlcGxhY2VDdXJseUJyYWNlKCd0ZXN0IGFzZGYgMTIzNDUnLCB7fSkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -636,7 +639,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSB3aGlsZSAobSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
