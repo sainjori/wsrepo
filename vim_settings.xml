@@ -72,6 +72,12 @@
         <mark key="." line="56" column="105" />
         <mark key="^" line="56" column="105" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.spec.ts" timestamp="1484578720332">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1482331398495">
         <mark key="[" line="20" column="56" />
       </file>
@@ -182,11 +188,11 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484575536807">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="47" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484577612696">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+        <mark key="^" line="22" column="59" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -381,8 +387,8 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484575530483">
-        <mark key="[" line="4" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484578474769">
+        <mark key="[" line="9" column="19" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
@@ -393,7 +399,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1484572688392">
+      <file name="/JavaScript Console" timestamp="1484578460978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -591,22 +597,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
       </register>
-      <register name="0" type="4">
-        <text>route.snapshot.data['title']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgaXQoJ3Nob3VsZCBtb2RpZnkgYSBzdHJpbmcgd2l0aCB0aGUgc2FtZSBwbGFjZWhvbGRlciBvY2N1cnJpbmcgbXVsdGlwbGUgdGltZXMnLCBmdW5jdGlvbiAoKSB7CiAgICAgIGV4cGVjdChTdHJpbmdVdGlscy5zdHJpbmdSZXBsYWNlQ3VybHlCcmFjZSgndGVzdCB7ZGF0YX0ge2RhdGF9IDEyMzQ1Jywge2RhdGE6ICd0ZXN0J30pKS50b0JlKCd0ZXN0IHRlc3QgdGVzdCAxMjM0NScpOwogICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgaXQoJ3Nob3VsZCBub3QgbW9kaWZ5IGEgc3RyaW5nIHdpdGhvdXQgcGxhY2Vob2xkZXJzJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoU3RyaW5nVXRpbHMuc3RyaW5nUmVwbGFjZUN1cmx5QnJhY2UoJ3Rlc3QgYXNkZiAxMjM0NScsIHtkYXRhOiAndGVzdCd9KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KFN0cmluZ1V0aWxzLnN0cmluZ1JlcGxhY2VDdXJseUJyYWNlKCd0ZXN0IGFzZGYgMTIzNDUnLCB7fSkpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -621,13 +627,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSB3aGlsZSAobSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbFsndGl0bGUnXSA9IGxhYmVsWyd0aXRsZSddLnJlcGxhY2UobmV3IFJlZ0V4cCgnXFx7JyArIG1bMV0gKyAnXFx9JywgJ2cnKSwgcm91dGUuc25hcHNob3QucGFyYW1zW21bMV1dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSB3aGlsZSAobSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
