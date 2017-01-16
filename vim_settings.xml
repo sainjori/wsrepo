@@ -141,12 +141,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
         <mark key="[" line="15" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484558117526">
-        <mark key="'" line="320" column="40" />
-        <mark key="[" line="147" column="30" />
-        <mark key="]" line="147" column="34" />
-        <mark key="^" line="147" column="34" />
-        <mark key="." line="147" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1484561093125">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1481646233943">
         <mark key="[" line="11" column="20" />
@@ -460,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="13" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.css" />
       <jump line="76" column="8" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="39" column="39" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
@@ -560,13 +557,14 @@
       <jump line="314" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="56" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
       <jump line="57" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
+      <jump line="146" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnQgPSBMb2NhdGlvbi5qb2luV2l0aFNsYXNoKHRoaXMuZ2V0QmFzZVBhdGgoKSwgJ2tpYmFuYScpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>NotSanitized</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -575,31 +573,31 @@
         <text>kibanaUrlParser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnQgPSBMb2NhdGlvbi5qb2luV2l0aFNsYXNoKHRoaXMuZ2V0QmFzZVBhdGgoKSwgJ2tpYmFuYScpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAga2liYW5hSWZyYW1lVXJsOyAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnVybE5vdFNhZmUgPSBraWJhbmFJZnJhbWVVcmw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUga2liYW5hVXJsUGFyc2VyOiBLaWJhbmFVUkxQYXJzZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQga2liYW5hSWZyYW1lVXJsID0gTG9jYXRpb24uam9pbldpdGhTbGFzaChzdGFydCwgdGhpcy5raWJhbmFEYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQga2IgPSB0aGlzLmtpYmFuYVVybFBhcnNlcjsK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybE5vdFNhZmU6IHN0cmluZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnQgPSBMb2NhdGlvbi5qb2luV2l0aFNsYXNoKHRoaXMuZ2V0QmFzZVBhdGgoKSwgJ2tpYmFuYScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBLaWJhbmFVUkxQYXJzZXIK</text>
+        <text encoding="base64">ICAgICAgICAga2liYW5hSWZyYW1lVXJsOyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnYmFsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVybE5vdFNhZmUgPSBraWJhbmFJZnJhbWVVcmw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
