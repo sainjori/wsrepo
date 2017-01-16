@@ -117,7 +117,7 @@
       <file name="vm:3774" timestamp="1482248463378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1484565754419">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1484570562274">
         <mark key="[" line="91" column="43" />
         <mark key="]" line="91" column="43" />
         <mark key="^" line="91" column="43" />
@@ -179,11 +179,11 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484569694150">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="32" column="27" />
-        <mark key="." line="32" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484571340503">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
+        <mark key="^" line="30" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -330,7 +330,7 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1484569683162">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1484570600601">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="10" />
         <mark key="^" line="36" column="10" />
@@ -378,10 +378,13 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484570880408">
+        <mark key="[" line="2" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
       </file>
-      <file name="/fragment.ts" timestamp="1481202196581">
+      <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1484569249129">
@@ -479,7 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.css" />
       <jump line="76" column="8" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="39" column="39" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
@@ -579,10 +581,11 @@
       <jump line="56" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
       <jump line="57" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
       <jump line="146" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
+      <jump line="25" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -594,31 +597,31 @@
         <text>kibanaUrlParser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBQCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5qCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">aW5qCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
