@@ -9,6 +9,9 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1484568241187">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="6" />
@@ -44,6 +47,9 @@
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
+      </file>
+      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1484569637254">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1482423513498">
         <mark key="[" line="0" column="0" />
@@ -173,11 +179,11 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484565686528">
-        <mark key="[" line="24" column="67" />
-        <mark key="]" line="24" column="76" />
-        <mark key="^" line="24" column="76" />
-        <mark key="." line="24" column="76" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1484569694150">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -259,7 +265,7 @@
         <mark key="^" line="16" column="56" />
         <mark key="." line="16" column="56" />
       </file>
-      <file name="/fragment.js" timestamp="1484312742795">
+      <file name="/fragment.js" timestamp="1484568067697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -287,6 +293,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1482407014238">
         <mark key="[" line="26" column="48" />
+      </file>
+      <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484569780820">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
         <mark key="[" line="39" column="23" />
@@ -321,7 +330,7 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1482405433742">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1484569683162">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="10" />
         <mark key="^" line="36" column="10" />
@@ -375,7 +384,7 @@
       <file name="/fragment.ts" timestamp="1481202196581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1484313723221">
+      <file name="/JavaScript Console" timestamp="1484569249129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -572,11 +581,11 @@
       <jump line="146" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pageTitle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pageTitle</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -585,31 +594,31 @@
         <text>kibanaUrlParser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBQCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5qCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVybE5vdFNhZmUgPSBraWJhbmFJZnJhbWVVcmw7Cg==</text>
+        <text encoding="base64">aW5qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQga2liYW5hSWZyYW1lVXJsID0gTG9jYXRpb24uam9pbldpdGhTbGFzaChzdGFydCwgdGhpcy5raWJhbmFEYXNoYm9hcmQua2liYW5hUmVsYXRpdmVVcmwpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
