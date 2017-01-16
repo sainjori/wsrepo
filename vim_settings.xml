@@ -393,11 +393,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484584342704">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="9" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484589970566">
+        <mark key="'" line="4" column="54" />
+        <mark key="[" line="4" column="64" />
+        <mark key="]" line="4" column="74" />
+        <mark key="." line="4" column="74" />
+        <mark key="^" line="4" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
@@ -500,7 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="39" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
       <jump line="49" column="0" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
       <jump line="45" column="1" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.ts" />
       <jump line="30" column="21" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" />
@@ -600,6 +600,7 @@
       <jump line="146" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="25" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" />
       <jump line="56" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" />
+      <jump line="4" column="54" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
