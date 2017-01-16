@@ -72,11 +72,11 @@
         <mark key="." line="56" column="105" />
         <mark key="^" line="56" column="105" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.spec.ts" timestamp="1484590955357">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="42" />
-        <mark key="^" line="28" column="42" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.spec.ts" timestamp="1484591694762">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1482331398495">
         <mark key="[" line="20" column="56" />
@@ -393,12 +393,12 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484589970566">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="4" column="64" />
-        <mark key="]" line="4" column="74" />
-        <mark key="." line="4" column="74" />
-        <mark key="^" line="4" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1484591762194">
+        <mark key="'" line="1" column="54" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="74" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
@@ -603,8 +603,8 @@
       <jump line="4" column="54" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>var</text>
@@ -616,31 +616,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyOiAnZGVmJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN0cikgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG0pIHsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICBpZiAobSkgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ21hdGNoJywgbSk7CiAgICAgICAgICAgICAgICBzdHIgPSBzdHIucmVwbGFjZShuZXcgUmVnRXhwKCdcXHsnICsgbVsxXSArICdcXH0nLCAnZycpLCB0ZXN0W21bMV1dKTsKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMTYuMDEuMjAxNy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgbXlhcnJheTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgaXQoJ3Nob3VsZCBub3QgbW9kaWZ5IGEgc3RyaW5nIHdpdGhvdXQgcGxhY2Vob2xkZXJzJywgZnVuY3Rpb24gKCkgewogICAgICBleHBlY3QoU3RyaW5nVXRpbHMuc3RyaW5nUmVwbGFjZUN1cmx5QnJhY2UoJ3Rlc3QgYXNkZiAxMjM0NScsIHtkYXRhOiAndGVzdCd9KSk7Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KFN0cmluZ1V0aWxzLnN0cmluZ1JlcGxhY2VDdXJseUJyYWNlKCd0ZXN0IGFzZGYgMTIzNDUnLCB7fSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXN0cikgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
