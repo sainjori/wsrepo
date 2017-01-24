@@ -102,11 +102,11 @@
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/package.json" timestamp="1485262318016">
-        <mark key="[" line="48" column="33" />
-        <mark key="]" line="61" column="22" />
-        <mark key="^" line="61" column="22" />
-        <mark key="." line="61" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/package.json" timestamp="1485263780404">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="64" column="19" />
+        <mark key="." line="64" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/pages/404.component.ts" timestamp="1482405131484">
         <mark key="[" line="5" column="16" />
@@ -147,10 +147,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1485191783205">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1485264957444">
+        <mark key="[" line="128" column="34" />
+        <mark key="]" line="128" column="44" />
+        <mark key="^" line="128" column="44" />
+        <mark key="." line="128" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -246,6 +247,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview-routing.module.ts" timestamp="1485264250708">
+        <mark key="[" line="26" column="36" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
       </file>
@@ -255,11 +261,10 @@
         <mark key="." line="63" column="7" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs-routing.module.ts" timestamp="1485190883186">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="27" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs-routing.module.ts" timestamp="1485265101633">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-info/client-info.component.ts" timestamp="1482406227978">
         <mark key="[" line="94" column="21" />
@@ -651,10 +656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1vZGFsTW9kdWxlLmZvclJvb3QoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*ngIf=&quot;!last&quot; [</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -663,35 +668,41 @@
         <text>show/:clientName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vZGFsTW9kdWxlLmZvclJvb3QoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSBuZ0ZvciBsZXQtYnJlYWRjcnVtYiBbbmdGb3JPZl09ImJyZWFkY3J1bWJzIj4K</text>
+      <register name="2" type="4">
+        <text>,
+            {
+                path: 'details/:eventLogID',
+                component: EventLogDetailsComponent,
+                data: {
+                    title: 'Event Log Details'
+                }
+            }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSBuZ0ZvciBsZXQtYnJlYWRjcnVtYiBbbmdGb3JPZl09ImJyZWFkY3J1bWJzIiBsZXQtbGFzdCA9IGxhc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICBwYXRoOiAnY2xpZW50LWluZm8nLAogICAgICAgIGNvbXBvbmVudDogRnVsbExheW91dENvbXBvbmVudCwKICAgICAgICBsb2FkQ2hpbGRyZW46ICdhcHAvY2xpZW50LWluZm8vY2xpZW50LWluZm8ubW9kdWxlI0NsaWVudEluZm9Nb2R1bGUnCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aE1hdGNoOiAnZnVsbCcK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBkYXRhOiB7CiAgICAgIHRpdGxlOiAnQ2xpZW50cyBPdmVydmlldycKICAgIH0s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNoaWxkcmVuOiBbCiAgICAgIAogICAgXQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdEYXNoYm9hcmRzJywK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>,
+                    pageTitle: 'Client {clientName}'</text>
       </register>
       <register name="8" type="4">
-        <text>{
-        path: 'client-info',
-        component: FullLayoutComponent,
-        loadChildren: 'app/client-info/client-info.module#ClientInfoModule'
-    },</text>
+        <text>,
+            pageTitle: &quot;Client Overview&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25Nb2R1bGUsCg==</text>
+      <register name="9" type="4">
+        <text>,
+            pageTitle: &quot;Client Overview&quot;</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
