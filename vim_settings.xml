@@ -9,9 +9,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1484568241187">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="6" />
@@ -24,42 +21,13 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1484326618664">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/@angular/platform-browser/src/dom/dom_renderer.js" timestamp="1482423573791">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/main.ts" timestamp="1484247717725">
-        <mark key="[" line="3" column="36" />
-      </file>
-      <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1482424461503">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midways.component.ts" timestamp="1482407819484">
-        <mark key="[" line="108" column="6" />
-      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1484240212633">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="32" />
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="/AppModule/AppComponent/wrapper.ngfactory.js" timestamp="1484573990110">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
-        <mark key="[" line="7" column="14" />
-      </file>
-      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1484569637254">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1482423513498">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="webpack:///./~/@angular/core/src/zone/ng_zone.js" timestamp="1484224181432">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1485265982277" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.scss" timestamp="1481723144270">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="14" column="15" />
@@ -77,9 +45,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="25" column="42" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1482331398495">
-        <mark key="[" line="20" column="56" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dynamic-data-table-config.ts" timestamp="1482406995112">
         <mark key="[" line="4" column="10" />
@@ -99,9 +64,6 @@
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1481024494257">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/package.json" timestamp="1485263780404">
         <mark key="[" line="48" column="32" />
         <mark key="]" line="64" column="19" />
@@ -120,20 +82,11 @@
         <mark key="." line="1" column="82" />
         <mark key="^" line="1" column="82" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/user-management/edit-user/edit-user.component.ts" timestamp="1482407000884">
-        <mark key="[" line="81" column="20" />
-      </file>
-      <file name="http://localhost:4200/main.bundle.js" timestamp="1484581080892">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1484225325792">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="2" column="12" />
-      </file>
-      <file name="vm:3774" timestamp="1482248463378">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info-routing.module.ts" timestamp="1485190153752">
         <mark key="[" line="0" column="47" />
@@ -148,31 +101,16 @@
         <mark key="." line="6" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1485264957444">
-        <mark key="[" line="128" column="34" />
-        <mark key="]" line="128" column="44" />
-        <mark key="^" line="128" column="44" />
-        <mark key="." line="128" column="44" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
-        <mark key="[" line="26" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/debugging-webpack/main.js" timestamp="1480591169108">
-        <mark key="[" line="6" column="54" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth.module.ts" timestamp="1481819487412">
-        <mark key="[" line="18" column="27" />
+        <mark key="[" line="103" column="34" />
+        <mark key="]" line="103" column="44" />
+        <mark key="^" line="103" column="44" />
+        <mark key="." line="103" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1484755094676">
         <mark key="[" line="55" column="40" />
         <mark key="]" line="55" column="37" />
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
-      </file>
-      <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1482407020266">
-        <mark key="[" line="15" column="82" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/user-management/user-management-routing.module.ts" timestamp="1485187377911">
         <mark key="[" line="11" column="32" />
@@ -190,9 +128,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1484143103968">
-        <mark key="[" line="42" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482160143000">
         <mark key="[" line="15" column="5" />
@@ -212,12 +147,6 @@
         <mark key="]" line="33" column="4" />
         <mark key="." line="33" column="4" />
         <mark key="^" line="33" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
-        <mark key="[" line="32" column="48" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1482407679976">
-        <mark key="[" line="27" column="44" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/projects.component.ts" timestamp="1484250917091">
         <mark key="[" line="7" column="11" />
@@ -252,19 +181,17 @@
         <mark key="]" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
-        <mark key="[" line="17" column="1" />
-      </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481646103042">
         <mark key="[" line="63" column="7" />
         <mark key="]" line="63" column="7" />
         <mark key="." line="63" column="7" />
         <mark key="^" line="60" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs-routing.module.ts" timestamp="1485265101633">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs-routing.module.ts" timestamp="1485266277194">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-info/client-info.component.ts" timestamp="1482406227978">
         <mark key="[" line="94" column="21" />
@@ -278,16 +205,10 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
-        <mark key="[" line="4" column="10" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.html" timestamp="1485190765691">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="31" />
         <mark key="." line="24" column="31" />
-      </file>
-      <file name="webpack:///./~/@angular/core/src/linker/view.js" timestamp="1484149407980">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481723207994">
         <mark key="[" line="15" column="36" />
@@ -295,23 +216,11 @@
         <mark key="^" line="16" column="952" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/NavbarController.js" timestamp="1479729019671">
-        <mark key="[" line="170" column="36" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLParser.ts" timestamp="1484312050257">
-        <mark key="[" line="18" column="98" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.component.ts" timestamp="1484563850761">
         <mark key="[" line="34" column="70" />
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.testmodule.ts" timestamp="1481819465300">
-        <mark key="[" line="27" column="2" />
-      </file>
-      <file name="webpack:///webpack/bootstrap 1d2017d11b3588e02613" timestamp="1484579162179">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/systemjs.config.js" timestamp="1484249071851">
         <mark key="[" line="16" column="56" />
@@ -323,12 +232,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
-        <mark key="[" line="17" column="51" />
-      </file>
-      <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -342,24 +245,6 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midway-edit/midway-edit.component.ts" timestamp="1482407693109">
-        <mark key="[" line="23" column="3" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/sidebar.directive.ts" timestamp="1482408033604">
-        <mark key="[" line="11" column="6" />
-      </file>
-      <file name="vm:12014" timestamp="1482147047887">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1482407014238">
-        <mark key="[" line="26" column="48" />
-      </file>
-      <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484582847585">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
-        <mark key="[" line="39" column="23" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" timestamp="1482139148116">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="5" column="12" />
@@ -372,17 +257,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
-        <mark key="[" line="6" column="19" />
-      </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
-        <mark key="[" line="2" column="53" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1484251271763">
         <mark key="[" line="8" column="37" />
@@ -401,9 +280,6 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
-      </file>
-      <file name="/AppModule/DashboardComponent/host.ngfactory.js" timestamp="1484059070257">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239859635">
         <mark key="[" line="9" column="52" />
@@ -429,28 +305,16 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="vm:2247" timestamp="1482420816056">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.component.ts" timestamp="1484245822004">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="45" />
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
-        <mark key="[" line="27" column="3" />
-      </file>
-      <file name="/fragment.ts" timestamp="1484570984331">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-info/client-info-routing.module.ts" timestamp="1485188486673">
         <mark key="[" line="27" column="9" />
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1485185918194">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1485190064787">
         <mark key="[" line="13" column="47" />
@@ -458,32 +322,17 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="13" column="49" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
-        <mark key="[" line="49" column="39" />
-      </file>
-      <file name="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/adblock-uiscripts-rightclick_hook.js" timestamp="1482423553046">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="webpack:///./~/zone.js/dist/zone.js" timestamp="1484224708389">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/dist/out-tsc/src/app/administration/midways/midways.component.js" timestamp="1481812689322">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/projector/app/app.module.ts" timestamp="1484244818814">
-        <mark key="[" line="26" column="92" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1482237943053">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ehLeanTS/.gitignore" timestamp="1482237529265">
-        <mark key="[" line="4" column="8" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/servers-routing.module.ts" timestamp="1485187562776">
-        <mark key="[" line="10" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/servers-routing.module.ts" timestamp="1485266409379">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/gulpfile.js" timestamp="1482254559851">
         <mark key="[" line="12" column="3" />
@@ -514,9 +363,6 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/@angular/core/src/zone/ng_zone.js" timestamp="1482424457219">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/index.html" timestamp="1482231867948">
         <mark key="[" line="25" column="61" />
         <mark key="]" line="25" column="71" />
@@ -528,9 +374,6 @@
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
-        <mark key="[" line="5" column="45" />
-      </file>
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482515546433">
         <mark key="[" line="80" column="16" />
         <mark key="]" line="80" column="16" />
@@ -541,9 +384,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="vm:13136" timestamp="1482147117156">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.ts" timestamp="1484250937486">
         <mark key="[" line="4" column="15" />
@@ -655,11 +495,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>'List Servers'</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>'List Servers'</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -667,10 +507,13 @@
       <register name="0" type="4">
         <text>show/:clientName</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAsCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>,
             {
                 path: 'details/:eventLogID',
@@ -680,25 +523,21 @@
                 }
             }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aE1hdGNoOiAnZnVsbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGF0aE1hdGNoOiAnZnVsbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdEYXNoYm9hcmRzJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZTogJ0tpYmFuYScsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-                    pageTitle: 'Client {clientName}'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdEYXNoYm9hcmRzJywK</text>
       </register>
       <register name="8" type="4">
         <text>,
-            pageTitle: &quot;Client Overview&quot;</text>
+                    pageTitle: 'Client {clientName}'</text>
       </register>
       <register name="9" type="4">
         <text>,
