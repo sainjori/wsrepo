@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/index.html" timestamp="1484249360355">
@@ -206,12 +206,12 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1485186978653">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" timestamp="1485260690597">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -358,7 +358,6 @@
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484582847585">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.component.ts" timestamp="1485181701405" />
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/TileController.js" timestamp="1479725301702">
         <mark key="[" line="39" column="23" />
       </file>
@@ -431,7 +430,6 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-info/client-info.module.ts" timestamp="1485189164992" />
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -441,7 +439,6 @@
         <mark key="^" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1485186040884" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
       </file>
