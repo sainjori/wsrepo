@@ -107,8 +107,11 @@
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485339697650">
-        <mark key="[" line="15" column="82" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485359111497">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="80" column="66" />
+        <mark key="." line="80" column="66" />
+        <mark key="^" line="80" column="66" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/user-management/user-management-routing.module.ts" timestamp="1485269074992">
         <mark key="[" line="19" column="27" />
@@ -146,7 +149,7 @@
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485352368067">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485358908395">
         <mark key="[" line="392" column="76" />
         <mark key="]" line="392" column="84" />
         <mark key="." line="392" column="84" />
@@ -271,13 +274,19 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1485360316615">
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+      </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/src/person.js" timestamp="1485278486779">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="59" />
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.component.ts" timestamp="1485339574870" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.component.ts" timestamp="1485357027232" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" timestamp="1482139148116">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="5" column="12" />
@@ -534,17 +543,17 @@
       <jump line="480" column="12" filename="$USER_HOME$/sandbox/laracasts/learnES6/history.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLXt7cm93cyB8IGpzb259fS0tPgo=</text>
+      <register name="&quot;" type="4">
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWdlVGl0bGU6ICdLaWJhbmEgRGFzaGJvYXJkcycsCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGRpc3BsYXlOYW1lOiAnRG93bmxvYWQgbG9nZmlsZScsCiAgICAgICAgaWNvbkNsYXNzSWRlbnRpZmllcjogJ2ljb24tY2xvdWQtZG93bmxvYWQnLAogICAgICAgIGxpc3RlbmVyczogWygpID0+IHdpbmRvdy5vcGVuKGAvYXBpL3YxL2xvZ3MvZG93bmxvYWQvJHt0aGlzLmV2ZW50TG9nLmxvZ0ZpbGVJZH1gLCAnX2JsYW5rJyldLAogICAgICAgIGRpc2FibGVkOiAhdGhpcy5ldmVudExvZy5sb2dGaWxlSWQsCiAgICAgICAgdG9vbHRpcDogJ1N0YXJ0IGRvd25sb2FkJywKICAgICAgICBkaXNhYmxlZFRvb2x0aXA6ICdDYW5ub3QgZG93bmxvYWQgbG9nZmlsZSBiZWNhdXNlIGl0IGhhc25cJ3QgYmVlbiB1cGxvYWRlZCB5ZXQnCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCEtLXt7cm93cyB8IGpzb259fS0tPgo=</text>
