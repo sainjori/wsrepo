@@ -27,7 +27,7 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="21" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1485265982277" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.html" timestamp="1485339457520" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.scss" timestamp="1481723144270">
         <mark key="[" line="10" column="35" />
         <mark key="]" line="14" column="15" />
@@ -63,11 +63,6 @@
         <mark key="]" line="67" column="6" />
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/package.json" timestamp="1485263780404">
-        <mark key="]" line="66" column="19" />
-        <mark key="^" line="66" column="19" />
-        <mark key="." line="66" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/pages/404.component.ts" timestamp="1482405131484">
         <mark key="[" line="5" column="16" />
@@ -112,6 +107,9 @@
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485339697650">
+        <mark key="[" line="15" column="82" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/user-management/user-management-routing.module.ts" timestamp="1485269074992">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="27" />
@@ -147,6 +145,12 @@
         <mark key="]" line="33" column="36" />
         <mark key="." line="33" column="36" />
         <mark key="^" line="33" column="36" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485343314409">
+        <mark key="[" line="392" column="76" />
+        <mark key="]" line="392" column="84" />
+        <mark key="." line="392" column="84" />
+        <mark key="^" line="392" column="84" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/projects.component.ts" timestamp="1484250917091">
         <mark key="[" line="7" column="11" />
@@ -186,6 +190,7 @@
         <mark key="]" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1485337895575" />
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481646103042">
         <mark key="[" line="63" column="7" />
         <mark key="]" line="63" column="7" />
@@ -267,6 +272,7 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.component.ts" timestamp="1485339574870" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" timestamp="1482139148116">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="5" column="12" />
@@ -523,11 +529,11 @@
       <jump line="480" column="12" filename="$USER_HOME$/sandbox/laracasts/learnES6/history.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA1MDMgIG5wbSBydW4gYnVpbGQK</text>
+      <register name="&quot;" type="4">
+        <text>flatMap</text>
       </register>
       <register name="-" type="4">
-        <text>// this.name + ' says He</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
