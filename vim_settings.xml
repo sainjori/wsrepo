@@ -80,12 +80,6 @@
       <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485447102990">
-        <mark key="[" line="99" column="60" />
-        <mark key="]" line="99" column="64" />
-        <mark key="." line="99" column="64" />
-        <mark key="^" line="99" column="64" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1485361260508" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1484143103968">
         <mark key="[" line="42" column="5" />
@@ -165,7 +159,6 @@
       <file name="/ConfigurationModule/ConfigurationComponent/wrapper.ngfactory.js" timestamp="1485366752510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/model/EventLogEntryPojo.ts" timestamp="1485446951300" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midway-edit/midway-edit.component.ts" timestamp="1482407693109">
         <mark key="[" line="23" column="3" />
       </file>
@@ -175,11 +168,11 @@
       <file name="vm:12014" timestamp="1482147047887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1485442941899">
-        <mark key="[" line="78" column="66" />
-        <mark key="]" line="78" column="66" />
-        <mark key="." line="78" column="66" />
-        <mark key="^" line="76" column="131" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1485449407172">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+        <mark key="^" line="42" column="47" />
       </file>
       <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485443210096">
         <mark key="[" line="0" column="0" />
@@ -369,8 +362,9 @@
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="8">
+        <text>errorId
+errorId</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -381,32 +375,33 @@
       <register name="0" type="4">
         <text>filteredEventLogs</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaEV4cHJzOiBNYXRjaEV4cHJbXSAgICAgICAgICAgIAo=</text>
+      <register name="1" type="8">
+        <text>errorId
+errorId</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TWF0Y2hFeHByCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaEV4cHJzOiBNYXRjaEV4cHJbXSAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">TWF0Y2hFeHByCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LnN1YnNjcmliZSgocHJlZnMpID0+IHsKICAgICAgICAgICAgICAgICAgICBsZXQgcHJlZiA9IHByZWZzWzBdOwogICAgICAgICAgICAgICAgICAgIHByZWYucHJlZmVyZW5jZVZhbHVlID0gKHByZWYucHJlZmVyZW5jZVZhbHVlIHx8ICcnKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYocHJlZi5wcmVmZXJlbmNlVmFsdWUubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICBwcmVmLnByZWZlcmVuY2VWYWx1ZSArPSc7JzsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHJlZi5wcmVmZXJlbmNlVmFsdWUgKz1lcnJvcklkOwogICAgICAgICAgICAgICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLgogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5maWx0ZXJlZEV2ZW50TG9ncykgewoKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbGV0IHBvam9zOiBQcmVmZXJlbmNlUG9qbzsKICAgICAgICAgICAgICAgICAgICB0aGlzLnByZWZlcmVuY2VFbmRwb2ludEFwaS5zYXZlUHJlZmVyZW5jZXMoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gdGhpcy5raWJhbmFEYXNoYm9hcmRFbmRwb2ludEFwaS5kZWxldGVEYXNoYm9hcmRCeUlEKGRhc2hib2FyZC5pZCkuc3Vic2NyaWJlKHN1Y2Nlc3MgPT4gewogICAgICAgICAgICAgICAgLy8gICB0aGlzLm5vdGlmaWNhdGlvbnNTZXJ2aWNlLnN1Y2Nlc3MoJ0RlbGV0ZWQnLCBgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQgdGhlIGRhc2hib2FyZCAiJHtkYXNoYm9hcmQuZGlzcGxheWVkTmFtZX0iIWApOwogICAgICAgICAgICAgICAgLy8gICB0aGlzLmRhdGFUYWJsZS5yZWZyZXNoKCk7CiAgICAgICAgICAgICAgICAvLyB9LCBlcnJvciA9PiB7CiAgICAgICAgICAgICAgICAvLyAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywgJ0Vycm9yIHdoZW4gZGVsZXRpbmcgZGFzaGJvYXJkIScpOwogICAgICAgICAgICAgICAgLy8gfSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnByZWZlcmVuY2VFbmRwb2ludEFwaS5zYXZlUHJlZmVyZW5jZXMoKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgdGl0bGU6ICdEZWxldGUgRGFzaGJvYXJkJywKICAgICAgbWVzc2FnZTogYEFyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBkZWxldGUgdGhlIGRhc2hib2FyZCAiJHtkYXNoYm9hcmQuZGlzcGxheWVkTmFtZX0iP2A=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
