@@ -1,9 +1,9 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1484568241187">
+      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1485443215061">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1484326618664">
@@ -29,7 +29,7 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1484569637254">
+      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1485443213889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1485367531655">
@@ -79,8 +79,8 @@
       <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485443127066">
-        <mark key="[" line="75" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485445267569">
+        <mark key="[" line="81" column="4" />
         <mark key="]" line="80" column="66" />
         <mark key="." line="80" column="66" />
         <mark key="^" line="80" column="66" />
@@ -149,7 +149,7 @@
       <file name="webpack:///webpack/bootstrap 1d2017d11b3588e02613" timestamp="1484579162179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1485367180646">
+      <file name="/fragment.js" timestamp="1485443191688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -178,6 +178,9 @@
         <mark key="]" line="78" column="66" />
         <mark key="." line="78" column="66" />
         <mark key="^" line="76" column="131" />
+      </file>
+      <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485443210096">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484582847585">
         <mark key="[" line="0" column="0" />
