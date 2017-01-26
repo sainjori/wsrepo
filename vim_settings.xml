@@ -79,7 +79,7 @@
       <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485359111497">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485443127066">
         <mark key="[" line="75" column="4" />
         <mark key="]" line="80" column="66" />
         <mark key="." line="80" column="66" />
@@ -136,6 +136,7 @@
       <file name="webpack:///./~/@angular/core/src/linker/view.js" timestamp="1484149407980">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/PreferencesUtil.ts" timestamp="1485442565095" />
       <file name="C:/++Monitoring/dashboard/app/assets/javascripts/app/controllers/dashboard/NavbarController.js" timestamp="1479729019671">
         <mark key="[" line="170" column="36" />
       </file>
@@ -172,11 +173,11 @@
       <file name="vm:12014" timestamp="1482147047887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1485425867051">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1485442941899">
+        <mark key="[" line="78" column="66" />
+        <mark key="]" line="78" column="66" />
+        <mark key="." line="78" column="66" />
+        <mark key="^" line="76" column="131" />
       </file>
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1484582847585">
         <mark key="[" line="0" column="0" />
@@ -213,7 +214,7 @@
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="/JavaScript Console" timestamp="1485365558210">
+      <file name="/JavaScript Console" timestamp="1485443129365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -363,11 +364,11 @@
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Error saving ...</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>Error saving ...</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
