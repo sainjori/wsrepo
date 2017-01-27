@@ -84,11 +84,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1484143103968">
         <mark key="[" line="42" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485446891804">
-        <mark key="[" line="392" column="76" />
-        <mark key="]" line="392" column="84" />
-        <mark key="." line="392" column="84" />
-        <mark key="^" line="392" column="84" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485514093488">
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -370,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MatchExpr[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MatchExpr[]</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
