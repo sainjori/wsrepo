@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/index.html" timestamp="1484249360355">
@@ -194,10 +194,10 @@
       <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485533071858">
-        <mark key="[" line="118" column="46" />
-        <mark key="]" line="118" column="86" />
-        <mark key="." line="118" column="86" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1485533939247">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
         <mark key="^" line="118" column="86" />
       </file>
       <file name="vm:22443" timestamp="1485515747203">
@@ -756,8 +756,8 @@
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>filter</text>
@@ -769,16 +769,16 @@
         <text>filteredEventLogs</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIuCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">cmV0dXJuIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFVzZXJQcmVmZXJlbmNlcyhbJ2V2ZW50dGFibGUuaWdub3JlZC5ldmVudGlkcyddKQogICAgICAgICAgICAuZmxhdE1hcChwcmVmcyA9PiB7CiAgICAgICAgICAgICAgICBsZXQgaWdub3JlZEV2ZW50SURzID0gUHJlZmVyZW5jZXNVdGlsLnBhcnNlTGlzdFByZWZlcmVuY2VQb2pvKHByZWZzWzBdKTsKICAgICAgICAgICAgICAgIGZvciAobGV0IGV2ZW50SWQgb2YgaWdub3JlZEV2ZW50SURzKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyLnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5OiAnZXJyb3JJZCcsCiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGVyKG1hdGNoRXhwcik7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jYWxsUXVlcnlFbmRwb2ludChmaWx0ZXIsIHF1ZXJ5RXZlbnQsIHNvcnRTdHJpbmcpOwogICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtYXRjaEV4cHI6IE1hdGNoRXhwcltdOwo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtYXRjaEV4cHI6IE1hdGNoRXhwcltdOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
