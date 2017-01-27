@@ -6,6 +6,11 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -100,16 +105,19 @@
     <keyboard-shortcut first-keystroke="f5" />
     <mouse-shortcut keystroke="control button142" />
     <mouse-shortcut keystroke="control alt button142" />
+    <keyboard-shortcut first-keystroke="numpad2" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift f8" />
     <mouse-shortcut keystroke="control button143" />
     <mouse-shortcut keystroke="control alt button143" />
+    <keyboard-shortcut first-keystroke="numpad1" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="numpad3" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
