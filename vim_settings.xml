@@ -190,6 +190,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/api/PreferenceEndpointApi.ts" timestamp="1485453607844" />
       <file name="/AppModule/DashboardComponent/host.ngfactory.js" timestamp="1484059070257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,6 +226,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/model/PreferencePojo.ts" timestamp="1485366257618" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1485513303792">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="57" />
+        <mark key="." line="0" column="58" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/projector/app/app.module.ts" timestamp="1484244818814">
         <mark key="[" line="26" column="92" />
       </file>
@@ -362,12 +369,11 @@
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>errorId
-errorId</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
@@ -375,33 +381,33 @@ errorId</text>
       <register name="0" type="4">
         <text>filteredEventLogs</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="8">
         <text>errorId
 errorId</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaEV4cHJzOiBNYXRjaEV4cHJbXSAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">TWF0Y2hFeHByCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LnN1YnNjcmliZSgocHJlZnMpID0+IHsKICAgICAgICAgICAgICAgICAgICBsZXQgcHJlZiA9IHByZWZzWzBdOwogICAgICAgICAgICAgICAgICAgIHByZWYucHJlZmVyZW5jZVZhbHVlID0gKHByZWYucHJlZmVyZW5jZVZhbHVlIHx8ICcnKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYocHJlZi5wcmVmZXJlbmNlVmFsdWUubGVuZ3RoID4gMCkgewogICAgICAgICAgICAgICAgICAgICAgICBwcmVmLnByZWZlcmVuY2VWYWx1ZSArPSc7JzsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgcHJlZi5wcmVmZXJlbmNlVmFsdWUgKz1lcnJvcklkOwogICAgICAgICAgICAgICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLgogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5maWx0ZXJlZEV2ZW50TG9ncykgewoKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbGV0IHBvam9zOiBQcmVmZXJlbmNlUG9qbzsKICAgICAgICAgICAgICAgICAgICB0aGlzLnByZWZlcmVuY2VFbmRwb2ludEFwaS5zYXZlUHJlZmVyZW5jZXMoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gdGhpcy5raWJhbmFEYXNoYm9hcmRFbmRwb2ludEFwaS5kZWxldGVEYXNoYm9hcmRCeUlEKGRhc2hib2FyZC5pZCkuc3Vic2NyaWJlKHN1Y2Nlc3MgPT4gewogICAgICAgICAgICAgICAgLy8gICB0aGlzLm5vdGlmaWNhdGlvbnNTZXJ2aWNlLnN1Y2Nlc3MoJ0RlbGV0ZWQnLCBgU3VjY2Vzc2Z1bGx5IGRlbGV0ZWQgdGhlIGRhc2hib2FyZCAiJHtkYXNoYm9hcmQuZGlzcGxheWVkTmFtZX0iIWApOwogICAgICAgICAgICAgICAgLy8gICB0aGlzLmRhdGFUYWJsZS5yZWZyZXNoKCk7CiAgICAgICAgICAgICAgICAvLyB9LCBlcnJvciA9PiB7CiAgICAgICAgICAgICAgICAvLyAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywgJ0Vycm9yIHdoZW4gZGVsZXRpbmcgZGFzaGJvYXJkIScpOwogICAgICAgICAgICAgICAgLy8gfSk7</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZWZlcmVuY2VFbmRwb2ludEFwaS5zYXZlUHJlZmVyZW5jZXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
