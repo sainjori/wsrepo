@@ -271,10 +271,10 @@
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/app.component.html" timestamp="1484251151253">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/app.component.html" timestamp="1485792190492">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview-routing.module.ts" timestamp="1485264250708">
         <mark key="[" line="26" column="36" />
@@ -307,11 +307,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485783186049">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/webpack.config.js" timestamp="1480431287300">
         <mark key="[" line="4" column="10" />
@@ -747,7 +747,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>filter</text>
@@ -759,19 +759,19 @@
         <text>filteredEventLogs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIuCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cmV0dXJuIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFVzZXJQcmVmZXJlbmNlcyhbJ2V2ZW50dGFibGUuaWdub3JlZC5ldmVudGlkcyddKQogICAgICAgICAgICAuZmxhdE1hcChwcmVmcyA9PiB7CiAgICAgICAgICAgICAgICBsZXQgaWdub3JlZEV2ZW50SURzID0gUHJlZmVyZW5jZXNVdGlsLnBhcnNlTGlzdFByZWZlcmVuY2VQb2pvKHByZWZzWzBdKTsKICAgICAgICAgICAgICAgIGZvciAobGV0IGV2ZW50SWQgb2YgaWdub3JlZEV2ZW50SURzKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyLnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5OiAnZXJyb3JJZCcsCiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGVyKG1hdGNoRXhwcik7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jYWxsUXVlcnlFbmRwb2ludChmaWx0ZXIsIHF1ZXJ5RXZlbnQsIHNvcnRTdHJpbmcpOwogICAgICAgICAgICB9KTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtYXRjaEV4cHI6IE1hdGNoRXhwcltdOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtYXRjaEV4cHI6IE1hdGNoRXhwcltdOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
