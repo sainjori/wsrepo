@@ -321,11 +321,11 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" timestamp="1485881774965">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="16" column="55" />
-        <mark key="^" line="16" column="55" />
-        <mark key="." line="16" column="55" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" timestamp="1485883660412">
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="69" />
+        <mark key="." line="24" column="69" />
+        <mark key="^" line="24" column="69" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.html" timestamp="1485270604279">
         <mark key="[" line="25" column="77" />
@@ -656,10 +656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>dec</text>
@@ -668,31 +668,31 @@
         <text encoding="base64">ICAgIHtwYXRoOiAncHJvamVjdHMvbmV3JywgY29tcG9uZW50OiBOZXdQcm9qZWN0Q29tcG9uZW50LCBjYW5BY3RpdmF0ZTogW0xvZ2dlZEluR3VhcmRdfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAoaWQgPT4gdGhpcy5wcm9qZWN0U2VydmljZS5nZXRQcm9qZWN0KGlkKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
