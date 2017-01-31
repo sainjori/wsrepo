@@ -39,12 +39,12 @@
         <mark key="." line="106" column="52" />
         <mark key="^" line="106" column="52" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" timestamp="1485875248435">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" timestamp="1485880119296">
         <mark key="'" line="28" column="26" />
-        <mark key="[" line="17" column="80" />
-        <mark key="]" line="17" column="80" />
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="16" column="68" />
         <mark key="^" line="17" column="77" />
-        <mark key="." line="17" column="80" />
+        <mark key="." line="16" column="47" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1485796110000">
         <mark key="[" line="28" column="0" />
@@ -321,6 +321,12 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" timestamp="1485881774965">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="55" />
+        <mark key="^" line="16" column="55" />
+        <mark key="." line="16" column="55" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.html" timestamp="1485270604279">
         <mark key="[" line="25" column="77" />
         <mark key="]" line="25" column="77" />
@@ -374,12 +380,12 @@
         <mark key="]" line="123" column="58" />
         <mark key="." line="123" column="58" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485879115350">
-        <mark key="'" line="58" column="9" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="26" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485880731085">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+        <mark key="^" line="64" column="50" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
@@ -387,12 +393,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485867315807">
-        <mark key="'" line="39" column="8" />
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="56" />
-        <mark key="^" line="21" column="56" />
-        <mark key="." line="21" column="56" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485881338763">
+        <mark key="'" line="40" column="15" />
+        <mark key="[" line="22" column="88" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/package.json" timestamp="1485277532528">
         <mark key="[" line="2" column="27" />
@@ -484,11 +490,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485799433692">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485882226204">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="71" />
+        <mark key="." line="28" column="44" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
@@ -547,9 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" />
-      <jump line="2" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" />
-      <jump line="30" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="81" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="92" column="58" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="1" column="9" filename="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" />
@@ -647,61 +650,63 @@
       <jump line="14" column="26" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" />
       <jump line="29" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
       <jump line="57" column="9" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
+      <jump line="63" column="21" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
+      <jump line="6" column="32" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" />
+      <jump line="39" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>projectS</text>
+        <text>dec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihldnQuY2hlY2tlZCAmJiBpbmRleCA9PT0gLTEpewogICAgICAgICAgICBuZXdVc2VycyA9IHVzZXJzLnZhbHVlLmNvbmNhdChbdXNlcm5hbWVdKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHtwYXRoOiAncHJvamVjdHMvbmV3JywgY29tcG9uZW50OiBOZXdQcm9qZWN0Q29tcG9uZW50LCBjYW5BY3RpdmF0ZTogW0xvZ2dlZEluR3VhcmRdfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PC9ib2R5Pgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
       </register>
     </registers>
     <search>
-      <last-search>projectS</last-search>
+      <last-search>dec</last-search>
       <last-offset />
-      <last-pattern>projectS</last-pattern>
+      <last-pattern>dec</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxWaWV3Q2hpbGRcPg==</entry>
         <entry>active</entry>
         <entry>ngMo</entry>
         <entry>%dd</entry>
@@ -721,6 +726,7 @@
         <entry>provi</entry>
         <entry>required</entry>
         <entry>projectS</entry>
+        <entry>dec</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
