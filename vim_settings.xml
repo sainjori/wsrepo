@@ -39,12 +39,12 @@
         <mark key="." line="106" column="52" />
         <mark key="^" line="106" column="52" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" timestamp="1485870535617">
-        <mark key="'" line="14" column="26" />
-        <mark key="[" line="14" column="85" />
-        <mark key="]" line="14" column="86" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="14" column="86" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" timestamp="1485875248435">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="80" />
+        <mark key="^" line="17" column="77" />
+        <mark key="." line="17" column="80" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1485796110000">
         <mark key="[" line="28" column="0" />
@@ -374,11 +374,12 @@
         <mark key="]" line="123" column="58" />
         <mark key="." line="123" column="58" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485869308135">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485875986640">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="49" column="43" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
@@ -546,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="37" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="2" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" />
       <jump line="2" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" />
@@ -646,16 +646,17 @@
       <jump line="16" column="27" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
       <jump line="11" column="49" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" />
       <jump line="14" column="26" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" />
+      <jump line="29" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>required</text>
+        <text>projectS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImVycm9yIiAqbmdJZj0nKCBzdWJtaXR0ZWQgfHwgbmFtZS5kaXJ0eSApICYmIG5hbWUuaGFzRXJyb3IoInJlcXVpcmVkIiknPgogICAgICAgICAgICAgICAgTmFtZSBmaWVsZCBpcyByZXF1aXJlZAogICAgICAgICAgICA8L3A+Cg==</text>
@@ -692,15 +693,14 @@
       </register>
     </registers>
     <search>
-      <last-search>required</last-search>
+      <last-search>projectS</last-search>
       <last-offset />
-      <last-pattern>required</last-pattern>
+      <last-pattern>projectS</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXZcPg==</entry>
         <entry encoding="base64">XDxWaWV3Q2hpbGRcPg==</entry>
         <entry>active</entry>
         <entry>ngMo</entry>
@@ -720,6 +720,7 @@
         <entry>column</entry>
         <entry>provi</entry>
         <entry>required</entry>
+        <entry>projectS</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
