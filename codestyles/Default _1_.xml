@@ -4,8 +4,9 @@
   <option name="HTML_ALIGN_TEXT" value="true" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,form,h1,h2,h3,label,p,a" />
-  <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
+  <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,q,s,samp,select,strike,strong,sub,sup,textarea,tt,u,var" />
   <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6" />
+  <option name="HTML_QUOTE_STYLE" value="Single" />
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
