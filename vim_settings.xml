@@ -366,17 +366,23 @@
       <file name="webpack:///webpack/bootstrap 1d2017d11b3588e02613" timestamp="1484579162179">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/pair.pipe.ts" timestamp="1485857183309">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/systemjs.config.js" timestamp="1484249071851">
         <mark key="[" line="16" column="56" />
         <mark key="]" line="16" column="56" />
         <mark key="^" line="16" column="56" />
         <mark key="." line="16" column="56" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/projectSummary.component.ts" timestamp="1485800801936">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/projectSummary.component.ts" timestamp="1485856525806">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="/fragment.js" timestamp="1485529056625">
         <mark key="[" line="0" column="0" />
@@ -406,11 +412,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projects.component.html" timestamp="1485800794327">
-        <mark key="[" line="0" column="59" />
-        <mark key="]" line="0" column="67" />
-        <mark key="^" line="0" column="67" />
-        <mark key="." line="0" column="67" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projects.component.html" timestamp="1485856902019">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="64" />
+        <mark key="^" line="0" column="64" />
+        <mark key="." line="0" column="64" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midway-edit/midway-edit.component.ts" timestamp="1482407693109">
         <mark key="[" line="23" column="3" />
@@ -474,10 +480,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485800576628">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485856250402">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
         <mark key="^" line="7" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/package.json" timestamp="1485277532528">
@@ -660,6 +666,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.html" timestamp="1485855921074">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="18" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" />
@@ -764,44 +775,44 @@
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>PipeNamePipe</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldFByb2plY3RzKCk6IE9ic2VydmFibGU8UHJvamVjdFtdPnsKICAgICAgICByZXR1cm4gdGhpcy5odHRwLmdldCgnL2FwaS9wcm9qZWN0cycpLm1hcCh0aGlzLmV4dHJhY3REYXRhKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5wdXNoKHZhbHVlW2krK10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxICpuZ0Zvcj0ibGV0IHByb2plY3Qgb2YgcHJvamVjdHMiPnt7cHJvamVjdC5uYW1lfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJodHRwLXByb3h5IjogIl4xLjE2LjIiLAo=</text>
+        <text encoding="base64">PD48cHJvamVjdC1zdW1tYXJ5ICpuZ0Zvcj0ibGV0IHByb2plY3Qgb2YgcHJvamVjdHMiIFtwcm9qZWN0XT0icHJvamVjdCI+PC9wcm9qZWN0LXN1bW1hcnk+PC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgxICpuZ0Zvcj0ibGV0IHByb2plY3Qgb2YgcHJvamVjdHMiPnt7cHJvamVjdC5uYW1lfX08L2gxPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJodHRwLXByb3h5IjogIl4xLjE2LjIiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cmV0dXJuIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFVzZXJQcmVmZXJlbmNlcyhbJ2V2ZW50dGFibGUuaWdub3JlZC5ldmVudGlkcyddKQogICAgICAgICAgICAuZmxhdE1hcChwcmVmcyA9PiB7CiAgICAgICAgICAgICAgICBsZXQgaWdub3JlZEV2ZW50SURzID0gUHJlZmVyZW5jZXNVdGlsLnBhcnNlTGlzdFByZWZlcmVuY2VQb2pvKHByZWZzWzBdKTsKICAgICAgICAgICAgICAgIGZvciAobGV0IGV2ZW50SWQgb2YgaWdub3JlZEV2ZW50SURzKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyLnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5OiAnZXJyb3JJZCcsCiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGVyKG1hdGNoRXhwcik7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jYWxsUXVlcnlFbmRwb2ludChmaWx0ZXIsIHF1ZXJ5RXZlbnQsIHNvcnRTdHJpbmcpOwogICAgICAgICAgICB9KTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGRkZGVyKG1hdGNoRXhwcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBtYXRjaEV4cHI6IE1hdGNoRXhwcltdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIuCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFVzZXJQcmVmZXJlbmNlcyhbJ2V2ZW50dGFibGUuaWdub3JlZC5ldmVudGlkcyddKQogICAgICAgICAgICAuZmxhdE1hcChwcmVmcyA9PiB7CiAgICAgICAgICAgICAgICBsZXQgaWdub3JlZEV2ZW50SURzID0gUHJlZmVyZW5jZXNVdGlsLnBhcnNlTGlzdFByZWZlcmVuY2VQb2pvKHByZWZzWzBdKTsKICAgICAgICAgICAgICAgIGZvciAobGV0IGV2ZW50SWQgb2YgaWdub3JlZEV2ZW50SURzKSB7CiAgICAgICAgICAgICAgICAgICAgZmlsdGVyLnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmRpdGlvbjogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5OiAnZXJyb3JJZCcsCiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxldCB0ZXN0ID0gRmlsdGVyVXRpbHMubWF0Y2hFeHByc1RvVVJMRmlsdGVyKG1hdGNoRXhwcik7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5jYWxsUXVlcnlFbmRwb2ludChmaWx0ZXIsIHF1ZXJ5RXZlbnQsIHNvcnRTdHJpbmcpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
