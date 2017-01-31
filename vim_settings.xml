@@ -87,6 +87,13 @@
         <mark key="." line="56" column="105" />
         <mark key="^" line="56" column="105" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/home.component.ts" timestamp="1485859338668">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/StringUtils.spec.ts" timestamp="1484591694762">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -480,11 +487,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485856250402">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="7" column="7" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485859203788">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/package.json" timestamp="1485277532528">
         <mark key="[" line="2" column="27" />
@@ -506,6 +513,13 @@
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="52" />
         <mark key="^" line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/home.component.html" timestamp="1485859071114">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="48" />
+        <mark key="^" line="6" column="48" />
+        <mark key="." line="6" column="48" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1484324109867">
         <mark key="[" line="21" column="0" />
@@ -556,9 +570,6 @@
       <file name="/JavaScript Console" timestamp="1485532056816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1485532053446">
-        <mark key="^" line="156" column="93" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
         <mark key="[" line="49" column="39" />
       </file>
@@ -567,6 +578,12 @@
       </file>
       <file name="webpack:///./~/zone.js/dist/zone.js" timestamp="1485515741381">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485859313097">
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1485532889819">
         <mark key="[" line="0" column="58" />
@@ -673,8 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="18" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" />
-      <jump line="7" column="6" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="26" column="24" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/app.module.ts" />
       <jump line="5" column="62" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
       <jump line="6" column="25" filename="$USER_HOME$/sandbox/PLng2Forms/src/app/home/home.component.html" />
@@ -773,19 +788,21 @@
       <jump line="9" column="91" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" />
       <jump line="480" column="12" filename="$USER_HOME$/sandbox/laracasts/learnES6/history.txt" />
       <jump line="72" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" />
+      <jump line="3" column="19" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/home.component.html" />
+      <jump line="8" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/home.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucAo=</text>
+      <register name="&quot;" type="4">
+        <text>redirectTo:'/home', pathMatch:'full'</text>
       </register>
       <register name="-" type="4">
-        <text>PipeNamePipe</text>
+        <text>redirectTo:'/home', pathMatch:'full'</text>
       </register>
       <register name="/" type="4">
         <text>column</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5wdXNoKHZhbHVlW2krK10pOwo=</text>
+        <text encoding="base64">ICAgIHtwYXRoOiAnJywgcmVkaXJlY3RUbzonL2hvbWUnLCBwYXRoTWF0Y2g6J2Z1bGwnfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0ucAo=</text>
