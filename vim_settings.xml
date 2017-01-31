@@ -374,12 +374,12 @@
         <mark key="]" line="123" column="58" />
         <mark key="." line="123" column="58" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485875986640">
-        <mark key="'" line="29" column="15" />
-        <mark key="[" line="49" column="43" />
-        <mark key="]" line="49" column="43" />
-        <mark key="." line="49" column="43" />
-        <mark key="^" line="49" column="43" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" timestamp="1485879115350">
+        <mark key="'" line="58" column="9" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
@@ -448,11 +448,11 @@
         <mark key="]" line="27" column="9" />
         <mark key="." line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485859313097">
-        <mark key="[" line="1" column="47" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1485532889819">
         <mark key="[" line="0" column="58" />
@@ -547,7 +547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
       <jump line="2" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" />
       <jump line="2" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/.gitignore" />
       <jump line="30" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.ts" />
@@ -647,46 +646,47 @@
       <jump line="11" column="49" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" />
       <jump line="14" column="26" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newProject.component.html" />
       <jump line="29" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
+      <jump line="57" column="9" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newProject.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>projectS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9ImVycm9yIiAqbmdJZj0nKCBzdWJtaXR0ZWQgfHwgbmFtZS5kaXJ0eSApICYmIG5hbWUuaGFzRXJyb3IoInJlcXVpcmVkIiknPgogICAgICAgICAgICAgICAgTmFtZSBmaWVsZCBpcyByZXF1aXJlZAogICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihldnQuY2hlY2tlZCAmJiBpbmRleCA9PT0gLTEpewogICAgICAgICAgICBuZXdVc2VycyA9IHVzZXJzLnZhbHVlLmNvbmNhdChbdXNlcm5hbWVdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PC9ib2R5Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">PGJvZHk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
