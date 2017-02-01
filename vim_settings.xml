@@ -179,12 +179,11 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" timestamp="1485948176977">
-        <mark key="'" line="32" column="66" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" timestamp="1485951066845">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485529881947">
         <mark key="[" line="371" column="20" />
@@ -439,12 +438,12 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485947588814">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485950150292">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="34" />
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="42" />
         <mark key="^" line="36" column="34" />
-        <mark key="." line="36" column="34" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
@@ -470,7 +469,7 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="80" column="16" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" timestamp="1485948322291">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" timestamp="1485949056051">
         <mark key="'" line="15" column="51" />
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="58" />
@@ -485,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="102" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="89" column="66" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="85" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="79" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
@@ -585,13 +582,15 @@
       <jump line="11" column="15" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" />
       <jump line="31" column="66" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" />
       <jump line="15" column="51" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" />
+      <jump line="37" column="13" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>messa</text>
@@ -603,28 +602,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGU8Uj47CiAgICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGg6IEF1dGhTZXJ2aWNlLCBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwgcHJpdmF0ZSBwcm9qU2VydmljZTogUHJvamVjdHNTZXJ2aWNlKSB7Cg==</text>
+        <text encoding="base64">ICAgIG5nT25EZXN0cm95KCk6IHZvaWQgewogICAgICAgIHRoaXMuc3ViLnVuc3Vic2NyaWJlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAoaWQgPT4gdGhpcy5wcm9qZWN0U2VydmljZS5nZXRQcm9qZWN0KGlkKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE9ic2VydmFibGU8Uj47CiAgICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGg6IEF1dGhTZXJ2aWNlLCBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwgcHJpdmF0ZSBwcm9qU2VydmljZTogUHJvamVjdHNTZXJ2aWNlKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAoaWQgPT4gdGhpcy5wcm9qZWN0U2VydmljZS5nZXRQcm9qZWN0KGlkKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmZvcm0udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
