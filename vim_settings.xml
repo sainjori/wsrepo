@@ -179,11 +179,12 @@
         <mark key="." line="81" column="24" />
         <mark key="^" line="81" column="24" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" timestamp="1485951066845">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" timestamp="1485952668221">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="28" column="87" />
+        <mark key="." line="28" column="87" />
+        <mark key="^" line="28" column="87" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1485529881947">
         <mark key="[" line="371" column="20" />
@@ -214,6 +215,12 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/newConversation.component.html" timestamp="1485954194807">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="69" />
+        <mark key="^" line="4" column="69" />
+        <mark key="." line="4" column="69" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/app.component.html" timestamp="1485863439447">
         <mark key="'" line="8" column="14" />
@@ -288,12 +295,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" timestamp="1485942381187">
-        <mark key="'" line="15" column="30" />
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="59" />
-        <mark key="^" line="9" column="68" />
-        <mark key="." line="9" column="59" />
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" timestamp="1485952966483">
+        <mark key="'" line="17" column="30" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="66" />
+        <mark key="^" line="10" column="68" />
+        <mark key="." line="10" column="68" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -351,12 +358,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485943517308">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/app.module.ts" timestamp="1485952987277">
         <mark key="'" line="6" column="43" />
-        <mark key="[" line="43" column="23" />
-        <mark key="]" line="24" column="84" />
-        <mark key="^" line="24" column="84" />
-        <mark key="." line="24" column="84" />
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="45" column="32" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="45" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/package.json" timestamp="1485277532528">
         <mark key="[" line="2" column="27" />
@@ -420,6 +427,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newConversation.component.ts" timestamp="1485954167222">
+        <mark key="[" line="23" column="88" />
+        <mark key="]" line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/servers-routing.module.ts" timestamp="1485266409379">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -438,12 +451,12 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485950150292">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.service.ts" timestamp="1485953952967">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="42" />
-        <mark key="^" line="36" column="34" />
-        <mark key="." line="34" column="42" />
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="71" />
+        <mark key="^" line="42" column="71" />
+        <mark key="." line="42" column="71" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
@@ -469,12 +482,18 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="80" column="16" />
       </file>
-      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" timestamp="1485949056051">
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/conversation.component.html" timestamp="1485953267137">
         <mark key="'" line="15" column="51" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="58" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="11" />
         <mark key="^" line="15" column="58" />
         <mark key="." line="15" column="58" />
+      </file>
+      <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/newConversation.component.html" timestamp="1485953053091">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.ts" timestamp="1484250937486">
         <mark key="[" line="4" column="15" />
@@ -586,44 +605,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>messa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiAqbmdJZj0nd3JpdGFibGUnIG1kLXJhaXNlZC1idXR0b24gKGNsaWNrKT0naGFuZGxlQ2xpY2soKScgY29sb3I9J3ByaW1hcnknPlNlbmQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8cD4KICAgICAgICAgICAgPGJ1dHRvbiAqbmdJZj0nd3JpdGFibGUnIG1kLXJhaXNlZC1idXR0b24gKGNsaWNrKT0naGFuZGxlQ2xpY2soKScgY29sb3I9J3ByaW1hcnknPlNlbmQ8L2J1dHRvbj4KICAgICAgICAgICAgPGJ1dHRvbiBtZC1yYWlzZWQtYnV0dG9uIFtyb3V0ZXJMaW5rXT0nWyIuLi8uLi8iXSc+Q2FuY2VsPC9idXR0b24+CiAgICAgICAgPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5nT25EZXN0cm95KCk6IHZvaWQgewogICAgICAgIHRoaXMuc3ViLnVuc3Vic2NyaWJlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">bmcK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9ic2VydmFibGU8Uj47CiAgICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGg6IEF1dGhTZXJ2aWNlLCBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwgcHJpdmF0ZSBwcm9qU2VydmljZTogUHJvamVjdHNTZXJ2aWNlKSB7Cg==</text>
+        <text encoding="base64">ICAgIG5nT25EZXN0cm95KCk6IHZvaWQgewogICAgICAgIHRoaXMuc3ViLnVuc3Vic2NyaWJlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAoaWQgPT4gdGhpcy5wcm9qZWN0U2VydmljZS5nZXRQcm9qZWN0KGlkKSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE9ic2VydmFibGU8Uj47CiAgICBjb25zdHJ1Y3Rvcihwcml2YXRlIGF1dGg6IEF1dGhTZXJ2aWNlLCBwcml2YXRlIHJvdXRlOiBBY3RpdmF0ZWRSb3V0ZSwgcHJpdmF0ZSBwcm9qU2VydmljZTogUHJvamVjdHNTZXJ2aWNlKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAoaWQgPT4gdGhpcy5wcm9qZWN0U2VydmljZS5nZXRQcm9qZWN0KGlkKSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBpZ25vcmVkRXZlbnRJRHMgPSBQcmVmZXJlbmNlc1V0aWwucGFyc2VMaXN0UHJlZmVyZW5jZVBvam8ocHJlZnNbMF0pOwogICAgICAgICAgICAgICAgZm9yIChsZXQgZXZlbnRJZCBvZiBpZ25vcmVkRXZlbnRJRHMpIHsKICAgICAgICAgICAgICAgICAgICBuZXdGaWx0ZXIuc3ViZXhwcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOidDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJyE9JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGV2ZW50SWQsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiAnZXZlbnRfaWQnLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
