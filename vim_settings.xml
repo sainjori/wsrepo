@@ -9,7 +9,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1485515735377">
+      <file name="webpack:///./~/rxjs/Subscriber.js" timestamp="1486032575301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
@@ -27,6 +27,7 @@
       <file name="/a.dummy" timestamp="1485958585341">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/scss/bootstrap_src/_breadcrumb.scss" timestamp="1486032620082" />
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="12" column="15" />
@@ -94,11 +95,11 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1485191218839">
-        <mark key="[" line="27" column="94" />
-        <mark key="]" line="56" column="105" />
-        <mark key="." line="56" column="105" />
-        <mark key="^" line="56" column="105" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1486034856548">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="59" column="105" />
+        <mark key="." line="59" column="105" />
+        <mark key="^" line="59" column="105" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/home.component.ts" timestamp="1485859338668">
         <mark key="'" line="8" column="15" />
@@ -279,7 +280,7 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/aside.directive.ts" timestamp="1482331728587">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/aside.directive.ts" timestamp="1486032661843">
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="22" />
         <mark key="^" line="12" column="22" />
@@ -356,10 +357,10 @@
         <mark key="[" line="18" column="98" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.component.ts" timestamp="1484563850761">
-        <mark key="[" line="32" column="70" />
-        <mark key="]" line="33" column="43" />
-        <mark key="." line="33" column="43" />
-        <mark key="^" line="33" column="43" />
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/src/index.html" timestamp="1485278058855">
         <mark key="[" line="10" column="0" />
@@ -390,6 +391,9 @@
         <mark key="]" line="7" column="18" />
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
+      </file>
+      <file name="/fragment.js" timestamp="1486031749520">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
         <mark key="[" line="17" column="51" />
@@ -506,6 +510,7 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/breadcrumb.component.ts" timestamp="1486031843051" />
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481643975182">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="44" />
@@ -565,7 +570,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1485532056816">
+      <file name="/JavaScript Console" timestamp="1486031600176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
