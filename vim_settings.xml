@@ -74,8 +74,13 @@
       <file name="$USER_HOME$/sandbox/29-11/angular2-fundamentals/src/app/app.module.ts" timestamp="1480598063933">
         <mark key="[" line="7" column="14" />
       </file>
-      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1485529885964">
+      <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/filter-dropdown.directive.ts" timestamp="1486048592631">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -228,6 +233,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.module.ts" timestamp="1486047933479">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+      </file>
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/tst.js" timestamp="1482492753186">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="7" column="0" />
@@ -243,11 +254,11 @@
         <mark key="^" line="26" column="43" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1484563745237">
-        <mark key="[" line="80" column="25" />
-        <mark key="]" line="81" column="24" />
-        <mark key="." line="81" column="24" />
-        <mark key="^" line="81" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1486048441171">
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="83" column="24" />
+        <mark key="." line="83" column="24" />
+        <mark key="^" line="83" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/conversation.component.ts" timestamp="1485952668221">
         <mark key="'" line="15" column="0" />
@@ -256,7 +267,8 @@
         <mark key="." line="28" column="87" />
         <mark key="^" line="28" column="87" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486043544905">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486047399139">
+        <mark key="'" line="370" column="78" />
         <mark key="[" line="371" column="20" />
         <mark key="]" line="44" column="17" />
         <mark key="." line="44" column="17" />
@@ -305,11 +317,9 @@
         <mark key="." line="9" column="54" />
         <mark key="^" line="9" column="54" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486043918254">
-        <mark key="'" line="19" column="132" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486048492397">
+        <mark key="'" line="38" column="132" />
+        <mark key="[" line="6" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -398,7 +408,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1486031749520">
+      <file name="/fragment.js" timestamp="1486047225010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
@@ -419,6 +429,12 @@
       </file>
       <file name="/ConfigurationModule/ConfigurationComponent/wrapper.ngfactory.js" timestamp="1485366752510">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.component.html" timestamp="1486048672570">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -576,7 +592,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486031600176">
+      <file name="/JavaScript Console" timestamp="1486044236724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -599,6 +615,12 @@
         <mark key="]" line="0" column="58" />
         <mark key="^" line="0" column="57" />
         <mark key="." line="0" column="58" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/EventLogFilterService.ts" timestamp="1486047753719">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/dist/out-tsc/src/app/administration/midways/midways.component.js" timestamp="1481812689322">
         <mark key="[" line="5" column="2" />
@@ -700,8 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="5" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
-      <jump line="22" column="30" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="27" column="8" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="31" column="8" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="21" column="25" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
@@ -800,46 +820,48 @@
       <jump line="0" column="19" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" />
       <jump line="20" column="132" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" />
+      <jump line="314" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="370" column="78" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tkaXNwbGF5ZWRDb2x1bW4ucHJvcH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Ausgewählt</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>On</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8bGFiZWw+QXVzZ2V35GhsdDogPC9sYWJlbD4K</text>
+      <register name="0" type="4">
+        <text>EventLogFilterService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tkaXNwbGF5ZWRDb2x1bW4ucHJvcH19Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAge3tkaXNwbGF5ZWRDb2x1bW5zIHwganNvbn19Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJkaXZpZGVyIGRyb3Bkb3duLWRpdmlkZXIiPjwvbGk+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMDIuMDIuMjAxNy4KICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsPkF1c2dld+RobHQ6IDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMDIuMDIuMjAxNy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3tkaXNwbGF5ZWRDb2x1bW4ucHJvcH19Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiAgY2xhc3M9ImNvbC1tZC0yIj4K</text>
+        <text encoding="base64">ICAgICAge3tkaXNwbGF5ZWRDb2x1bW5zIHwganNvbn19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJkaXZpZGVyIGRyb3Bkb3duLWRpdmlkZXIiPjwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
