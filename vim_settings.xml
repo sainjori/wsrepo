@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1486123681146">
+      <file name="/a.dummy" timestamp="1486125697487">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
@@ -42,11 +42,11 @@
       <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1482424461503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/FilterUtils.ts" timestamp="1485530471167">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="53" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/FilterUtils.ts" timestamp="1486125305336">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midways.component.ts" timestamp="1485531310762">
         <mark key="[" line="106" column="60" />
@@ -87,11 +87,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486124426016">
-        <mark key="[" line="49" column="37" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486126130904">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="25" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -864,51 +864,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>On</text>
       </register>
-      <register name="0" type="4">
-        <text>filterColumn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZXZ0LmNoZWNrZWQgJiYgdGhpcy5pc05vdFNlbGVjdGVkKGl0ZW0pKXsKICAgICAgICAgICAgICAgIHRoaXMuc2VsZWN0ZWRJdGVtcy5wdXNoKGl0ZW0pCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkSXRlbXMK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkSXRlbXMucHVzaChpdGVtKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHNlbGVjdGVkSXRlbXM6IHN0cmluZ1tdID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlbGVjdGVkSXRlbXMuZm9yRWFjaCgoc2VsZWN0ZWRJdGVtLCBpLCBhcnIpID0+IHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8bGkgcm9sZT0nbWVudWl0ZW0nPjxpbnB1dCB0eXBlPSdjaGVja2JveCc+CiAgICAgICAgICAgICAgICA8c3Bhbj5GQ1RSPC9zcGFuPgogICAgICAgICAgICA8L2xpPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnIuc3BsaWNlKGksIDEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHNlbGVjdGVkSXRlbS52YWx1ZSA9PT0gaXRlbS52YWx1ZSl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDaGVja3MgZm9yIHN1cHBvcnQgZm9yIEludGwuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>if (IntlSupport.dateTimeFormatSupported(defaultLocale)) {
-
-            const localeDate: DatePipe = new DatePipe(defaultLocale);
-
-            return localeDate.transform(value, pattern);
-
-        }
-
-        // Returns the date without localization.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
