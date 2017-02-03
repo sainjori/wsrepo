@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/index.html" timestamp="1484249360355">
@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1486051875650">
+      <file name="/a.dummy" timestamp="1486123681146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
@@ -67,6 +67,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/pipes/selectedPipe.ts" timestamp="1486123910721">
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="8" column="51" />
+      </file>
       <file name="/AppModule/AppComponent/wrapper.ngfactory.js" timestamp="1484573990110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,11 +87,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486055741663">
-        <mark key="[" line="6" column="72" />
-        <mark key="]" line="6" column="72" />
-        <mark key="." line="6" column="72" />
-        <mark key="^" line="6" column="89" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486124426016">
+        <mark key="[" line="49" column="37" />
+        <mark key="]" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+        <mark key="^" line="49" column="35" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -289,11 +295,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1486055219648">
-        <mark key="[" line="14" column="63" />
-        <mark key="]" line="14" column="96" />
-        <mark key="^" line="14" column="62" />
-        <mark key="." line="14" column="63" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1486124354997">
+        <mark key="[" line="18" column="106" />
+        <mark key="]" line="18" column="105" />
+        <mark key="^" line="18" column="105" />
+        <mark key="." line="18" column="105" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1482407679976">
         <mark key="[" line="27" column="44" />
@@ -438,6 +444,7 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/pipes/locale-date.pipe.ts" timestamp="1486123670087" />
       <file name="webpack:///./~/rxjs/Subject.js" timestamp="1485515732898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -618,7 +625,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486044236724">
+      <file name="/JavaScript Console" timestamp="1486123370529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -715,11 +722,11 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1486051980708">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1486123340815">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
@@ -869,31 +876,39 @@
         <text>filterColumn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0ibWVudWl0ZW0iPjxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkSXRlbXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgcm9sZT0ibWVudWl0ZW0iPjxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiBocmVmPSIjIj5Tb21ldGhpbmcgZWxzZSBoZXJlPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHNlbGVjdGVkSXRlbXM6IHN0cmluZ1tdID0gW107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJkYXRhYWEiLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZGF0YWFhIiwgdGhpcy5kYXRhKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICA8bGkgcm9sZT0nbWVudWl0ZW0nPjxpbnB1dCB0eXBlPSdjaGVja2JveCc+CiAgICAgICAgICAgICAgICA8c3Bhbj5GQ1RSPC9zcGFuPgogICAgICAgICAgICA8L2xpPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJTZXJ2aWNlLmdldERpc3RpbmN0VmFsdWVzRm9yQ29sdW1uKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJTZXJ2aWNlLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWU7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBDaGVja3MgZm9yIHN1cHBvcnQgZm9yIEludGwuCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>if (IntlSupport.dateTimeFormatSupported(defaultLocale)) {
+
+            const localeDate: DatePipe = new DatePipe(defaultLocale);
+
+            return localeDate.transform(value, pattern);
+
+        }
+
+        // Returns the date without localization.</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
