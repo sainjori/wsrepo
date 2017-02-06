@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/index.html" timestamp="1484249360355">
@@ -81,12 +81,13 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486398089172">
-        <mark key="'" line="111" column="35" />
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="122" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486403992681">
+        <mark key="a" line="100" column="15" />
+        <mark key="'" line="101" column="12" />
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="27" />
+        <mark key="." line="108" column="27" />
+        <mark key="^" line="108" column="27" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -266,9 +267,9 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486387233143">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486400834502">
         <mark key="'" line="159" column="33" />
-        <mark key="[" line="387" column="20" />
+        <mark key="[" line="325" column="52" />
         <mark key="]" line="274" column="37" />
         <mark key="." line="274" column="37" />
         <mark key="^" line="274" column="37" />
@@ -493,11 +494,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486397105270">
-        <mark key="[" line="10" column="95" />
-        <mark key="]" line="10" column="100" />
-        <mark key="." line="10" column="100" />
-        <mark key="^" line="10" column="100" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486404088602">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="19" column="23" />
       </file>
       <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
         <mark key="[" line="6" column="19" />
@@ -684,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="10" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
-      <jump line="79" column="11" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="89" column="231" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="46" column="29" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="48" column="28" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
@@ -784,46 +783,50 @@
       <jump line="159" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="25" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" />
       <jump line="111" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
+      <jump line="66" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
+      <jump line="101" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlc3Q7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>returnValue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlc3Q7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bGV0IAogICAgICAgIHRoaXMuc2VsZWN0ZWRJdGVtcyA9IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEuZmlsdGVyKGVsbSA9PiB7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQuaW5kZXhPZihlbG0udmFsdWUpIDwgMAogICAgICAgIH0pLm1hcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5pbmRleE9mKGVsbS52YWx1ZSkgPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJlZFJlc3VsdHMubQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+      <register name="5" type="8">
+        <text>dropDownToShow
+dropDownToShow
+dropDownToShow</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsbERyb3Bkb3duRGF0YTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGVzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWxsRHJvcGRvd25EYXRhID0gdGhpcy50cmFuc2Zvcm1WYWx1ZXMocmVzdWx0LCBmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
