@@ -81,12 +81,12 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486137549883">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486390406191">
         <mark key="'" line="24" column="9" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -266,11 +266,12 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486387083612">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486387233143">
         <mark key="'" line="159" column="33" />
         <mark key="[" line="387" column="20" />
-        <mark key="]" line="387" column="20" />
-        <mark key="." line="387" column="20" />
+        <mark key="]" line="274" column="37" />
+        <mark key="." line="274" column="37" />
+        <mark key="^" line="274" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -414,7 +415,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1486382062934">
+      <file name="/fragment.js" timestamp="1486389016561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
@@ -492,11 +493,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486135293300">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="65" />
-        <mark key="." line="22" column="65" />
-        <mark key="^" line="22" column="65" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486390483254">
+        <mark key="[" line="10" column="95" />
+        <mark key="]" line="10" column="107" />
+        <mark key="." line="10" column="107" />
+        <mark key="^" line="10" column="107" />
       </file>
       <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
         <mark key="[" line="6" column="19" />
@@ -561,7 +562,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486386944202">
+      <file name="/JavaScript Console" timestamp="1486389814087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -786,43 +787,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AND</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>AND</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWxzZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYuc2VsZWN0ZWQgIT09IHRydWUK</text>
+      <register name="0" type="4">
+        <text>returnValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
+        <text encoding="base64">ZGVjbGFyZSB0eXBlIFNlbGVjdGlvbkl0ZW0gPSB7dmFsdWU6IHN0cmluZywgc2VsZWN0ZWQ6IGJvb2xlYW59Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGF0YSA9IHRoaXMuZmlsdGVyU2VydmljZShyZXN1bHQsIGZhbHNlKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdi5zZWxlY3RlZCA9PT0gdHJ1ZQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">cHJpdmF0ZSB0cmFuc2Zvcm1WYWx1ZXMocmVzdWx0LCBzZWxlY3RlZDogYm9vbGVhbikgewogICAgICAgIHJldHVybiByZXN1bHQubWFwKGUgPT4gewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgdmFsdWU6IGUsCiAgICAgICAgICAgICAgICBzZWxlY3RlZDogc2VsZWN0ZWQKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICB2LnNlbGVjdGVkID09PSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJldHVyblZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjthCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXR1cm5WYWx1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJldHVyblZhbHVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlGaWx0ZXJzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiBwcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogZWxtLnJlcGxhY2UoL1wqL2csICclJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVyYW5kOiAnficsCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuZGF0YS5mb3JFYWNoKGVsbSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
