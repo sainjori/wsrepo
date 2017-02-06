@@ -81,13 +81,13 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486403992681">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486408071120">
         <mark key="a" line="100" column="15" />
         <mark key="'" line="101" column="12" />
-        <mark key="[" line="108" column="8" />
-        <mark key="]" line="108" column="27" />
-        <mark key="." line="108" column="27" />
-        <mark key="^" line="108" column="27" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="19" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -563,7 +563,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486398009940">
+      <file name="/JavaScript Console" timestamp="1486408076024">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -787,11 +787,11 @@
       <jump line="101" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.splice(0, 2);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.splice(0, 2);</text>
+        <text>this._saveSelected();</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -799,34 +799,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bGV0IAogICAgICAgIHRoaXMuc2VsZWN0ZWRJdGVtcyA9IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGQgCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX3NhdmVTZWxlY3RlZCgpOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">bGV0IAogICAgICAgIHRoaXMuc2VsZWN0ZWRJdGVtcyA9IA==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGQgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaWx0ZXJlZFJlc3VsdHMubQo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>dropDownToShow
 dropDownToShow
 dropDownToShow</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFsbERyb3Bkb3duRGF0YTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWxsRHJvcGRvd25EYXRhID0gdGhpcy50cmFuc2Zvcm1WYWx1ZXMocmVzdWx0LCBmYWxzZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYWxsRHJvcGRvd25EYXRhID0gdGhpcy50cmFuc2Zvcm1WYWx1ZXMocmVzdWx0LCBmYWxzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
