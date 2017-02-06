@@ -266,12 +266,11 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486381702316">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486382744892">
         <mark key="'" line="159" column="33" />
-        <mark key="[" line="367" column="36" />
-        <mark key="]" line="367" column="36" />
-        <mark key="." line="367" column="36" />
-        <mark key="^" line="367" column="36" />
+        <mark key="[" line="368" column="0" />
+        <mark key="]" line="368" column="0" />
+        <mark key="." line="368" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -415,7 +414,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1486130589059">
+      <file name="/fragment.js" timestamp="1486382062934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
@@ -786,8 +785,8 @@
       <jump line="159" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>test</text>
@@ -802,30 +801,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlGaWx0ZXJzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiBwcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogdGVzdC5yZXBsYWNlKC9cKi9nLCAnJScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJ34nLAogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlGaWx0ZXJzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiBwcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogZWxtLnJlcGxhY2UoL1wqL2csICclJyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcGVyYW5kOiAnficsCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCB0ZXN0IG9mIHRoaXMuZmlsdGVyW3Byb3BlcnR5TmFtZV0pewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">bGV0IHRlc3QgPSB0aGlzLmZpbHRlcltwcm9wZXJ0eU5hbWVdOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCB0ZXN0IG9mIHRoaXMuZmlsdGVyW3Byb3BlcnR5TmFtZV0pewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0aGlzLmZpbHRlcltwcm9wZXJ0eU5hbWVdLmZvckVhY2goZWxtKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeUZpbHRlcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiBwcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlOiB0aGlzLmZpbHRlcltwcm9wZXJ0eU5hbWVdLnJlcGxhY2UoL1wqL2csICclJyksCiAgICAgICAgICAgICAgICAgICAgICAgIG9wZXJhbmQ6ICd+JywKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">e3NlbGVjdGVkOiBzdHJpbmdbXX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcXVlcnlGaWx0ZXJzLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkOiBwcm9wZXJ0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogdGVzdC5yZXBsYWNlKC9cKi9nLCAnJScpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3BlcmFuZDogJ34nLAogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCB0ZXN0IG9mIHRoaXMuZmlsdGVyW3Byb3BlcnR5TmFtZV0pewo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
