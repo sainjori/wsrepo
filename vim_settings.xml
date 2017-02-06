@@ -81,12 +81,12 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486397217373">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486398089172">
         <mark key="'" line="111" column="35" />
-        <mark key="[" line="115" column="45" />
-        <mark key="]" line="115" column="46" />
-        <mark key="." line="115" column="46" />
-        <mark key="^" line="115" column="46" />
+        <mark key="[" line="122" column="15" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="122" column="15" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -562,7 +562,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486396590316">
+      <file name="/JavaScript Console" timestamp="1486398009940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -787,10 +787,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5pbmRleE9mKGVsbS52YWx1ZSkgPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlc3Q7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SelectionItem</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -799,31 +799,31 @@
         <text>returnValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5pbmRleE9mKGVsbS52YWx1ZSkgPiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlc3Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEuZmlsdGVyKGVsbSA9PiB7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQuaW5kZXhPZihlbG0udmFsdWUpIDwgMAogICAgICAgIH0pLm1hcCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGVzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdC5pbmRleE9mKGVsbS52YWx1ZSkgPiAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGVzdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAuc29ydCgoYSwgYikgPT4gYS52YWx1ZSAtIGIudmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRoaXMuZGF0YSA9IGRhdGEuY29uY2F0KHRoaXMudHJhbnNmb3JtVmFsdWVzKHRoaXMuc2VsZWN0ZWRJdGVtcywgdHJ1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
