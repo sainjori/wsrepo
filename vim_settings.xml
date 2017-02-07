@@ -594,6 +594,11 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.component.html" timestamp="1486488906565">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1485532889819">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="58" />
@@ -800,8 +805,8 @@
       <jump line="315" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filterVisible=!filterVisible</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7dmFyaWFibGVGb3JtfGpzb259fQo=</text>
       </register>
       <register name="-" type="4">
         <text>filterVisible=!filterVisible</text>
@@ -813,28 +818,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aS5lcnJvciB7Cg==</text>
+        <text encoding="base64">ICAgIHt7dmFyaWFibGVGb3JtfGpzb259fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOnJlZDsK</text>
+        <text encoding="base64">ICB7e2pzb25Db25maWdUYWJzfCBqc29ufX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aS5lcnJvciB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOnJlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aS53YXJuaW5nIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiB5ZWxsb3c7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aS53YXJuaW5nIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiB5ZWxsb3c7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">fQo=</text>
