@@ -87,13 +87,13 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486409259008">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486484274173">
         <mark key="a" line="100" column="15" />
         <mark key="'" line="101" column="12" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="19" />
+        <mark key="[" line="59" column="12" />
+        <mark key="]" line="59" column="17" />
+        <mark key="." line="59" column="17" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -279,12 +279,12 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486479810497">
-        <mark key="'" line="316" column="10" />
-        <mark key="[" line="84" column="37" />
-        <mark key="]" line="84" column="37" />
-        <mark key="." line="84" column="37" />
-        <mark key="^" line="84" column="36" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486484343489">
+        <mark key="'" line="319" column="10" />
+        <mark key="[" line="233" column="16" />
+        <mark key="]" line="234" column="23" />
+        <mark key="." line="234" column="23" />
+        <mark key="^" line="234" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -335,12 +335,12 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486479319753">
-        <mark key="'" line="6" column="43" />
-        <mark key="[" line="4" column="93" />
-        <mark key="]" line="4" column="93" />
-        <mark key="^" line="4" column="88" />
-        <mark key="." line="4" column="93" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486484309790">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="2" column="72" />
+        <mark key="]" line="2" column="82" />
+        <mark key="^" line="2" column="82" />
+        <mark key="." line="2" column="82" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -429,7 +429,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="/fragment.js" timestamp="1486392271661">
+      <file name="/fragment.js" timestamp="1486483902860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/HttpClient.ts" timestamp="1482407489871">
@@ -507,11 +507,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486406462561">
-        <mark key="[" line="29" column="124" />
-        <mark key="]" line="29" column="124" />
-        <mark key="." line="29" column="124" />
-        <mark key="^" line="30" column="140" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/FilterServiceDynamicTable.ts" timestamp="1486483946404">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
         <mark key="[" line="6" column="19" />
@@ -576,7 +576,7 @@
       <file name="/fragment.ts" timestamp="1484570984331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486408116763">
+      <file name="/JavaScript Console" timestamp="1486483872253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/shared/nav-dropdown.directive.ts" timestamp="1482407875349">
@@ -801,10 +801,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>block</text>
+        <text>filterVisible=!filterVisible</text>
       </register>
       <register name="-" type="4">
-        <text>block</text>
+        <text>filterVisible=!filterVisible</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
