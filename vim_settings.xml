@@ -146,6 +146,12 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="8" column="49" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/DialogService.ts" timestamp="1486641390679">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="57" />
+        <mark key="." line="19" column="57" />
+        <mark key="^" line="19" column="57" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/setup-server/setup-server.component.ts" timestamp="1482408002610">
         <mark key="[" line="14" column="2" />
         <mark key="]" line="67" column="6" />
@@ -272,11 +278,11 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486639197655">
-        <mark key="[" line="562" column="0" />
-        <mark key="]" line="562" column="0" />
-        <mark key="^" line="559" column="26" />
-        <mark key="." line="562" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486642283190">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="368" column="15" />
+        <mark key="." line="364" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -541,6 +547,12 @@
       <file name="webpack:///./~/rison-node/build/rison.js" timestamp="1485514755334">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1486641377755">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="webpack:///./~/rxjs/AsyncSubject.js" timestamp="1485515733700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -552,6 +564,12 @@
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1486642195796">
+        <mark key="[" line="158" column="56" />
+        <mark key="]" line="158" column="66" />
+        <mark key="." line="158" column="66" />
+        <mark key="^" line="158" column="66" />
       </file>
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
@@ -791,46 +809,49 @@
       <jump line="315" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5maWx0ZXJzSW5pdFNldC5sZW5ndGg+MA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5maWx0ZXJzSW5pdFNldC5sZW5ndGg+MA==</text>
+        <text>ComparedValue</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
+        <text encoding="base64">ICAgIHNob3dBZGRGaWx0ZXJEaWFsb2coZGF0YTogRmlsdGVyRGlhbG9nRGF0YSk6IFByb21pc2U8RGlhbG9nUmVzdWx0PEZpbHRlckRpYWxvZ0RhdGE+PiB7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgICAgICByZXR1cm4gdGhpcy5fc2hvd0RpYWxvZyh0aGlzLmFkZEZpbHRlckRpYWxvZyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLl9zZWxlY3RlZEl0ZW1zID0gdGhpcy5maWx0ZXJzSW5pdFNldC5tYXAoZSA9PiB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICB2YWx1ZTogZSwKICAgICAgICAgICAgICAgIHNlbGVjdGVkOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc29sZS5sb2codGhpcyk7CgogICAgICAgIGxldCBmaWx0ZXJUb1NhdmU6IFByZWZlcmVuY2VQb2pvW10gPSBbewoKICAgICAgICAgICAgcHJlZmVyZW5jZUtleTogdGhpcy5fZ2V0RmlsdGVyUHJlZk5hbWUoKSwKICAgICAgICAgICAgcHJlZmVyZW5jZVZhbHVlOiBKU09OLnN0cmluZ2lmeSh0aGlzLmZpbHRlcikKICAgICAgICB9XQoKICAgICAgICB0aGlzLnByZWZlcmVuY2VFbmRwb2ludEFwaS5zYXZlVXNlclByZWZlcmVuY2VzKGZpbHRlclRvU2F2ZSkuc3Vic2NyaWJlKHJlc3VsdCA9PiB7CiAgICAgICAgICAgIHRoaXMuZmlsdGVyID0gSlNPTi5wYXJzZShyZXN1bHRbMF0ucHJlZmVyZW5jZVZhbHVlKQogICAgICAgIH0p</text>
       </register>
-      <register name="3" type="4">
-        <text>private _mergeFiltersFromDB() {
-       debugger;
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMuX21lcmdlRmlsdGVyc0Zyb21EQigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="5" type="4">
+        <text>{
+            pageSizeOptions: this.pageSizeOptions,
+            columnDefinitions: this.columnDefinitions,
+            limit: this.limit,
+            allowColumnReorderingAndHiding: this.allowColumnReorderingAndHiding
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaW5pdHNldCIsIHRoaXMuZmlsdGVyc0luaXRTZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIiBbKG5nTW9kZWwpXT0iZGF0YS5maWVsZCIgKGNoYW5nZSk9Im9uRGFzaGJvYXJkRmlsdGVyRmllbGRDaGFuZ2UoZGF0YS5maWVsZCkiPgogICAgICAgICAgICAgIDxvcHRpb24gKm5nSWY9IiFmaWVsZERlZmluaXRpb24iIFt2YWx1ZV09InVuZGVmaW5lZCIgZGlzYWJsZWQ+RmllbGQ8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIGRpc2FibGVkPi0tLSBNZXRhZGF0YSBGaWVsZHMgLS0tPC9vcHRpb24+CiAgICAgICAgICAgICAgPG9wdGlvbiBbbmdWYWx1ZV09ImZpZWxkRGVmaW5pdGlvbiIgKm5nRm9yPSJsZXQgZmllbGREZWZpbml0aW9uIG9mIGRhdGEuZmllbGROYW1lcz8ubWV0YWRhdGFGaWVsZHMiPnt7ZmllbGREZWZpbml0aW9uLmZpZWxkTmFtZX19PC9vcHRpb24+CiAgICAgICAgICAgICAgPG9wdGlvbiBkaXNhYmxlZD4tLS0gTnVtZXJpYyBGaWVsZHMgLS0tPC9vcHRpb24+CiAgICAgICAgICAgICAgPG9wdGlvbiBbbmdWYWx1ZV09ImZpZWxkRGVmaW5pdGlvbiIgKm5nRm9yPSJsZXQgZmllbGREZWZpbml0aW9uIG9mIGRhdGEuZmllbGROYW1lcz8ubnVtZXJpY0ZpZWxkcyI+e3tmaWVsZERlZmluaXRpb24uZmllbGROYW1lfX08L29wdGlvbj4KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwhLS08aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgWyhuZ01vZGVsKV09ImRhdGEuZmllbGQiPi0tPgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgPHNlbGVjdCBjbGFzcz0iZm9ybS1jb250cm9sIiBbKG5nTW9kZWwpXT0iZGF0YS5jb21wYXJhdG9yIj4KICAgICAgICAgICAgICA8b3B0aW9uIFt2YWx1ZV09InVuZGVmaW5lZCIgZGlzYWJsZWQ+Q29tcGFyYXRvcjwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gW3ZhbHVlXT0iY29tcGFyYXRvci5zaWduIiAqbmdGb3I9ImxldCBjb21wYXJhdG9yIG9mIGNvbXBhcmF0b3JzIj57e2NvbXBhcmF0b3IubmFtZSB8fCBjb21wYXJhdG9yLnNpZ259fTwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
