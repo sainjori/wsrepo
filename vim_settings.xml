@@ -87,13 +87,13 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486633172556">
-        <mark key="a" line="100" column="15" />
-        <mark key="'" line="101" column="12" />
-        <mark key="[" line="59" column="12" />
-        <mark key="]" line="59" column="17" />
-        <mark key="." line="59" column="17" />
-        <mark key="^" line="59" column="17" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486639710816">
+        <mark key="a" line="108" column="15" />
+        <mark key="'" line="109" column="12" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="47" column="29" />
+        <mark key="." line="47" column="29" />
+        <mark key="^" line="47" column="29" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -272,11 +272,11 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486638184076">
-        <mark key="[" line="563" column="66" />
-        <mark key="]" line="563" column="29" />
-        <mark key="^" line="563" column="29" />
-        <mark key="." line="563" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486639197655">
+        <mark key="[" line="562" column="0" />
+        <mark key="]" line="562" column="0" />
+        <mark key="^" line="559" column="26" />
+        <mark key="." line="562" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -321,11 +321,11 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486634319262">
-        <mark key="[" line="2" column="82" />
-        <mark key="]" line="7" column="84" />
-        <mark key="^" line="7" column="84" />
-        <mark key="." line="7" column="174" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486638998083">
+        <mark key="[" line="7" column="136" />
+        <mark key="]" line="7" column="150" />
+        <mark key="^" line="7" column="150" />
+        <mark key="." line="7" column="150" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -792,10 +792,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">dGhpcy5maWx0ZXJzSW5pdFNldC5sZW5ndGg+MA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dGhpcy5maWx0ZXJzSW5pdFNldC5sZW5ndGg+MA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -804,31 +804,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLl9zZWxlY3RlZEl0ZW1zID0gdGhpcy5maWx0ZXJzSW5pdFNldC5tYXAoZSA9PiB7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICB2YWx1ZTogZSwKICAgICAgICAgICAgICAgIHNlbGVjdGVkOiB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsdGVyCg==</text>
+      <register name="3" type="4">
+        <text>private _mergeFiltersFromDB() {
+       debugger;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbHRlcgo=</text>
+        <text encoding="base64">ICAgICAgIHRoaXMuX21lcmdlRmlsdGVyc0Zyb21EQigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsdGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKSB7CiAgICAgICAgcmV0dXJuIChjb250cm9sOiBGb3JtQ29udHJvbCk6IHtba2V5OiBzdHJpbmddOiBhbnl9ID0+IHsKCiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAidGVzdCI6InRlc3QiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaW5pdHNldCIsIHRoaXMuZmlsdGVyc0luaXRTZXQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHJldHVybiAoY29udHJvbDpGb3JtQ29udHJvbCk6e1trZXk6c3RyaW5nXTphbnl9ID0+ewoKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7dmFyaWFibGVGb3JtfGpzb259fQo=</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7e2pzb25Db25maWdUYWJzfCBqc29ufX0K</text>
+        <text encoding="base64">ICAgIHRoaXMuZmlsdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
