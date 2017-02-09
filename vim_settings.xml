@@ -278,11 +278,11 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486649470053">
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="^" line="389" column="26" />
-        <mark key="." line="382" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486651131541">
+        <mark key="[" line="380" column="51" />
+        <mark key="]" line="380" column="55" />
+        <mark key="^" line="380" column="55" />
+        <mark key="." line="380" column="55" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -602,7 +602,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1486645718053">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1486650084722">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="10" />
         <mark key="^" line="12" column="10" />
@@ -808,41 +808,41 @@
       <jump line="315" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filtiiwwrToSave</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>filtiiwwrToSave</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text>isValidSubmit</text>
+        <text>const filterDialogData = result;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyVG9TYXZlLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IHJlc3VsdFswXS5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZWZlcmVuY2VLZXk6IHRoaXMuX2dldEZpbHRlclByZWZOYW1lKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVmZXJlbmNlVmFsdWU6IEpTT04uc3RyaW5naWZ5KGZpbHRlcikKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGxldCBmaWx0ZXI6IFRhYmxlRmlsdGVyID0gewogICAgICAgICAgICAgICAgICAgIF90eXBlOiBGaWx0ZXJUeXBlcy5PYmosCiAgICAgICAgICAgICAgICAgICAgX25hbWU6IHJlc3VsdC5kYXRhLmZpbHRlck5hbWUsCiAgICAgICAgICAgICAgICAgICAgZmlsdGVyRGF0YTogdGhpcy5maWx0ZXIKCiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyVG9TYXZlLnB1c2goewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IHJlc3VsdFswXS5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZWZlcmVuY2VLZXk6IHRoaXMuX2dldEZpbHRlclByZWZOYW1lKCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcmVmZXJlbmNlVmFsdWU6IEpTT04uc3RyaW5naWZ5KGZpbHRlcikKICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGlzVmFsaWRTdWJtaXQoKXsKICAgICAgICBpZighdGhpcy5kYXRhLmZpbHRlck5hbWUpewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGlzVmFsaWRTdWJtaXQoKXsKICAgICAgICBpZighdGhpcy5kYXRhLmZpbHRlck5hbWUpewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGxldCBmaWx0ZXJUb1NhdmU6IFByZWZlcmVuY2VQb2pvW10gPSBbewoKICAgICAgICAgICAgICAgICAgICBwcmVmZXJlbmNlS2V5OiB0aGlzLl9nZXRGaWx0ZXJQcmVmTmFtZSgpLAogICAgICAgICAgICAgICAgICAgIHByZWZlcmVuY2VWYWx1ZTogSlNPTi5zdHJpbmdpZnkodGhpcy5maWx0ZXIpCiAgICAgICAgICAgICAgICB9XQoKICAgICAgICAgICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLnNhdmVVc2VyUHJlZmVyZW5jZXMoZmlsdGVyVG9TYXZlKS5zdWJzY3JpYmUocmVzdWx0ID0+IHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmZpbHRlciA9IEpTT04ucGFyc2UocmVzdWx0WzBdLnByZWZlcmVuY2VWYWx1ZSkKICAgICAgICAgICAgICAgIH0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
