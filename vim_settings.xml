@@ -87,7 +87,7 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1486045436135">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486484274173">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1486633172556">
         <mark key="a" line="100" column="15" />
         <mark key="'" line="101" column="12" />
         <mark key="[" line="59" column="12" />
@@ -236,9 +236,6 @@
       <file name="/AppModule/DashboardComponent/wrapper.ngfactory.js" timestamp="1484059062994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1486550483586">
-        <mark key="'" line="59" column="47" />
-      </file>
       <file name="vm:22443" timestamp="1485515747203">
         <mark key="[" line="0" column="0" />
       </file>
@@ -275,12 +272,11 @@
         <mark key="." line="83" column="33" />
         <mark key="^" line="83" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486484343489">
-        <mark key="'" line="319" column="10" />
-        <mark key="[" line="233" column="16" />
-        <mark key="]" line="234" column="23" />
-        <mark key="." line="234" column="23" />
-        <mark key="^" line="234" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1486634345892">
+        <mark key="[" line="342" column="16" />
+        <mark key="]" line="343" column="23" />
+        <mark key="^" line="343" column="23" />
+        <mark key="." line="343" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -291,12 +287,6 @@
         <mark key="]" line="1" column="56" />
         <mark key="." line="1" column="56" />
         <mark key="^" line="1" column="56" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.scss" timestamp="1486481195392">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1482407679976">
         <mark key="[" line="27" column="44" />
@@ -331,12 +321,11 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486484309790">
-        <mark key="'" line="7" column="43" />
-        <mark key="[" line="2" column="72" />
-        <mark key="]" line="2" column="82" />
-        <mark key="^" line="2" column="82" />
-        <mark key="." line="2" column="82" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1486634319262">
+        <mark key="[" line="2" column="82" />
+        <mark key="]" line="7" column="84" />
+        <mark key="^" line="7" column="84" />
+        <mark key="." line="7" column="174" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -667,11 +656,11 @@
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1486478055914">
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="39" column="22" />
-        <mark key="^" line="39" column="22" />
-        <mark key="." line="39" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1486633647916">
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
@@ -801,8 +790,8 @@
       <jump line="315" column="10" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3QoKSB7CiAgICAgICAgcmV0dXJuIChjb250cm9sOiBGb3JtQ29udHJvbCk6IHtba2V5OiBzdHJpbmddOiBhbnl9ID0+IHsKCiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAidGVzdCI6InRlc3QiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>filterVisible=!filterVisible</text>
       </register>
       <register name="-" type="4">
         <text>filterVisible=!filterVisible</text>
@@ -814,31 +803,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdUZXN0MicsCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgRmlsdGVyCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHRlc3QoKSB7CiAgICAgICAgcmV0dXJuIChjb250cm9sOiBGb3JtQ29udHJvbCk6IHtba2V5OiBzdHJpbmddOiBhbnl9ID0+IHsKCiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAidGVzdCI6InRlc3QiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHJldHVybiAoY29udHJvbDpGb3JtQ29udHJvbCk6e1trZXk6c3RyaW5nXTphbnl9ID0+ewoKICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHt7dmFyaWFibGVGb3JtfGpzb259fQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB7e2pzb25Db25maWdUYWJzfCBqc29ufX0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aS5lcnJvciB7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbG9yOnJlZDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aS53YXJuaW5nIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
