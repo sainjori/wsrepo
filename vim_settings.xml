@@ -54,11 +54,11 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.scss" timestamp="1487006164373">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.scss" timestamp="1487006911266">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midways.component.ts" timestamp="1485531310762">
         <mark key="[" line="106" column="60" />
@@ -327,11 +327,11 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1487006148908">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1487006945120">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -819,11 +819,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/input-dialog-data.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9ybSAoc3VibWl0KT0ncmVmcmVzaCgpJz4K</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
