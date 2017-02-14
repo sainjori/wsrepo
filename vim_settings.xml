@@ -32,13 +32,12 @@
       <file name="webpack:///./~/rxjs/operator/map.js" timestamp="1487081306421">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1487083866240">
-        <mark key="a" line="125" column="15" />
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="46" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1487084850642">
+        <mark key="a" line="130" column="15" />
+        <mark key="'" line="131" column="12" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/" timestamp="1485367531655">
         <mark key="[" line="0" column="0" />
@@ -373,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFNlbGVjdGVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cur</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -385,31 +384,31 @@
         <text>savedFilterId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFNlbGVjdGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fc2VsZWN0ZWRJdGVtcyA9IGN1cnJlbnQubWFwKGUgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogZSwKICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1ciAgPSBjaG5nLmN1cnJlbnRWYWx1ZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkKICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl9leGVjdXRlQXV0b2NvbXBsZXRlUXVlcnkoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLl9zZWxlY3RlZEl0ZW1zID0gbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlc2V0U2VsZWN0ZWQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiY2hhbmdlc2YiLCBjaGFuZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fc2VsZWN0ZWRJdGVtcyA9IGN1cnJlbnQubWFwKGUgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICAgICB2YWx1ZTogZSwKICAgICAgICAgICAgICAgICAgICBzZWxlY3RlZDogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjaGFuZ2VzLmZpbHRlcnNJbml0U2V0ICYmIGNoYW5nZXMuZmlsdGVyc0luaXRTZXQuY3VycmVudFZhbHVlKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGN1ciAgPSBjaG5nLmN1cnJlbnRWYWx1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
