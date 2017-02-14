@@ -578,11 +578,11 @@
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487068483857">
-        <mark key="[" line="183" column="15" />
-        <mark key="]" line="183" column="15" />
-        <mark key="^" line="173" column="12" />
-        <mark key="." line="183" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487072996739">
+        <mark key="[" line="185" column="30" />
+        <mark key="]" line="185" column="49" />
+        <mark key="." line="185" column="49" />
+        <mark key="^" line="185" column="49" />
       </file>
       <file name="vm:2247" timestamp="1482420816056">
         <mark key="[" line="0" column="0" />
@@ -823,10 +823,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvKiB3aWR0aDogMTAwcHg7ICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxpc3QgZmlsdGVycw==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -835,33 +835,31 @@
         <text encoding="base64">ICAgIEBWaWV3Q2hpbGQoJ2xpc3RGaWx0ZXJEaWFsb2cnKSBwdWJsaWMgbGlzdEZpbHRlckRpYWxvZzogTW9kYWxEaXJlY3RpdmU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvKiB3aWR0aDogMTAwcHg7ICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvKiBmbGV4LWJhc2lzOiAyMDBweDsgKi8K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvKiBmbGV4LWdyb3c6IDE7ICovCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvKiBhbGlnbi1jb250ZW50OiBmbGV4LWVuZDsgKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvKiBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOyAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvKiBhbGlnbi1zZWxmOiBmbGV4LWVuZDsgKi8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAvKiBmbG9hdDogcmlnaHQ7ICovCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>button[dropdownToggle]:after{
-  //display: none;
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ndGV4dCcgdmFsdWU9J3t7ZmlsdGVyLl9uYW1lfX0nPgogICAgICAgICAgICAgICAgICAgIHt7ZmlsdGVyLl9uYW1lfX0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvKiB3aWR0aDogMTAwcHg7ICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKiBmbGV4LWJhc2lzOiAyMDBweDsgKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvKiBmbGV4LWdyb3c6IDE7ICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvKiBhbGlnbi1jb250ZW50OiBmbGV4LWVuZDsgKi8K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvKiBqdXN0aWZ5LWNvbnRlbnQ6IGZsZXgtZW5kOyAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvKiBhbGlnbi1zZWxmOiBmbGV4LWVuZDsgKi8K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvKiBmbG9hdDogcmlnaHQ7ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
