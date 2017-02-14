@@ -83,12 +83,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1484143103968">
         <mark key="[" line="42" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487082285463">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487085979346">
         <mark key="'" line="641" column="21" />
-        <mark key="[" line="439" column="0" />
-        <mark key="]" line="439" column="0" />
-        <mark key="^" line="435" column="32" />
-        <mark key="." line="439" column="0" />
+        <mark key="[" line="462" column="20" />
+        <mark key="]" line="462" column="20" />
+        <mark key="^" line="462" column="20" />
+        <mark key="." line="462" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -371,11 +371,11 @@
       <jump line="641" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldFNlbGVjdGVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>AND</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>AND</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
