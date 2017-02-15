@@ -271,12 +271,12 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487173195672">
-        <mark key="'" line="811" column="30" />
-        <mark key="[" line="569" column="0" />
-        <mark key="]" line="569" column="0" />
-        <mark key="^" line="103" column="43" />
-        <mark key="." line="569" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487174137127">
+        <mark key="'" line="815" column="30" />
+        <mark key="[" line="586" column="56" />
+        <mark key="]" line="586" column="58" />
+        <mark key="^" line="586" column="58" />
+        <mark key="." line="586" column="58" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -815,11 +815,11 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>variableConfig[col.name].description</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
