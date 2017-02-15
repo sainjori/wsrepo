@@ -270,12 +270,12 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487166894569">
-        <mark key="'" line="804" column="30" />
-        <mark key="[" line="658" column="82" />
-        <mark key="]" line="658" column="62" />
-        <mark key="." line="658" column="62" />
-        <mark key="^" line="658" column="62" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487168502631">
+        <mark key="'" line="801" column="30" />
+        <mark key="[" line="557" column="0" />
+        <mark key="]" line="557" column="0" />
+        <mark key="^" line="161" column="29" />
+        <mark key="." line="557" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -634,7 +634,7 @@
       <file name="$USER_HOME$/sandbox/ehLeanTS/.gitignore" timestamp="1482237529265">
         <mark key="[" line="4" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/model/TableFilterPojo.ts" timestamp="1487160740840" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/model/TableFilterPojo.ts" timestamp="1487168103792" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/servers-routing.module.ts" timestamp="1485266409379">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
@@ -814,11 +814,11 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filterToSave</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>filterToSave</text>
+        <text>(JSON.stringify(</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -827,31 +827,33 @@
         <text>savedFilterId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlsdGVyLl9uYW1lID09PSB0aGlzLmZpbHRlci5uYW1lKXJldHVybiB0cnVlOwogICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      <register name="2" type="4">
+        <text>if (!this.filter) {
+            this.filter = {};
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maWx0ZXIgPSByZXN1bHRbMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gcmVzdWx0Lm1hcChlID0+ewogICAgICAgICAgICAgICAgZS5maWx0ZXJEYXRhID0gSlNPTi5wYXJzZShlLmZpbHRlckRhdGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gSlNPTi5wYXJzZShyZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
