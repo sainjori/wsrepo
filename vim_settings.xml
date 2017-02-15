@@ -270,12 +270,12 @@
         <mark key="." line="85" column="30" />
         <mark key="^" line="85" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487161815876">
-        <mark key="'" line="793" column="30" />
-        <mark key="[" line="383" column="79" />
-        <mark key="]" line="383" column="79" />
-        <mark key="." line="383" column="79" />
-        <mark key="^" line="383" column="79" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487163842247">
+        <mark key="'" line="799" column="30" />
+        <mark key="[" line="674" column="60" />
+        <mark key="]" line="674" column="60" />
+        <mark key="." line="674" column="60" />
+        <mark key="^" line="674" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/index.html" timestamp="1482167066039">
         <mark key="[" line="32" column="48" />
@@ -522,7 +522,7 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/api/TableFilterEndpointApi.ts" timestamp="1487161812031" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/api/TableFilterEndpointApi.ts" timestamp="1487163377158" />
       <file name="/AppModule/DashboardComponent/host.ngfactory.js" timestamp="1484059070257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -804,8 +804,8 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGhpcy4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
