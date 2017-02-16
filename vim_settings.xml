@@ -77,6 +77,11 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/services/model/models.ts" timestamp="1487254994364">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/AppModule/AppComponent/wrapper.ngfactory.js" timestamp="1484573990110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,7 +154,6 @@
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1487245923948" />
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,11 +218,6 @@
         <mark key="]" line="112" column="53" />
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487249658193">
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -859,7 +858,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9CYXNlJzsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -871,31 +870,31 @@
         <text>savedFilterId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9CYXNlJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHByaXZhdGUgX3NldHVwQ29sdW1ucygpIHsK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9DbGllbnREZXRhaWxzUmVzcG9uc2UnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9CYXNlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgX3NldHVwQ29sdW1ucygpIHsK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9Kc29uTm9kZSc7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIHByaXZhdGUgX3NldHVwQ29sdW1ucygpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgX3NldHVwQ29sdW1ucygpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
