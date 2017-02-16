@@ -210,7 +210,6 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/configuration/configuration.module.ts" timestamp="1487172877935" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
       </file>
@@ -441,6 +440,12 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/formatting-test/.editorconfig" timestamp="1487235271076">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="1" column="6" />
+      </file>
       <file name="webpack:///./~/rxjs/Subject.js" timestamp="1485515732898">
         <mark key="[" line="0" column="0" />
       </file>
@@ -453,6 +458,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/sandbox/formatting-test/html-test.html" timestamp="1487235440037" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="6" />
@@ -827,10 +833,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filter</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
