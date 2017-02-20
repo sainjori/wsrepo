@@ -199,6 +199,12 @@
         <mark key="." line="103" column="94" />
         <mark key="^" line="103" column="94" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/services/model/TableFilterPojo.ts" timestamp="1487601610734">
+        <mark key="[" line="44" column="11" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1487257792141">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -240,11 +246,11 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487596240112">
-        <mark key="[" line="598" column="0" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-        <mark key="^" line="656" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487601635949">
+        <mark key="[" line="591" column="49" />
+        <mark key="]" line="591" column="49" />
+        <mark key="." line="591" column="49" />
+        <mark key="^" line="591" column="49" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -410,7 +416,6 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/.gitignore" timestamp="1487594981882" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/KibanaDashboardService.ts" timestamp="1481723207994">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="45" />
@@ -588,10 +593,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487591681783">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487601507582">
+        <mark key="[" line="14" column="33" />
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
@@ -907,11 +913,11 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>type = 'OBJ';</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>type = 'OBJ';</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -920,7 +926,7 @@
         <text encoding="base64">ICAgICAgICAuaWRlYS8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyLnR5cGUgPSAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -932,19 +938,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGhpcy50YWJsZUZpbHRlckVuZHBvaW50QXBpLnVwc2VydE11bHRpcGxlKFt0aGlzLmZpbHRlcl0pLnN1YnNjcmliZShzYXZlZEZpbHRlciA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdGhpcy50YWJsZUZpbHRlckVuZHBvaW50QXBpLnVwc2VydE11bHRpcGxlKFt0aGlzLmZpbHRlcl0pLnN1YnNjcmliZShzYXZlZEZpbHRlciA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLmdldFVzZXJQcmVmZXJlbmNlcyhbdGhpcy5fZ2V0RmlsdGVyUHJlZk5hbWUoKV0pCi8vICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKHJlc3VsdCA9PiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5zYXZlZEZpbHRlcklkID0gcmVzdWx0WzBdLmlkOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGxldCBzYXZlZFZhbHVlID0gPFRhYmxlRmlsdGVyW10+SlNPTi5wYXJzZShyZXN1bHRbMF0ucHJlZmVyZW5jZVZhbHVlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBsZXQgZmlsdGVyV2l0aE5hbWVFeGlzdHM7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNhdmVkVmFsdWUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyV2l0aE5hbWVFeGlzdHMgPSBzYXZlZFZhbHVlLmZpbHRlcihlID0+IGUuX25hbWUgPT09Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbHRlckRpYWxvZ0RhdGEuZGF0YS5pbnB1dFZhbHVlKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGZpbHRlcldpdGhOYW1lRXhpc3RzICYmIGZpbHRlcldpdGhOYW1lRXhpc3RzLmxlbmd0aCA+IDApIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZWRWYWx1ZS5tYXAoZSA9PiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZS5fbmFtZSA9PT0gZmlsdGVyRGlhbG9nRGF0YS5kYXRhLmlucHV0VmFsdWUpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gewovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogRmlsdGVyVHlwZXMuT2JqLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfbmFtZTogZmlsdGVyRGlhbG9nRGF0YS5kYXRhLmlucHV0VmFsdWUsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbHRlckRhdGE6IHRoaXMuZmlsdGVyLmZpbHRlckRhdGEKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9OwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxzZSB7IHJldHVybiBlOyB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pCi8vICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNhdmVkVmFsdWUgPT09IG51bGwpIHsgc2F2ZWRWYWx1ZSA9IFtdOyB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNhdmVkVmFsdWUucHVzaCh7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfdHlwZTogRmlsdGVyVHlwZXMuT2JqLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgX25hbWU6IGZpbHRlckRpYWxvZ0RhdGEuZGF0YS5pbnB1dFZhbHVlLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyRGF0YTogdGhpcy5maWx0ZXIuZmlsdGVyRGF0YQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgICAgICBsZXQgZmlsdGVyVG9TYXZlOiBQcmVmZXJlbmNlUG9qb1tdID0gW10KLy8gICAgICAgICAgICAgICAgICAgICAgICBsZXQgdXBkYXRlZFZhbHVlID0gc2F2ZWRWYWx1ZTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBmaWx0ZXJUb1NhdmUucHVzaCh7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkOiByZXN1bHRbMF0uaWQsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZWZlcmVuY2VLZXk6IHRoaXMuX2dldEZpbHRlclByZWZOYW1lKCksCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZWZlcmVuY2VWYWx1ZTogSlNPTi5zdHJpbmdpZnkodXBkYXRlZFZhbHVlKQovLyAgICAgICAgICAgICAgICAgICAgICAgIH0pOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuc2F2ZWRGaWx0ZXJzID0gdXBkYXRlZFZhbHVlOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMucHJlZmVyZW5jZUVuZHBvaW50QXBpLnNhdmVVc2VyUHJlZmVyZW5jZXMoZmlsdGVyVG9TYXZlKS5zdWJzY3JpYmUoc3VjY2VzcyA9PiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2Uuc3VjY2VzcygnU2F2ZWQnLCBgU3VjY2Vzc2Z1bGx5IHNhdmVkIGZpbHRlcgovLyAgICAgICAgICAgICAgICAgIiR7ZmlsdGVyRGlhbG9nRGF0YS5kYXRhLmlucHV0VmFsdWV9IiFgKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICB9LCBlcnJvciA9PiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGBFcnJvciB3aGVuIHNhdmluZyBmaWx0ZXIgd2l0aCBuYW1lICR7ZmlsdGVyRGlhbG9nRGF0YS5kYXRhLmlucHV0VmFsdWV9IWApOwovLyAgICAgICAgICAgICAgICAgICAgICAgIH0pOwovLyAgICAgICAgICAgICAgICAgICAgfSkgICAvLyBjb25zdAovLyAgICAgICAgICAgICAgICBkaXNwbGF5ZWRDb2xOYW1lcyA9IHJlc3VsdC5kYXRhLmNvbHVtbkRlZmluaXRpb25zLmZpbHRlcihkZWYgPT4gZGVmLnNlbGVjdGVkKS5tYXAoZGVmID0+IGRlZi5wcm9wKTsKLy8gICAgICAgICAgICAgICAgLy8gdGhpcy5fYXNzaWduRGlzcGxheWVkQ29sdW1ucyhkaXNwbGF5ZWRDb2xOYW1lcyk7IC8vIC8vIEZvcmNlIHJlbG9hZCB0byB3b3JrYXJvdW5kIGRhdGEgdGFibGUgYnVnCi8vICAgICAgICAgICAgICAgIC8vIHRoaXMuc2F2ZVByZWZlcmVuY2VzKHJlc3VsdC5kYXRhKS5zdWJzY3JpYmUoKCkgPT4gdGhpcy5hbGxvd0NvbHVtblJlb3JkZXJpbmdBbmRIaWRpbmcgJiYKLy8gICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpCi8vICAgICAgICAgICAgKTsKLy8gICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
