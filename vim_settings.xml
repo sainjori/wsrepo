@@ -540,11 +540,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1487617543564">
-        <mark key="[" line="122" column="1" />
-        <mark key="]" line="122" column="1" />
-        <mark key="." line="122" column="1" />
-        <mark key="^" line="122" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" timestamp="1487618761777">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="121" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/administration/midways/midway-edit/midway-edit.component.ts" timestamp="1482407693109">
         <mark key="[" line="23" column="3" />
@@ -943,8 +943,8 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -959,32 +959,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">c2hvd0xpc3RGaWx0ZXJzRGlhbG9nKGRhdGE6IGFueSk6IFByb21pc2U8RGlhbG9nUmVzdWx0PGFueT4+IHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHJldHVybiB0aGlzLl9zaG93RGlhbG9nKHRoaXMubGlzdEZpbHRlckRpYWxvZyk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">c2hvd1NhdmVGaWx0ZXJEaWFsb2coKTogUHJvbWlzZTxEaWFsb2dSZXN1bHQ8RmlsdGVyRGlhbG9nRGF0YT4+IHsKICAgICAgICByZXR1cm4gdGhpcy5fc2hvd0RpYWxvZyh0aGlzLnNhdmVGaWx0ZXJEaWFsb2cpOwogICAgfQ==</text>
+      <register name="5" type="4">
+        <text encoding="base64">c2hvd0xpc3RGaWx0ZXJzRGlhbG9nKGRhdGE6IGFueSk6IFByb21pc2U8RGlhbG9nUmVzdWx0PGFueT4+IHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHJldHVybiB0aGlzLl9zaG93RGlhbG9nKHRoaXMubGlzdEZpbHRlckRpYWxvZyk7CiAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>interface SelectionItem {
-    value: string;
-    selected: boolean;
-}
-;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">c2hvd1NhdmVGaWx0ZXJEaWFsb2coKTogUHJvbWlzZTxEaWFsb2dSZXN1bHQ8RmlsdGVyRGlhbG9nRGF0YT4+IHsKICAgICAgICByZXR1cm4gdGhpcy5fc2hvd0RpYWxvZyh0aGlzLnNhdmVGaWx0ZXJEaWFsb2cpOwogICAgfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
