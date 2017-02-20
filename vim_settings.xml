@@ -200,12 +200,6 @@
         <mark key="." line="103" column="94" />
         <mark key="^" line="103" column="94" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/services/model/TableFilterPojo.ts" timestamp="1487601610734">
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1487257792141">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -247,11 +241,11 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487609203040">
-        <mark key="[" line="622" column="0" />
-        <mark key="]" line="622" column="0" />
-        <mark key="." line="622" column="0" />
-        <mark key="^" line="623" column="71" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487610872751">
+        <mark key="[" line="591" column="35" />
+        <mark key="]" line="591" column="38" />
+        <mark key="." line="591" column="38" />
+        <mark key="^" line="591" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -594,11 +588,11 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487601507582">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487610847107">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
@@ -914,11 +908,11 @@
       <jump line="620" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FilterType</text>
       </register>
       <register name="-" type="4">
-        <text>This alert needs your attention, but it's not super important.</text>
+        <text>FilterType</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
