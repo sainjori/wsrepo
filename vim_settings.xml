@@ -165,10 +165,11 @@
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1487594535513">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1487608554170">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="20" />
+        <mark key="." line="40" column="20" />
+        <mark key="^" line="37" column="44" />
       </file>
       <file name="/Clipboard.txt" timestamp="1481024494257">
         <mark key="[" line="0" column="0" />
@@ -246,11 +247,11 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487606015991">
-        <mark key="[" line="618" column="0" />
-        <mark key="]" line="618" column="0" />
-        <mark key="." line="618" column="0" />
-        <mark key="^" line="619" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487609203040">
+        <mark key="[" line="622" column="0" />
+        <mark key="]" line="622" column="0" />
+        <mark key="." line="622" column="0" />
+        <mark key="^" line="623" column="71" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -332,11 +333,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487594594216">
-        <mark key="[" line="162" column="28" />
-        <mark key="]" line="162" column="28" />
-        <mark key="." line="162" column="28" />
-        <mark key="^" line="162" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487609099528">
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="16" />
+        <mark key="." line="187" column="16" />
+        <mark key="^" line="186" column="61" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1482407679976">
         <mark key="[" line="27" column="44" />
@@ -914,10 +915,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>editing</text>
+        <text>This alert needs your attention, but it's not super important.</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -926,31 +927,31 @@
         <text encoding="base64">ICAgICAgICAuaWRlYS8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5kZWxldGVkID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS51cHNlcnRVc2VyRmlsdGVycyhyZXN1bHQuZGF0YS5maWx0ZXJzKS5zdWJzY3JpYmUoc3VjY2VzcyA9PiB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5zYXZlZEZpbHRlcnMgPSBzdWNjZXNzOwogICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2Uuc3VjY2VzcygnU2F2ZWQnLCBgU3VjY2Vzc2Z1bGx5IGVkaXRlZCBmaWx0ZXJzIWApOwogICAgICAgICAgICAgICAgfSwgZXJyb3IgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywgYEVycm9yIHdoZW4gZWRpdGluZyBmaWx0ZXJzIWApOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhLmRlbGV0ZUNhbGxiYWNrID0gKGZpbHRlcikgPT4gewogICAgICAgICAgICBkYXRhLmRlbGV0ZWQgPSBbXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS5kZWxldGVNdWx0aXBsZUVudHJpZXNCeUlEKGRhdGEuZGVsZXRlZCkuc3Vic2NyaWJlKHN1Y2Nlc3MgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2Uuc3VjY2VzcygnU2F2ZWQnLCBgU3VjY2Vzc2Z1bGx5IGVkaXRlZCBmaWx0ZXJzIWApOwogICAgICAgICAgICAgICAgfSwgZXJyb3IgPT4gewogICAgICAgICAgICAgICAgICAgIHRoaXMubm90aWZpY2F0aW9uc1NlcnZpY2UuZXJyb3IoJ0Vycm9yJywgYEVycm9yIHdoZW4gZWRpdGluZyBmaWx0ZXJzIWApOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZGQgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyLnR5cGUgPSAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">bGV0IGVkaXRlZEF0TGVhc3RPbmU6IGJvb2xlYW47CiAgICAgICAgICAgICAgICBsZXQgc2F2ZWRGaWx0ZXJzTmFtZXMgPSB0aGlzLnNhdmVkRmlsdGVycy5tYXAoZSA9PiBlLm5hbWUpOwogICAgICAgICAgICAgICAgbGV0IGVkaXRlZEZpbHRlcnNOYW1lcyA9IHJlc3VsdC5kYXRhLmZpbHRlcnMubWFwKGUgPT4gZS5uYW1lKTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
