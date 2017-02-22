@@ -541,12 +541,12 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487761894972">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487763740225">
         <mark key="'" line="654" column="124" />
-        <mark key="[" line="683" column="0" />
-        <mark key="]" line="683" column="0" />
-        <mark key="." line="683" column="0" />
-        <mark key="^" line="679" column="48" />
+        <mark key="[" line="432" column="20" />
+        <mark key="]" line="432" column="22" />
+        <mark key="." line="432" column="22" />
+        <mark key="^" line="432" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1487334485509">
         <mark key="[" line="68" column="0" />
@@ -940,10 +940,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sorted</text>
+        <text>OR</text>
       </register>
       <register name="-" type="4">
-        <text>Sorted</text>
+        <text>OR</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -952,31 +952,31 @@
         <text encoding="base64">QXJyYXk8eyB2YWx1ZTogYW55LCBzZWxlY3RlZDogYm9vbGVhbiB9Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtCb29sZWFufSBHaXZlIHJldHVybmVkIG9iamVjdCB0aGUgcHJvcGVydHkgc2VsZWN0ZWQK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtBcnJheTxzdHJpbmc+fSBkcm9wZG93biBlbnRyaWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHtCb29sZWFufSBHaXZlIHJldHVybmVkIG9iamVjdCB0aGUgcHJvcGVydHkgc2VsZWN0ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWUuc29ydCgoYSwgYikgPT4gYS52YWx1ZSAtIGIudmFsdWUpOwo=</text>
+        <text encoding="base64">ICogQHBhcmFtIHtBcnJheTxzdHJpbmc+fSBkcm9wZG93biBlbnRyaWVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHJldHVybiBTZWxlY3Rpb25JdGVtW10gdHJhbnNmb3JtZWQgb2JqZWN0IGFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsdWUuc29ydCgoYSwgYikgPT4gYS52YWx1ZSAtIGIudmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtCb29sZWFufSBHaXZlIHJldHVybmVkIG9iamVjdCB0aGUgcHJvcGVydHkgc2VsZWN0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtBcnJheTxzdHJpbmc+fSBkcm9wZG93biBlbnRyaWVzCg==</text>
+        <text encoding="base64">ICogQHJldHVybiBTZWxlY3Rpb25JdGVtW10gdHJhbnNmb3JtZWQgb2JqZWN0IGFycmF5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICogQHBhcmFtIHtCb29sZWFufSBHaXZlIHJldHVybmVkIG9iamVjdCB0aGUgcHJvcGVydHkgc2VsZWN0ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
