@@ -246,6 +246,12 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487787806327">
+        <mark key="[" line="432" column="20" />
+        <mark key="]" line="432" column="21" />
+        <mark key="." line="432" column="21" />
+        <mark key="^" line="432" column="21" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
       </file>
@@ -901,10 +907,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>AND</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>AND</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
