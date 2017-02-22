@@ -84,10 +84,7 @@
         <mark key="." line="106" column="52" />
         <mark key="^" line="106" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1487776737277">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="45" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1487795745007">
         <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1485796110000">
@@ -573,16 +570,11 @@
       <file name="$USER_HOME$/sandbox/PLng2Forms/src/index.html" timestamp="1481538901737">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" timestamp="1487689721598">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" timestamp="1487795771466">
         <mark key="[" line="16" column="116" />
         <mark key="]" line="16" column="116" />
         <mark key="." line="16" column="116" />
         <mark key="^" line="16" column="32" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487792118412">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/variables.ts" timestamp="1481818998597">
         <mark key="[" line="2" column="53" />
@@ -886,8 +878,8 @@
       <jump line="655" column="124" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String(FilterType.OBJ)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String(FilterType.OBJ)</text>
@@ -899,7 +891,7 @@
         <text encoding="base64">QXJyYXk8eyB2YWx1ZTogYW55LCBzZWxlY3RlZDogYm9vbGVhbiB9Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZTRlNjlkLi4uIFJlZmFjdG9yaW5nLCBhZGRpbmcgY29tbWVudHMsIGFuZCByZXBsYWNpbmcgZ2VybWFuIHRleHQgd2l0aCBlbmdsaXNoCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
@@ -908,22 +900,22 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwY2E2NjVkLi4uIExpbnRpbmcgY29tcGxldGUK</text>
+        <text encoding="base64">Pj4+Pj4+PiBlZTRlNjlkLi4uIFJlZmFjdG9yaW5nLCBhZGRpbmcgY29tbWVudHMsIGFuZCByZXBsYWNpbmcgZ2VybWFuIHRleHQgd2l0aCBlbmdsaXNoCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGU/OiBzdHJpbmc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBiYWUxOWYzLi4uIEFkZGVkIGNoZWNrcyB0byBkaWZmZXJlbnRpYXRlZCBiZXR3ZWVuIHB1cmUgZWRpdHMgb2RlciBkZWxldGVzIHJlbW92aW5nIHVubmVzc2FyeSBhcGkgY2FsbHMK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAwY2E2NjVkLi4uIExpbnRpbmcgY29tcGxldGUK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmV4cG9ydCBpbnRlcmZhY2UgVGFibGVGaWx0ZXJ7CiAgICBfbmFtZTogc3RyaW5nLAogICAgX3R5cGU6IEZpbHRlclR5cGVzLk9iaiwKICAgIGZpbHRlckRhdGE6IEZpbHRlciB8IHN0cmluZwoKfQo9PT09PT09</text>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHR5cGU/OiBzdHJpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
