@@ -204,11 +204,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1487851154825">
-        <mark key="[" line="3" column="79" />
-        <mark key="]" line="3" column="79" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1487853004616">
+        <mark key="[" line="16" column="92" />
+        <mark key="]" line="16" column="92" />
         <mark key="^" line="3" column="96" />
-        <mark key="." line="3" column="79" />
+        <mark key="." line="16" column="92" />
       </file>
       <file name="http://localhost:4200/main.bundle.js" timestamp="1485367506046">
         <mark key="[" line="0" column="0" />
@@ -366,8 +366,10 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/FilterUtils.ts" timestamp="1487844832229">
-        <mark key="[" line="9" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/FilterUtils.ts" timestamp="1487853054140">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
@@ -890,11 +892,11 @@
       <jump line="655" column="124" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>[ngModel]=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -903,31 +905,31 @@
         <text encoding="base64">QXJyYXk8eyB2YWx1ZTogYW55LCBzZWxlY3RlZDogYm9vbGVhbiB9Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZTRlNjlkLi4uIFJlZmFjdG9yaW5nLCBhZGRpbmcgY29tbWVudHMsIGFuZCByZXBsYWNpbmcgZ2VybWFuIHRleHQgd2l0aCBlbmdsaXNoCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwY2E2NjVkLi4uIExpbnRpbmcgY29tcGxldGUK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBlZTRlNjlkLi4uIFJlZmFjdG9yaW5nLCBhZGRpbmcgY29tbWVudHMsIGFuZCByZXBsYWNpbmcgZ2VybWFuIHRleHQgd2l0aCBlbmdsaXNoCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAwY2E2NjVkLi4uIExpbnRpbmcgY29tcGxldGUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHR5cGU/OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
