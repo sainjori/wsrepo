@@ -641,6 +641,12 @@
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/testJavascriptCode/test.js" timestamp="1487865904244">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487176404982">
         <mark key="[" line="160" column="110" />
         <mark key="]" line="162" column="33" />
@@ -790,7 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="53" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="139" column="103" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="83" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" />
       <jump line="191" column="30" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
@@ -890,46 +895,52 @@
       <jump line="679" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="17" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
       <jump line="655" column="124" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="5" column="24" filename="$USER_HOME$/sandbox/testJavascriptCode/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>[ngModel]=&quot;true&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QXJyYXk8eyB2YWx1ZTogYW55LCBzZWxlY3RlZDogYm9vbGVhbiB9Pg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7CiAgICBmaWxlOidjc3MvY29yZS5jc3MnCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+        <text encoding="base64">dmFyIGZhbWlseSA9IFsnU2hhbmUnLCAnU2FsbHknXQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="2" type="4">
+        <text>;
+
+console.log(family.indexOf('Sally'));
+
+
+console.log(&quot;testfffffffef6z66z6&quot;);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMjMuMDIuMjAxNy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBlZTRlNjlkLi4uIFJlZmFjdG9yaW5nLCBhZGRpbmcgY29tbWVudHMsIGFuZCByZXBsYWNpbmcgZ2VybWFuIHRleHQgd2l0aCBlbmdsaXNoCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAwY2E2NjVkLi4uIExpbnRpbmcgY29tcGxldGUK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
