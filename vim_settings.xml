@@ -204,6 +204,12 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" timestamp="1487851154825">
+        <mark key="[" line="3" column="79" />
+        <mark key="]" line="3" column="79" />
+        <mark key="^" line="3" column="96" />
+        <mark key="." line="3" column="79" />
+      </file>
       <file name="http://localhost:4200/main.bundle.js" timestamp="1485367506046">
         <mark key="[" line="0" column="0" />
       </file>
@@ -884,11 +890,11 @@
       <jump line="655" column="124" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>String(FilterType.OBJ)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
