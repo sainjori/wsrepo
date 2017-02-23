@@ -54,6 +54,9 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/index.html" timestamp="1487844663187">
+        <mark key="[" line="20" column="67" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/webpack.config.js" timestamp="1487775430145">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -238,10 +241,10 @@
         <mark key="." line="112" column="53" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1487794912114">
-        <mark key="[" line="611" column="35" />
-        <mark key="]" line="611" column="38" />
-        <mark key="." line="611" column="38" />
-        <mark key="^" line="611" column="38" />
+        <mark key="[" line="788" column="35" />
+        <mark key="]" line="788" column="38" />
+        <mark key="." line="788" column="38" />
+        <mark key="^" line="788" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -356,6 +359,9 @@
         <mark key="]" line="4" column="69" />
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/FilterUtils.ts" timestamp="1487844832229">
+        <mark key="[" line="9" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.ts" timestamp="1481819587061">
         <mark key="[" line="17" column="1" />
