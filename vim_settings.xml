@@ -641,11 +641,11 @@
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/testJavascriptCode/test.js" timestamp="1487865904244">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/sandbox/testJavascriptCode/test.js" timestamp="1487867729220">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1487176404982">
         <mark key="[" line="160" column="110" />
@@ -898,11 +898,11 @@
       <jump line="5" column="24" filename="$USER_HOME$/sandbox/testJavascriptCode/test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIHBlcnNvbiA9IHsKICBuYW1lOiAnYmVydGFuLXlhc2FyJwp9Cgp2YXIgZmlsdGVycyA9IHsKICAnZGVzbHVnaWZ5JzogeCA9PiB4LnJlcGxhY2UoJy0nLCAnICcpLAogICd1cHBlcmNhc2UnOiB4ID0+IHgudG9VcHBlckNhc2UoKQp9Cgp2YXIgaW5wdXQgPSAnbmFtZSB8IGRlc2x1Z2lmeSB8IHVwcGVyY2FzZSc7Cgp2YXIgc2VjdGlvbnMgPSBpbnB1dC5zcGxpdCgnfCcpLm1hcCh4ID0+IHgudHJpbSgpKTsKdmFyIHJlZiA9IHBlcnNvbltzZWN0aW9uc1swXV07CgoKdmFyIG91dHB1dCA9IHNlY3Rpb25zLnNsaWNlKDEpCiAgICAucmVkdWNlKChwcmV2LCBuZXh0KSA9PiB7CgogICAgICBpZiAoZmlsdGVyc1tuZXh0XSkgewoKICAgICAgICByZXR1cm4gZmlsdGVyc1tuZXh0XS5jYWxsKG51bGwsIHByZXYpOwogICAgICB9CiAgICB9LCByZWYpOwoKY29uc29sZS5sb2coIm91dHB1dCIsIG91dHB1dCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -911,9 +911,24 @@
         <text encoding="base64">ICB7CiAgICBmaWxlOidjc3MvY29yZS5jc3MnCiAgfQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">dmFyIHBlcnNvbiA9IHsKICBuYW1lOiAnYmVydGFuLXlhc2FyJwp9Cgp2YXIgZmlsdGVycyA9IHsKICAnZGVzbHVnaWZ5JzogeCA9PiB4LnJlcGxhY2UoJy0nLCAnICcpLAogICd1cHBlcmNhc2UnOiB4ID0+IHgudG9VcHBlckNhc2UoKQp9Cgp2YXIgaW5wdXQgPSAnbmFtZSB8IGRlc2x1Z2lmeSB8IHVwcGVyY2FzZSc7Cgp2YXIgc2VjdGlvbnMgPSBpbnB1dC5zcGxpdCgnfCcpLm1hcCh4ID0+IHgudHJpbSgpKTsKdmFyIHJlZiA9IHBlcnNvbltzZWN0aW9uc1swXV07CgoKdmFyIG91dHB1dCA9IHNlY3Rpb25zLnNsaWNlKDEpCiAgICAucmVkdWNlKChwcmV2LCBuZXh0KSA9PiB7CgogICAgICBpZiAoZmlsdGVyc1tuZXh0XSkgewoKICAgICAgICByZXR1cm4gZmlsdGVyc1tuZXh0XS5jYWxsKG51bGwsIHByZXYpOwogICAgICB9CiAgICB9LCByZWYpOwoKY29uc29sZS5sb2coIm91dHB1dCIsIG91dHB1dCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmNvbnNvbGUubG9nKHNlY3Rpb25zKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocmVmKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIHdoaXRlbGlzdCA9IFsnLmNzcycsICcuanMnXTsKCnZhciBldmVudHMgPSBbCiAgewogICAgZmlsZTogJ2Nzcy9jb3JlLmNzcycKICB9LAogIHsKICAgIGZpbGU6ICdqcy9hcHAuanMnCiAgfSwKICB7CiAgICBmaWxlOiAnaW5kZXguaHRtbCcKICB9CgoKdmFyIGZpbHRlcmVkID0gZXZlbnRzLmZpbHRlcihldmVudCA9PiB7CiAgICAgIHZhciBleHQgPSByZXF1aXJlKCdwYXRoJykuZXh0bmFtZShldmVudC5maWxlKTsKcmV0dXJuIHdoaXRlbGlzdC5pbmRleE9mKGV4dCkgPiAtMTsKfSkKY29uc29sZS5sb2coZmlsdGVyZWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dmFyIGZhbWlseSA9IFsnU2hhbmUnLCAnU2FsbHknXQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>;
 
 console.log(family.indexOf('Sally'));
@@ -921,29 +936,14 @@ console.log(family.indexOf('Sally'));
 
 console.log(&quot;testfffffffef6z66z6&quot;);</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBieWEgb24gMjMuMDIuMjAxNy4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZDNlODZmMGY2NTIzZjhhYWIzZGQxMDY0MjcxYjBlZjgzMDM4MzM3Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>help</text>
+        <text>%d</text>
       </register>
     </registers>
     <search>
@@ -980,8 +980,8 @@ console.log(&quot;testfffffffef6z66z6&quot;);</text>
         <entry>dd</entry>
         <entry>d</entry>
         <entry>echo 'Current time is ' . strftime('%c')</entry>
-        <entry>%d</entry>
         <entry>help</entry>
+        <entry>%d</entry>
       </history-cmd>
       <history-expr />
       <history-input />
