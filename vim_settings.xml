@@ -639,12 +639,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488215858063">
-        <mark key="'" line="134" column="59" />
-        <mark key="[" line="132" column="42" />
-        <mark key="]" line="132" column="42" />
-        <mark key="." line="132" column="42" />
-        <mark key="^" line="132" column="42" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488218334907">
+        <mark key="'" line="132" column="59" />
+        <mark key="[" line="139" column="45" />
+        <mark key="]" line="143" column="43" />
+        <mark key="." line="143" column="43" />
+        <mark key="^" line="143" column="43" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -673,7 +673,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
       </file>
-      <file name="/fragment.ts" timestamp="1487690956522">
+      <file name="/fragment.ts" timestamp="1488216787325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1487261881099">
@@ -772,7 +772,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488213000265">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488216563094">
         <mark key="[" line="131" column="24" />
         <mark key="]" line="131" column="43" />
         <mark key="^" line="131" column="43" />
@@ -913,43 +913,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.router.url</text>
+        <text>target</text>
       </register>
       <register name="-" type="4">
-        <text>this.router.url</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
         <text>const</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBmaWxlOidjc3MvY29yZS5jc3MnCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogaWQgfV0sIHsgcmVsYXRpdmVUbzogdGhpcy5yb3V0ZSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcmQ7Cg==</text>
+      <register name="3" type="4">
+        <text>set filter(value){
+        console.log(&quot;test&quot;);
+        debugger;
+    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcmQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
