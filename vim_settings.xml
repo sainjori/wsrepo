@@ -246,6 +246,9 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488208931074">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
       </file>
@@ -633,6 +636,7 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488212184975" />
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
@@ -759,6 +763,12 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488212862955">
+        <mark key="[" line="131" column="24" />
+        <mark key="]" line="131" column="43" />
+        <mark key="^" line="131" column="43" />
+        <mark key="." line="131" column="43" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
       </file>
@@ -791,8 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="10" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
-      <jump line="23" column="73" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/alternate.html" />
       <jump line="25" column="27" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="28" column="15" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="12" column="0" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
@@ -886,11 +894,13 @@
       <jump line="85" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
       <jump line="651" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="197" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="694" column="118" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="89" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.ts" />
       <jump line="57" column="87" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" />
       <jump line="327" column="20" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="144" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="553" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -900,7 +910,7 @@
         <text>has values and return true</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>constr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICBmaWxlOidjc3MvY29yZS5jc3MnCiAgfQo=</text>
@@ -937,15 +947,14 @@
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>constr</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>constr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>main</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>body</entry>
         <entry>4</entry>
@@ -965,6 +974,7 @@
         <entry>On</entry>
         <entry encoding="base64">XDxmYWxzZVw+</entry>
         <entry>,</entry>
+        <entry>constr</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
