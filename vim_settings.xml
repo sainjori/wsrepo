@@ -246,8 +246,11 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488208931074">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488214345208">
         <mark key="'" line="0" column="0" />
+        <mark key="]" line="235" column="28" />
+        <mark key="^" line="235" column="28" />
+        <mark key="." line="235" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -636,7 +639,13 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488212184975" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488215858063">
+        <mark key="'" line="134" column="59" />
+        <mark key="[" line="132" column="42" />
+        <mark key="]" line="132" column="42" />
+        <mark key="." line="132" column="42" />
+        <mark key="^" line="132" column="42" />
+      </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
@@ -763,7 +772,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488212862955">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488213000265">
         <mark key="[" line="131" column="24" />
         <mark key="]" line="131" column="43" />
         <mark key="^" line="131" column="43" />
@@ -801,9 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="27" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
-      <jump line="28" column="15" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
-      <jump line="12" column="0" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="85" column="13" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="52" column="5" filename="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" />
       <jump line="136" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
@@ -901,61 +907,63 @@
       <jump line="144" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="553" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
+      <jump line="133" column="17" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
+      <jump line="15" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
+      <jump line="132" column="59" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>this.router.url</text>
       </register>
       <register name="-" type="4">
-        <text>has values and return true</text>
+        <text>this.router.url</text>
       </register>
       <register name="/" type="4">
-        <text>constr</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB7CiAgICBmaWxlOidjc3MvY29yZS5jc3MnCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcmQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">QFZpZXdDaGlsZHJlbignc2VhcmNoRHJvcGRvd24nKQogICAgcHJpdmF0ZSBzZWFyY2hEcm9wZG93bjogUXVlcnlMaXN0PFNlYXJjaERyb3Bkb3duQ29tcG9uZW50Pjs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xlYXIoKSB7CiAgICAgICAgdGhpcy5fc2VsZWN0ZWRJdGVtcy5mb3JFYWNoKGUgPT4gdGhpcy5pdGVtU2VsZWN0ZWQoZmFsc2UsIGUpKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
       </register>
     </registers>
     <search>
-      <last-search>constr</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>constr</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwwXD4=</entry>
         <entry>body</entry>
         <entry>4</entry>
         <entry>epi</entry>
@@ -975,6 +983,7 @@
         <entry encoding="base64">XDxmYWxzZVw+</entry>
         <entry>,</entry>
         <entry>constr</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
