@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1488202610568">
+      <file name="/a.dummy" timestamp="1488292866741">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
@@ -639,10 +639,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488291730960">
-        <mark key="[" line="114" column="4" />
-        <mark key="]" line="114" column="4" />
-        <mark key="." line="114" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488293158079">
+        <mark key="[" line="72" column="32" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="72" column="32" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -912,11 +913,11 @@
       <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaWQiLCB0aGlzLmZpbHRlcklkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>paramName</text>
       </register>
       <register name="/" type="4">
         <text>const</text>
@@ -925,31 +926,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogaWQgfV0sIHsgcmVsYXRpdmVUbzogdGhpcy5yb3V0ZSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaWQiLCB0aGlzLmZpbHRlcklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKHVybFdpdGhvdXRBY2Nlc3NUb2tlbik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmxXaXRob3V0QWNjZXNzVG9rZW4gPSB0aGlzLnJvdXRlci51cmwucmVwbGFjZShuZXcgUmVnRXhwKCcuZmlsdGVySWQ9JyArIGlkKSwgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKHVybFdpdGhvdXRBY2Nlc3NUb2tlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB1cmxXaXRob3V0QWNjZXNzVG9rZW4gPSB0aGlzLnJvdXRlci51cmwucmVwbGFjZShuZXcgUmVnRXhwKCcuZmlsdGVySWQ9JyArIGlkKSwgJycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwodXJsVHJlZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogdW5kZWZpbmVkIH1dLCB7IHJlbGF0aXZlVG86IHRoaXMucm91dGUgfSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwodXJsVHJlZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBjb25zdCB1cmxUcmVlID0gdGhpcy5yb3V0ZXIuY3JlYXRlVXJsVHJlZShbe31dLCB7cXVlcnlQYXJhbXM6IHt9fSkK</text>
+        <text encoding="base64">Ly8gICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogdW5kZWZpbmVkIH1dLCB7IHJlbGF0aXZlVG86IHRoaXMucm91dGUgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Ly8gICAgICBjb25zdCB1cmxUcmVlID0gdGhpcy5yb3V0ZXIuY3JlYXRlVXJsVHJlZShbe31dLCB7cXVlcnlQYXJhbXM6IHt9fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKHVybFdpdGhvdXRBY2Nlc3NUb2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
