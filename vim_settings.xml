@@ -246,11 +246,11 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488214345208">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="235" column="28" />
-        <mark key="^" line="235" column="28" />
-        <mark key="." line="235" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488298057046">
+        <mark key="'" line="292" column="46" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -490,7 +490,7 @@
       <file name="/ConfigurationModule/ConfigurationComponent/wrapper.ngfactory.js" timestamp="1485366752510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/app.component.ts" timestamp="1487334219778">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/app.component.ts" timestamp="1488297766140">
         <mark key="[" line="6" column="70" />
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
@@ -540,6 +540,11 @@
       </file>
       <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485514689682">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488299173894">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
       </file>
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1485514706145">
         <mark key="[" line="0" column="0" />
@@ -625,11 +630,7 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1488202623745">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1488298152382" />
       <file name="webpack:///./~/rxjs/AsyncSubject.js" timestamp="1485515733700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -639,11 +640,10 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488293158079">
-        <mark key="[" line="72" column="32" />
-        <mark key="]" line="72" column="32" />
-        <mark key="." line="72" column="32" />
-        <mark key="^" line="72" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488299119751">
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -811,9 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="314" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
-      <jump line="56" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
       <jump line="57" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
       <jump line="146" column="52" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="25" column="15" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/services/PageTitleService.ts" />
@@ -911,13 +908,16 @@
       <jump line="149" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="183" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
+      <jump line="32" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
+      <jump line="245" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
+      <jump line="292" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaWQiLCB0aGlzLmZpbHRlcklkKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIGZpbHRlckhhc1ZhbHVlcyhmaWx0ZXIpIg==</text>
       </register>
       <register name="-" type="4">
-        <text>paramName</text>
+        <text encoding="base64">ICYmIGZpbHRlckhhc1ZhbHVlcyhmaWx0ZXIpIg==</text>
       </register>
       <register name="/" type="4">
         <text>const</text>
@@ -926,31 +926,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogaWQgfV0sIHsgcmVsYXRpdmVUbzogdGhpcy5yb3V0ZSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiZmlsdGVyaWQiLCB0aGlzLmZpbHRlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKHRoaXMuZmlsdGVySGFzVmFsdWVzKHRoaXMuZmlsdGVyKSkgewogICAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gZmFsc2U7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhpcy5maWx0ZXJTYXZlQnV0dG9uRGlzYWJsZWQgPSB0cnVlOwogICAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKHVybFdpdGhvdXRBY2Nlc3NUb2tlbik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB0aGlzLmVtaXRGaWx0ZXJVcGRhdGUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICAgIGNvbnNvbGUubG9nKCJmaWx0ZXJpZCIsIHRoaXMuZmlsdGVy</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1cmxXaXRob3V0QWNjZXNzVG9rZW4gPSB0aGlzLnJvdXRlci51cmwucmVwbGFjZShuZXcgUmVnRXhwKCcuZmlsdGVySWQ9JyArIGlkKSwgJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwodXJsVHJlZSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">cm91dGVyLmV2ZW50cy5zdWJzY3JpYmUoZXZlbnQgPT4gewogICAgICAgICAgICBpZiAoZXZlbnQgaW5zdGFuY2VvZiBOYXZpZ2F0aW9uU3RhcnQpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJyZWZyZXNoPyIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogdW5kZWZpbmVkIH1dLCB7IHJlbGF0aXZlVG86IHRoaXMucm91dGUgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghdGhpcy5jdXJyZW50VXNlclNlcnZpY2UuY3VycmVudFVzZXIpIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLmN1cnJlbnRVc2VyU2VydmljZS5sb2FkQ3VycmVudFVzZXIoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBjb25zdCB1cmxUcmVlID0gdGhpcy5yb3V0ZXIuY3JlYXRlVXJsVHJlZShbe31dLCB7cXVlcnlQYXJhbXM6IHt9fSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZpbHRlcklkID0gcGFyYW1zWydmaWx0ZXJJZCddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
