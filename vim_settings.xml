@@ -639,12 +639,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488272199404">
-        <mark key="'" line="150" column="45" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-        <mark key="^" line="18" column="36" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488287392904">
+        <mark key="'" line="148" column="45" />
+        <mark key="[" line="149" column="30" />
+        <mark key="]" line="149" column="28" />
+        <mark key="." line="149" column="28" />
+        <mark key="^" line="149" column="28" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -912,8 +912,8 @@
       <jump line="149" column="45" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.route</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb3ZpZGVyczogW1JvdXRlclN0YXRlU25hcHNob3RdLAo=</text>
       </register>
       <register name="-" type="4">
         <text>this.route</text>
@@ -925,34 +925,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbeyBmaWx0ZXJJZDogaWQgfV0sIHsgcmVsYXRpdmVUbzogdGhpcy5yb3V0ZSB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVyczogW1JvdXRlclN0YXRlU25hcHNob3RdLAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgc3RhdGU6IFJvdXRlclN0YXRlU25hcHNob3QsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>set filter(value){
         console.log(&quot;test&quot;);
         debugger;
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcmQ7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZikK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
