@@ -273,7 +273,6 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="/event-logs-table.component.ts" timestamp="1488199640348" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth.module.ts" timestamp="1481819487412">
         <mark key="[" line="18" column="27" />
       </file>
@@ -652,12 +651,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488370122750">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="94" column="3" />
-        <mark key="]" line="93" column="10" />
-        <mark key="." line="93" column="10" />
-        <mark key="^" line="93" column="10" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488370768395">
+        <mark key="'" line="100" column="5" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="28" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -927,51 +925,44 @@
       <jump line="486" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5lbWl0RmlsdGVyVXBkYXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
-      <register name="0" type="4">
-        <text>filterHasValues</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5maWx0ZXJTYXZlQnV0dG9uRGlzYWJsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lbWl0RmlsdGVyVXBkYXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsdGVySGFzVmFsdWVzID0gdGhpcy5maWx0ZXJIYXNWYWx1ZXNDaGVjayh0aGlzLmZpbHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW1pdEZpbHRlclVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlmIChmaWx0ZXJEcm9wZG93bkNoYW5nZS5zZWxlY3RlZC5sZW5ndGggPCAxKSB7CiAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gdHJ1ZTsKICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gZmFsc2U7CiAgICB9</text>
+        <text encoding="base64">IGlmKCl7CiAgICAKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>let test = this.filter;
-
-    Object.defineProperty(test, 'filterData', {
-      set : function (val) {
-        debugger;
-        test.filterData = val;
-      }
-    });</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
