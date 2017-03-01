@@ -635,12 +635,11 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1488380942139">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" timestamp="1488389967452">
         <mark key="'" line="102" column="34" />
-        <mark key="[" line="35" column="58" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="webpack:///./~/rxjs/AsyncSubject.js" timestamp="1485515733700">
         <mark key="[" line="0" column="0" />
@@ -926,10 +925,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRhYmxlRmlsdGVyRW5kcG9pbnRBcGk6IFRhYmxlRmlsdGVyRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC5tYXAoKCkgPT4gdGhpcy5fZXhlY3V0ZVF1ZXJ5KCkpOw==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -938,31 +937,36 @@
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90b1Byb21pc2UnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRhYmxlRmlsdGVyRW5kcG9pbnRBcGk6IFRhYmxlRmlsdGVyRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJvdXRlcjogUm91dGVyCg==</text>
+      <register name="2" type="4">
+        <text>if (!filterInfo.filter) {
+            return {
+                _type: 'AND',
+                subexprs: []
+            };
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRhYmxlRmlsdGVyRW5kcG9pbnRBcGk6IFRhYmxlRmlsdGVyRW5kcG9pbnRBcGksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJvdXRlcjogUm91dGVyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgcm91dGU6IEFjdGl2YXRlZFJvdXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRhYmxlRmlsdGVyRW5kcG9pbnRBcGk6IFRhYmxlRmlsdGVyRW5kcG9pbnRBcGksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmlsdGVySWQ6IGFueTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJvdXRlcjogUm91dGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRhYmxlRmlsdGVyRW5kcG9pbnRBcGk6IFRhYmxlRmlsdGVyRW5kcG9pbnRBcGksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbHRlclZpc2libGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJvdXRlcjogUm91dGVyKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgcm91dGU6IEFjdGl2YXRlZFJvdXRlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
