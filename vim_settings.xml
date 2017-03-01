@@ -652,12 +652,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488365514061">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488369790950">
         <mark key="'" line="98" column="5" />
-        <mark key="[" line="201" column="46" />
-        <mark key="]" line="202" column="23" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="98" column="65" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="71" column="11" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -686,7 +686,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.spec.ts" timestamp="1481819887522">
         <mark key="[" line="27" column="3" />
       </file>
-      <file name="/fragment.ts" timestamp="1488216787325">
+      <file name="/fragment.ts" timestamp="1488368918585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1487261881099">
@@ -928,10 +928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.filter</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -940,33 +940,38 @@
         <text>filterHasValues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmlsdGVySGFzVmFsdWVzQ2hlY2sodGhpcy4pCg==</text>
+      <register name="2" type="4">
+        <text>let test = this.filter;
+
+    Object.defineProperty(test, 'filterData', {
+      set : function (val) {
+        debugger;
+        test.filterData = val;
+      }
+    });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKHRoaXMuc2F2ZWRGaWx0ZXJzLmxlbmd0aCA9PT0gMCAmJiB0aGlzLmZpbHRlckhhc1ZhbHVlc0NoZWNrKHRoaXMuZmlsdGVyKSkgewovLyAgICAgICAgdGhpcy5maWx0ZXJTYXZlQnV0dG9uRGlzYWJsZWQgPSBmYWxzZTsKICAgICAgfSBlbHNlIHsKLy8gICAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gdHJ1ZTsKICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRlc3QuaGVsbG8gPSAid29ybGQiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCh2YWwpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>ngAfterViewInit(): void {
-
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZ2V0IDogZnVuY3Rpb24gKCkgewogICAgICAgIHJldHVybiB0aGlzLl9oZWxsbzsKICAgICAgfSwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dGhpcy5maWx0ZXJJZCA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1zWydmaWx0ZXJJZCddOwogICAgICAgIGlmICh0aGlzLmZpbHRlcklkICE9PSAnbnVsbCcgJiYgdGhpcy5maWx0ZXJJZCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS5maW5kQnlJRCh0aGlzLmZpbHRlcklkKS5zdWJzY3JpYmUoZmlsdGVyID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyID0gZmlsdGVyOwogICAgICAgICAgICAgICAgdGhpcy5maWx0ZXJWaXNpYmxlID0gdHJ1ZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZmlsdGVySGFzVmFsdWVzQ2hlY2sodGhpcy4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
