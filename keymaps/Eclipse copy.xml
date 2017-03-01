@@ -7,9 +7,7 @@
     <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt a" />
+    <mouse-shortcut keystroke="shift button142" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -51,6 +49,9 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="shift button143" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
@@ -65,9 +66,11 @@
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt b" />
+    <mouse-shortcut keystroke="control alt button143" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button142" />
   </action>
   <action id="GuiDesigner.GoToListener">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -79,6 +82,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift q" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -104,14 +110,12 @@
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f5" />
     <mouse-shortcut keystroke="control button142" />
-    <mouse-shortcut keystroke="control alt button142" />
     <keyboard-shortcut first-keystroke="numpad2" />
   </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="shift f8" />
     <mouse-shortcut keystroke="control button143" />
-    <mouse-shortcut keystroke="control alt button143" />
     <keyboard-shortcut first-keystroke="numpad1" />
   </action>
   <action id="StepOver">
@@ -137,6 +141,7 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
     <keyboard-shortcut first-keystroke="alt g" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
