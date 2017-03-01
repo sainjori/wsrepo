@@ -24,8 +24,10 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1488292866741">
+      <file name="/a.dummy" timestamp="1488362883062">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
         <mark key="[" line="11" column="30" />
@@ -650,11 +652,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488361761357">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488363319911">
         <mark key="'" line="98" column="5" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -924,11 +927,11 @@
       <jump line="486" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGhpcy5maWx0ZXJJZCA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1zWydmaWx0ZXJJZCddOwogICAgICAgIGlmICh0aGlzLmZpbHRlcklkICE9PSAnbnVsbCcgJiYgdGhpcy5maWx0ZXJJZCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS5maW5kQnlJRCh0aGlzLmZpbHRlcklkKS5zdWJzY3JpYmUoZmlsdGVyID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyID0gZmlsdGVyOwogICAgICAgICAgICAgICAgdGhpcy5maWx0ZXJWaXNpYmxlID0gdHJ1ZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -936,33 +939,34 @@
       <register name="0" type="4">
         <text>filterHasValues</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGhpcy5maWx0ZXJJZCA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1zWydmaWx0ZXJJZCddOwogICAgICAgIGlmICh0aGlzLmZpbHRlcklkICE9PSAnbnVsbCcgJiYgdGhpcy5maWx0ZXJJZCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS5maW5kQnlJRCh0aGlzLmZpbHRlcklkKS5zdWJzY3JpYmUoZmlsdGVyID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyID0gZmlsdGVyOwogICAgICAgICAgICAgICAgdGhpcy5maWx0ZXJWaXNpYmxlID0gdHJ1ZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Zwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgKHRoaXMuc2F2ZWRGaWx0ZXJzLmxlbmd0aCA9PT0gMCAmJiB0aGlzLmZpbHRlckhhc1ZhbHVlc0NoZWNrKHRoaXMuZmlsdGVyKSkgewovLyAgICAgICAgdGhpcy5maWx0ZXJTYXZlQnV0dG9uRGlzYWJsZWQgPSBmYWxzZTsKICAgICAgfSBlbHNlIHsKLy8gICAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gdHJ1ZTsKICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbHRlcklkOiBhbnk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN1YnNjcmlwdGlvbjogU3Vic2NyaXB0aW9uOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>ngOnDestroy(): void {
+      <register name="4" type="4">
+        <text>ngAfterViewInit(): void {
+
   }</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">dGhpcy5maWx0ZXJJZCA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1zWydmaWx0ZXJJZCddOwogICAgICAgIGlmICh0aGlzLmZpbHRlcklkICE9PSAnbnVsbCcgJiYgdGhpcy5maWx0ZXJJZCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRoaXMudGFibGVGaWx0ZXJFbmRwb2ludEFwaS5maW5kQnlJRCh0aGlzLmZpbHRlcklkKS5zdWJzY3JpYmUoZmlsdGVyID0+IHsKICAgICAgICAgICAgICAgIHRoaXMuZmlsdGVyID0gZmlsdGVyOwogICAgICAgICAgICAgICAgdGhpcy5maWx0ZXJWaXNpYmxlID0gdHJ1ZTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Zwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdWJzY3JpcHRpb24udW5zdWJzY3JpYmUoKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbHRlcklkOiBhbnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
