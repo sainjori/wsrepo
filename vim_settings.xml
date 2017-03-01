@@ -251,7 +251,7 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488362284236">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488373697716">
         <mark key="'" line="486" column="40" />
         <mark key="[" line="482" column="8" />
         <mark key="]" line="488" column="9" />
@@ -651,11 +651,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488370768395">
-        <mark key="'" line="100" column="5" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="28" />
-        <mark key="." line="100" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488376134221">
+        <mark key="'" line="103" column="5" />
+        <mark key="[" line="138" column="38" />
+        <mark key="]" line="138" column="42" />
+        <mark key="." line="138" column="42" />
+        <mark key="^" line="138" column="42" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -925,44 +926,49 @@
       <jump line="486" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWl0RmlsdGVyVXBkYXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>this.filter.id</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>this.filter.id</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5maWx0ZXJTYXZlQnV0dG9uRGlzYWJsZWQgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>changesToFilterField</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5lbWl0RmlsdGVyVXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoW3sgZmlsdGVySWQ6IHRoaXMuZmlsdGVyLmlkIH1dLCB7IHJlbGF0aXZlVG86IHRoaXMucm91dGUgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmZpbHRlci5pZCA9PT0gbnVsbCB8fCB0aGlzLmZpbHRlci5pZCA9PT0gdW5kZWZpbmVkICkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoW3sgZmlsdGVySWQ6IHRoaXMuZmlsdGVyLmlkIH1dLCB7IHJlbGF0aXZlVG86IHRoaXMucm91dGUgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZW1pdEZpbHRlclVwZGF0ZSgpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlmKCl7CiAgICAKICAgIH0=</text>
+        <text>debugger;
+    if (this.filterHasValuesCheck(filter)) {
+      this.filterSaveButtonDisabled = false;
+    } else {
+      this.filterSaveButtonDisabled = true;
+    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
