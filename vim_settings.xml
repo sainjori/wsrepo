@@ -669,12 +669,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488470559281">
-        <mark key="'" line="141" column="33" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="147" column="26" />
-        <mark key="." line="20" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488473116519">
+        <mark key="'" line="139" column="33" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="145" column="23" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -954,11 +954,11 @@
       <jump line="141" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRlc3QgPSA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this._filterNameValidator(this.filter.name, null)</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -967,15 +967,21 @@
         <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDk2ODg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRlc3QgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHRlc3Q7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ci8vZmlsdGVyQnV0dG9ucyA+IGRpdiB7Ci8vICAgIG1hcmdpbi1yaWdodDogMTBweDsKLy8gICAgZmxleC1zaHJpbms6IDE7Ci8vICAgIG1heC13aWR0aDogMjAwcHg7Ci8vICAgIG1pbi13aWR0aDogMTAwcHg7Ci8vfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>:host /deep/ .tooltip-inner {
 }
 :host /deep/ .tooltip .tooltip-arrow {
@@ -989,20 +995,14 @@
 :host /deep/ .tooltip-top {
     //position: relative;</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDtkZAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6ICMwMDk2ODg7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDk2ODg7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDVweDsK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
