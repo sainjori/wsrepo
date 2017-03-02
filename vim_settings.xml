@@ -173,11 +173,11 @@
         <mark key="." line="67" column="6" />
         <mark key="^" line="67" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1488453798348">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="52" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1488460522622">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
         <mark key="^" line="0" column="52" />
-        <mark key="." line="0" column="52" />
+        <mark key="." line="0" column="35" />
       </file>
       <file name="/Clipboard.txt" timestamp="1488187780100">
         <mark key="[" line="0" column="0" />
@@ -557,10 +557,11 @@
       <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485514689682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488455686062">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488460024982">
+        <mark key="[" line="9" column="60" />
+        <mark key="]" line="9" column="60" />
+        <mark key="." line="9" column="60" />
+        <mark key="^" line="9" column="60" />
       </file>
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1485514706145">
         <mark key="[" line="0" column="0" />
@@ -662,12 +663,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488455874923">
-        <mark key="'" line="60" column="26" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="21" />
-        <mark key="^" line="37" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488461445980">
+        <mark key="'" line="56" column="26" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -937,11 +937,11 @@
       <jump line="237" column="49" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBASW5wdXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>treu</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -950,31 +950,32 @@
         <text encoding="base64">aW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90b1Byb21pc2UnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRGaWx0ZXJWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICBASW5wdXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC8vIElucHV0IHBhcmFtZXRlciBmaWx0ZXIoY2FzZTogcXVlcnkgcGFyYW1zIGZpbHRlcklkKQovLyAgICBjb25zdCBjaGFuZ2VzVG9GaWx0ZXJQcm9wZXJ0eSA9IGNoYW5nZXNbJ2ZpbHRlciddICYmIGNoYW5nZXNbJ2ZpbHRlciddLmN1cnJlbnRWYWx1ZSAmJiBjaGFuZ2VzWydmaWx0ZXInXS5jdXJyZW50VmFsdWUuZmlsdGVyRGF0YTsKLy8gICAgaWYgKGNoYW5nZXNUb0ZpbHRlclByb3BlcnR5KSB7Ci8vICAgICAgdGhpcy5maWx0ZXJIYXNWYWx1ZXMgPSB0aGlzLmZpbHRlckhhc1ZhbHVlc0NoZWNrKHRoaXMuZmlsdGVyKTsKLy8gICAgICBpZiAodGhpcy5maWx0ZXJIYXNWYWx1ZXMpIHsKLy8gICAgICAgIHRoaXMuZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID0gZmFsc2U7Ci8vICAgICAgICB0aGlzLnNldEZpbHRlclZpc2libGUodHJ1ZSk7Ci8vICAgICAgfQovLyAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cy5maWx0ZXJJZCA9IHRoaXMucm91dGUuc25hcHNob3QucGFyYW1zWydmaWx0ZXJJZCddOwogICAgaWYgKHRoaXMuZmlsdGVySWQgIT09ICdudWxsJyAmJiB0aGlzLmZpbHRlcklkICE9PSB1bmRlZmluZWQpIHsKICAgICAgdGhpcy50YWJsZUZpbHRlckVuZHBvaW50QXBpLmZpbmRCeUlEKHRoaXMuZmlsdGVySWQpLnN1YnNjcmliZShmaWx0ZXIgPT4gewogICAgICAgIHRoaXMuZmlsdGVyID0gZmlsdGVyOwogICAgICAgIHRoaXMuc2V0RmlsdGVyVmlzaWJsZSh0cnVlKTsKICAgICAgICB0aGlzLl9jaGVja0ZpbHRlclN0YXR1cygpOwogICAgICAgIHRoaXMuZW1pdEZpbHRlclVwZGF0ZSgpOwogICAgICB9KTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gVHJpZ2dlciBleGVjdXRlcXVlcnkgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLm1hcCgoKSA9PiB0aGlzLl9leGVjdXRlUXVlcnkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gRmlsdGVyYmFyIGhhcyBub3QgZW1pdHRlZCBmaWx0ZXIgc2V0IGZyb20gcXVlcnkgUGFyYW0uIEV4Y2VjdXRlIHF1ZXJ5IG1hbnVhbGx5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JzZXJ2YWJsZS5vZih0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuX2V4ZWN1dGVRdWVyeSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCF0aGlzLmZpbHRlci5maWx0ZXJEYXRhKSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="9" type="4">
+        <text>@Input()
+  loading: boolean;</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
