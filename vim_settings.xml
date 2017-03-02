@@ -24,7 +24,7 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1488464802581">
+      <file name="/a.dummy" timestamp="1488479342474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,11 +338,17 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1487694053869">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="0" column="41" />
-        <mark key="." line="0" column="41" />
-        <mark key="^" line="0" column="41" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1488477660873">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1488478642665">
+        <mark key="[" line="198" column="85" />
+        <mark key="]" line="198" column="113" />
+        <mark key="^" line="198" column="113" />
+        <mark key="." line="198" column="113" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/login-component/login-component.component.ts" timestamp="1482407679976">
         <mark key="[" line="27" column="44" />
@@ -669,12 +675,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488473116519">
-        <mark key="'" line="139" column="33" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="145" column="23" />
-        <mark key="." line="139" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488479804166">
+        <mark key="'" line="162" column="33" />
+        <mark key="[" line="110" column="24" />
+        <mark key="]" line="110" column="30" />
+        <mark key="." line="110" column="30" />
+        <mark key="^" line="110" column="30" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -955,54 +961,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRlc3QgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this._filterNameValidator(this.filter.name, null)</text>
+        <text>It will be overridden</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDk2ODg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIHN0YXR1czogJ1dBUk5JTkcnLAogICAgICAgICAgbWVzc2FnZTogJ0EgZmlsdGVyIHdpdGggdGhpcyBuYW1lIGFscmVhZHkgZXhpc3RzLiBJdCB3aWxsIGJlIG92ZXJyaWRkZW4hJwogICAgICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRlc3QgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHRlc3Q7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYobXlfYXJyW2ldID09PSAiIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8vZmlsdGVyQnV0dG9ucyA+IGRpdiB7Ci8vICAgIG1hcmdpbi1yaWdodDogMTBweDsKLy8gICAgZmxleC1zaHJpbms6IDE7Ci8vICAgIG1heC13aWR0aDogMjAwcHg7Ci8vICAgIG1pbi13aWR0aDogMTAwcHg7Ci8vfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBzdGF0dXM6ICdXQVJOSU5HJywKICAgICAgICBtZXNzYWdlOiAnUGxlYXNlJwogICAgICB9Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text>:host /deep/ .tooltip-inner {
-}
-:host /deep/ .tooltip .tooltip-arrow {
-    position: relative !important;
-    left: 140px !important;
-}
-:host /deep/ .save-tooltip {
-    //position: relative;
-    //left: -45px !important;
-}
-:host /deep/ .tooltip-top {
-    //position: relative;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7ZmlsdGVyTmFtZXNmaWx0ZXJOYW1lcwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDtkZAo=</text>
+      <register name="7" type="4">
+        <text>return {
+        status: 'WARNING',
+        message: 'Please'
+      };</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6ICMwMDk2ODg7Cg==</text>
+      <register name="8" type="4">
+        <text>return {
+        status: 'WARNING',
+        message: 'Please'
+      };</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
