@@ -251,9 +251,12 @@
         <mark key="^" line="112" column="53" />
         <mark key="." line="112" column="53" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488448976268">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1488450194223">
         <mark key="'" line="171" column="34" />
         <mark key="[" line="146" column="48" />
+        <mark key="]" line="400" column="19" />
+        <mark key="^" line="400" column="19" />
+        <mark key="." line="400" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.spec.ts" timestamp="1481819664070">
         <mark key="[" line="26" column="3" />
@@ -475,11 +478,11 @@
       <file name="/CSS Fragment (simple-form.component.ts:359).css" timestamp="1480614976655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1488360661745">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="8" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1488450551825">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+        <mark key="." line="76" column="27" />
       </file>
       <file name="webpack:///./~/rxjs/Subject.js" timestamp="1485515732898">
         <mark key="[" line="0" column="0" />
@@ -551,7 +554,7 @@
       <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485514689682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488449354773">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488449831776">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="6" />
@@ -925,10 +928,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[filterColumn]=&quot;displayedColumn&quot;</text>
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>[filterColumn]=&quot;displayedColumn&quot;</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
