@@ -557,20 +557,20 @@
       <file name="webpack:///./~/rxjs/Observable.js" timestamp="1485514689682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488466569488">
-        <mark key="[" line="2" column="107" />
-        <mark key="]" line="2" column="107" />
-        <mark key="." line="2" column="107" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1488472411231">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="56" />
       </file>
       <file name="webpack:///./~/rxjs/operator/mergeMap.js" timestamp="1485514706145">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.scss" timestamp="1488467395045">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.scss" timestamp="1488472359810">
         <mark key="'" line="12" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-        <mark key="^" line="36" column="22" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/services/DialogService.ts" timestamp="1487339207667">
         <mark key="[" line="23" column="72" />
@@ -669,11 +669,12 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488463194736">
-        <mark key="[" line="162" column="36" />
-        <mark key="]" line="162" column="35" />
-        <mark key="." line="162" column="35" />
-        <mark key="^" line="162" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488470559281">
+        <mark key="'" line="141" column="33" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="147" column="26" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -755,6 +756,11 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/input-dialog-data.ts" timestamp="1488470485451">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/.gitignore" timestamp="1482237529265">
         <mark key="[" line="4" column="8" />
       </file>
@@ -776,11 +782,10 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1488468245482">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="90" column="70" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1488469185938">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
@@ -847,7 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" />
       <jump line="0" column="19" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/project.component.ts" />
       <jump line="20" column="132" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" />
@@ -947,47 +951,58 @@
       <jump line="9" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" />
       <jump line="237" column="49" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="7" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.scss" />
+      <jump line="141" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ1dHRvbiB7CiAgICAgICAgcGFkZGluZzowOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDk2ODg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDMuM3B4Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vZmlsdGVyQnV0dG9ucyA+IGRpdiB7Ci8vICAgIG1hcmdpbi1yaWdodDogMTBweDsKLy8gICAgZmxleC1zaHJpbms6IDE7Ci8vICAgIG1heC13aWR0aDogMjAwcHg7Ci8vICAgIG1pbi13aWR0aDogMTAwcHg7Ci8vfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>style=&quot;padding-right: 3.3px&quot;
-style=&quot;padding-right: 3.3px&quot;</text>
+        <text>:host /deep/ .tooltip-inner {
+}
+:host /deep/ .tooltip .tooltip-arrow {
+    position: relative !important;
+    left: 140px !important;
+}
+:host /deep/ .save-tooltip {
+    //position: relative;
+    //left: -45px !important;
+}
+:host /deep/ .tooltip-top {
+    //position: relative;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJlZDtkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iYnRuLWxpbmsiIHR5cGU9ImJ1dHRvbiIgKm5nSWY9ImZpbHRlclZpc2libGUiIFtkaXNhYmxlZF09ImZpbHRlclNhdmVCdXR0b25EaXNhYmxlZCIgKGNsaWNrKT0ic2F2ZUZpbHRlcigpIiBzdHlsZT0ib3V0bGluZS1zdHlsZTogbm9uZTsgIj4KICAgIDxzcGFuIFt0b29sdGlwXT0iZmlsdGVyU2F2ZUJ1dHRvbkRpc2FibGVkID8gJ1NhdmUgZGlzYWJsZWQhIFBsZWFzZSBzZWxlY3QgYSBmaWx0ZXIgcHJvcGVydHkuJzonJyI+PGkgc3R5bGU9InBhZGRpbmctcmlnaHQ6IDMuM3B4IiBjbGFzcz0iZmEgZmEtc2F2ZSI+PC9pPlNhdmU8L3NwYW4+CjwvYnV0dG9uPgo8YnV0dG9uIGNsYXNzPSJidG4tbGluayIgdHlwZT0iYnV0dG9uIiAqbmdJZj0iZmlsdGVyVmlzaWJsZSAmJiBmaWx0ZXJIYXNWYWx1ZXMiIChjbGljayk9ImNsZWFyRmlsdGVycygpIiBzdHlsZT0ib3V0bGluZS1zdHlsZTogbm9uZTsgIj4KICAgIDxzcGFuPjxpIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OiAzLjNweCIgY2xhc3M9ImZhIGZhLXJlbW92ZSI+PC9pPkNsZWFyPC9zcGFuPgo8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIGJvcmRlci10b3AtY29sb3I6ICMwMDk2ODg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaWx0ZXJzCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJ1dHRvbiBjbGFzcz0iYnRuLWxpbmsiIHR5cGU9ImJ1dHRvbiIgKGNsaWNrKT0ic2V0RmlsdGVyVmlzaWJsZSghZmlsdGVyVmlzaWJsZSkiIHN0eWxlPSJvdXRsaW5lLXN0eWxlOiBub25lOyI+PGkgY2xhc3M9ImZhIGZhLWZpbHRlciI+PC9pPiBGaWx0ZXIgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDk2ODg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASW5wdXQoKQo=</text>
+        <text encoding="base64">ICAgIGxlZnQ6IDVweDsK</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
