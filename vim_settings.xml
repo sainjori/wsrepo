@@ -663,11 +663,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488461445980">
-        <mark key="'" line="56" column="26" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1488463194736">
+        <mark key="[" line="162" column="36" />
+        <mark key="]" line="162" column="35" />
+        <mark key="." line="162" column="35" />
+        <mark key="^" line="162" column="35" />
       </file>
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
@@ -937,11 +937,11 @@
       <jump line="237" column="49" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBASW5wdXQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>savedFilter[0].id</text>
       </register>
       <register name="-" type="4">
-        <text>treu</text>
+        <text>savedFilter[0].id</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
