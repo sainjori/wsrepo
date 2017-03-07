@@ -41,6 +41,7 @@
         <mark key="^" line="16" column="42" />
         <mark key="." line="16" column="42" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/URLParser.ts" timestamp="1488891236640" />
       <file name="webpack:///C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/~/@angular/platform-browser/src/dom/dom_renderer.js" timestamp="1482423573791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -791,10 +792,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488890981112">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488895687282">
+        <mark key="[" line="155" column="46" />
+        <mark key="]" line="155" column="46" />
+        <mark key="." line="155" column="46" />
+        <mark key="^" line="155" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
@@ -931,7 +933,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>It will be overridden</text>
@@ -943,37 +945,31 @@
         <text encoding="base64">ICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIHN0YXR1czogJ1dBUk5JTkcnLAogICAgICAgICAgbWVzc2FnZTogJ0EgZmlsdGVyIHdpdGggdGhpcyBuYW1lIGFscmVhZHkgZXhpc3RzLiBJdCB3aWxsIGJlIG92ZXJyaWRkZW4hJwogICAgICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYobXlfYXJyW2ldID09PSAiIikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5hc3NpZ24odXJsKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBzdGF0dXM6ICdXQVJOSU5HJywKICAgICAgICBtZXNzYWdlOiAnUGxlYXNlJwogICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgaWYobXlfYXJyW2ldID09PSAiIikK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBzdGF0dXM6ICdXQVJOSU5HJywKICAgICAgICBtZXNzYWdlOiAnUGxlYXNlJwogICAgICB9Owo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7ZmlsdGVyTmFtZXNmaWx0ZXJOYW1lcwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>return {
-        status: 'WARNING',
-        message: 'Please'
-      };</text>
-      </register>
-      <register name="9" type="4">
-        <text>return {
-        status: 'WARNING',
-        message: 'Please'
-      };</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
