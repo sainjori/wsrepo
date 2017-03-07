@@ -90,6 +90,12 @@
         <mark key="." line="106" column="52" />
         <mark key="^" line="106" column="52" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.html" timestamp="1488897672241">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/package.json" timestamp="1485796110000">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -793,10 +799,10 @@
         <mark key="." line="27" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1488895687282">
-        <mark key="[" line="155" column="46" />
-        <mark key="]" line="155" column="46" />
-        <mark key="." line="155" column="46" />
-        <mark key="^" line="155" column="46" />
+        <mark key="[" line="154" column="46" />
+        <mark key="]" line="154" column="46" />
+        <mark key="." line="154" column="46" />
+        <mark key="^" line="154" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.module.ts" timestamp="1482164896052">
         <mark key="[" line="5" column="45" />
@@ -932,11 +938,11 @@
       <jump line="141" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>It will be overridden</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
