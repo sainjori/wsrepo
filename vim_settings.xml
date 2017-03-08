@@ -613,11 +613,11 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1488968319686">
-        <mark key="[" line="8" column="89" />
-        <mark key="]" line="8" column="103" />
-        <mark key="." line="8" column="103" />
-        <mark key="^" line="8" column="103" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1488969244948">
+        <mark key="[" line="6" column="84" />
+        <mark key="]" line="6" column="84" />
+        <mark key="." line="6" column="84" />
+        <mark key="^" line="8" column="92" />
       </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.component.html" timestamp="1481643975182">
         <mark key="[" line="2" column="13" />
@@ -664,6 +664,7 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1488968583573" />
       <file name="webpack:///./~/@angular/http/src/backends/xhr_backend.js" timestamp="1485515739893">
         <mark key="[" line="0" column="0" />
       </file>
@@ -946,10 +947,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>aaa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
