@@ -179,11 +179,10 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489075603036">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489079613369">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/setup-server/setup-server.component.ts" timestamp="1482408002610">
         <mark key="[" line="14" column="2" />
@@ -386,10 +385,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489076734388">
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489079119677">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="46" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
@@ -457,7 +457,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1488453478012">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1489077819865">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="15" />
         <mark key="^" line="37" column="15" />
@@ -852,11 +852,11 @@
       <jump line="32" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2016</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -865,32 +865,31 @@
         <text encoding="base64">ICAgICAgICBdCiAgICAgICAgbG9hZENoaWxkcmVuOiAnYXBwL2luZm8vaW5mby5tb2R1bGUjSW5mb01vZHVsZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVXRpbHMudXBwZXJDYXNlRmlyc3RMZXR0ZXIocHJvcCkK</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>string
-string</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBvYmouaGFzT3duUHJvcGVydHkoKSBpcyB1c2VkIHRvIGZpbHRlciBvdXQgcHJvcGVydGllcyBmcm9tIHRoZSBvYmplY3QncyBwcm90b3R5cGUgY2hhaW4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICA8L2Rpdj5rCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PC90ZD4KICAgICAgICAgIDwvdHI+CiAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgPC90YWJsZT4=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">PC90ZD4KICAgICAgICA8L3RyPgogICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChkZXAubGVuZ3RoID4gMCkgewogICAgIGZpcnN0SXRlbSA9IGRlcFswXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwID57e2xpY2Vuc2UubmFtZX19PC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+e3tsaWNlbnNlLmxpbmt9fTwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
