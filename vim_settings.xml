@@ -179,7 +179,7 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489081095854">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489083483724">
         <mark key="[" line="11" column="72" />
         <mark key="]" line="11" column="75" />
         <mark key="^" line="11" column="75" />
@@ -386,10 +386,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489082617915">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489084564805">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="64" column="67" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
@@ -853,10 +854,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>firstItem</text>
+        <text encoding="base64">QXJyYXk8QXJyYXk8RGVwZW5kZW5jeUluZm8+Pg==</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -865,31 +866,36 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImEiLCBhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>//        for (const prop in b) {
+//          debugger;
+//          if (b.hasOwnProperty(prop)) {
+//          }
+//        }
+//      return null;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGIubGljZW5zZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhW2JbcHJvcF1dID0gW107CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhW2JbcHJvcF1dKSB7CiAgICAgICAgICAgICAgYVtiW3Byb3BdXSA9IFtdOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFbYltwcm9wXV0ucHVzaChiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnB1c2godGhpcy5wcm9wZXJ0eU5hbWVNYXBbcHJvcF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImIiLCBiKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImEiLCBhKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBbZGVwZW5kZW5jeXNdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
