@@ -1,8 +1,12 @@
 <code_scheme name="Default copy3">
-  <option name="HTML_KEEP_WHITESPACES" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+  <option name="HTML_KEEP_BLANK_LINES" value="0" />
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
+  <option name="HTML_QUOTE_STYLE" value="Single" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
@@ -20,6 +24,7 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
