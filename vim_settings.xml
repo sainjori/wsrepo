@@ -9,6 +9,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/interfaces/ColumnDef.ts" timestamp="1489167989536" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="6" />
@@ -37,7 +38,7 @@
         <mark key="^" line="12" column="15" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/servers.component.html" timestamp="1487689631697">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/servers.component.html" timestamp="1489167961860">
         <mark key="[" line="16" column="36" />
         <mark key="]" line="16" column="42" />
         <mark key="^" line="16" column="42" />
@@ -72,12 +73,6 @@
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/pom.xml" timestamp="1489060521465">
-        <mark key="'" line="319" column="15" />
-        <mark key="[" line="424" column="0" />
-        <mark key="]" line="424" column="0" />
-        <mark key="." line="424" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/pipes/orderByPipe.ts" timestamp="1486131841659">
         <mark key="[" line="6" column="34" />
@@ -547,6 +542,7 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" timestamp="1489168923086" />
       <file name="$USER_HOME$/sandbox/laracasts/learnES6/package.json" timestamp="1485277532528">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="32" />
@@ -588,12 +584,12 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489160215709">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="41" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489170080385">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482166062762">
         <mark key="[" line="17" column="60" />
@@ -640,11 +636,11 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489160494429">
-        <mark key="[" line="6" column="63" />
-        <mark key="]" line="6" column="63" />
-        <mark key="^" line="6" column="63" />
-        <mark key="." line="6" column="63" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489170165793">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="50" />
+        <mark key="^" line="10" column="50" />
+        <mark key="." line="10" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487089666787">
         <mark key="[" line="34" column="29" />
@@ -870,43 +866,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>tableHeaders</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>tableHeaders</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRoPk1lc3NhZ2U8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPnt7aGVhbHRoLm1lc3NhZ2V9fTwvdGQ+Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">ICA8dGQ+e3tyb3cuaGVhbHRoeX19PC90ZD4KICAgICAgICAgICAgICAgICAgPHRkPnt7cm93Lm1lc3NhZ2V9fTwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD57e3Jvdy5lcnJvcn19PC90ZD4=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHRoPk5hbWU8L3RoPgogICAgICAgICAgICAgICAgICA8dGg+SGVhbHRoeTwvdGg+CiAgICAgICAgICAgICAgICAgIDx0aD5NZXNzYWdlPC90aD4KICAgICAgICAgICAgICAgICAgPHRoPkVycm9yPC90aD4=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciB0ZXN0O2QK</text>
+      <register name="3" type="8">
+        <text>health
+health
+health
+health
+health
+health</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXQK</text>
+        <text encoding="base64">ICBkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaGVhbHRoQ2hlY2tzW3Byb3BdID0gaGVhbHRoQ2hlY2tzW3Byb3BdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoY29uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
