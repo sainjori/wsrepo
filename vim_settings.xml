@@ -22,10 +22,10 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/info.module.ts" timestamp="1489150988495">
-        <mark key="]" line="24" column="24" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="24" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/info.module.ts" timestamp="1489173107379">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1489081774551">
         <mark key="[" line="0" column="0" />
@@ -91,9 +91,6 @@
         <mark key="]" line="106" column="52" />
         <mark key="." line="106" column="52" />
         <mark key="^" line="106" column="52" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1489071053806">
-        <mark key="'" line="100" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/servers/cache-server-panel/cache-server-panel.component.html" timestamp="1488897672241">
         <mark key="[" line="1" column="29" />
@@ -220,6 +217,12 @@
         <mark key="]" line="16" column="92" />
         <mark key="^" line="3" column="96" />
         <mark key="." line="16" column="92" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/pipes/upperFirstLetterPipe.ts" timestamp="1489173248877">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dialogs/filter-dialog-data.ts" timestamp="1484225325792">
         <mark key="[" line="2" column="12" />
@@ -536,6 +539,12 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1489173072679">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="25" />
+        <mark key="^" line="57" column="24" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="19" />
@@ -584,12 +593,12 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489170080385">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489173491258">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="33" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482166062762">
         <mark key="[" line="17" column="60" />
@@ -636,11 +645,10 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489170165793">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-        <mark key="." line="10" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489174283839">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/utils/filters/filter.ts" timestamp="1487089666787">
         <mark key="[" line="34" column="29" />
@@ -865,49 +873,45 @@
       <jump line="54" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tableHeaders</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tableHeaders</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHRkPnt7aGVhbHRoLm1lc3NhZ2V9fTwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0idGFnIHRhZy1zdWNjZXNzIj5BY3RpdmU8L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICA8dGQ+e3tyb3cuaGVhbHRoeX19PC90ZD4KICAgICAgICAgICAgICAgICAgPHRkPnt7cm93Lm1lc3NhZ2V9fTwvdGQ+CiAgICAgICAgICAgICAgICAgIDx0ZD57e3Jvdy5lcnJvcn19PC90ZD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGhlYWRlcnM6IHN0cmluZ1tdOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text>health
-health
-health
-health
-health
-health</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVycm9yOiAnZXJyb3InLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkCg==</text>
+        <text encoding="base64">ICBwdXJlOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGVhbHRoQ2hlY2tzW3Byb3BdID0gaGVhbHRoQ2hlY2tzW3Byb3BdCg==</text>
+      <register name="7" type="4">
+        <text>console.log(&quot;a&quot;, a);
+    console.log(&quot;b&quot;, b);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVXBwZXJGaXJzdExldHRlclBpcGUgfSBmcm9tICcuLi9jb21tb24tY29tcG9uZW50cy9waXBlcy91cHBlckZpcnN0TGV0dGVyUGlwZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVwcGVyRmlyc3RMZXR0ZXJQaXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
