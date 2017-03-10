@@ -383,11 +383,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489154103186">
-        <mark key="[" line="4" column="43" />
-        <mark key="]" line="4" column="43" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489178783770">
+        <mark key="[" line="51" column="58" />
+        <mark key="]" line="51" column="58" />
+        <mark key="^" line="51" column="58" />
+        <mark key="." line="51" column="58" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
@@ -486,10 +486,7 @@
         <mark key="." line="105" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/utils/StringUtils.ts" timestamp="1489076682517">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="15" column="47" />
-        <mark key="." line="14" column="0" />
+        <mark key="^" line="18" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1486636197062">
         <mark key="[" line="42" column="41" />
@@ -539,12 +536,6 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1489173072679">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="25" />
-        <mark key="^" line="57" column="24" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/dashboard/dashboard.module.ts" timestamp="1481646274621">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="9" column="19" />
@@ -593,12 +584,12 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489173491258">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489179078755">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="33" column="10" />
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482166062762">
         <mark key="[" line="17" column="60" />
@@ -606,11 +597,11 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1489144167942">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1489178898818">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/testJavascriptCode/test.js" timestamp="1487867729220">
         <mark key="[" line="3" column="25" />
@@ -874,11 +865,11 @@
       <jump line="54" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
