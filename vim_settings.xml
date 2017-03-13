@@ -169,11 +169,11 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489399247998">
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="74" />
-        <mark key="." line="33" column="74" />
-        <mark key="^" line="33" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.html" timestamp="1489403661288">
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="81" />
+        <mark key="." line="18" column="81" />
+        <mark key="^" line="18" column="81" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/servers/setup-server/setup-server.component.ts" timestamp="1482408002610">
         <mark key="[" line="14" column="2" />
@@ -382,11 +382,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489398616873">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="21" column="20" />
-        <mark key="." line="21" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.ts" timestamp="1489404085175">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="20" column="73" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
@@ -863,10 +863,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHJvcGVydHlOYW1lTWFwOiB7IFtpZDogc3RyaW5nXTogc3RyaW5nIH0gPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>--property--]</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -875,31 +875,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e3Jvdy5uYW1lfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHJvcGVydHlOYW1lTWFwOiB7IFtpZDogc3RyaW5nXTogc3RyaW5nIH0gPSB7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN5c3RlbUluZm86IFN5c3RlbUluZm87Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG5hbWVzQ29sdW1uOiBhbnk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGhlYWx0aENoZWNrczogeyBbcDogc3RyaW5nXTogUmVzdWx0IH07Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oZWFsdGhDaGVja3MgPSBzeXN0ZW1JbmZvLmhlYWx0aENoZWNrczsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zeXN0ZW1JbmZvID0gc3lzdGVtSW5mbzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">cHJpdmF0ZSBfZ2V0VGFibGVIZWFkZXJzKGRlcDogYW55KTogQXJyYXk8c3RyaW5nPiB7CiAgICBjb25zdCByZXN1bHQgPSBbXTsKICAgIGNvbnN0IGZpcnN0SXRlbSA9IGRlcCAmJiBkZXAubGVuZ3RoICYmIGRlcFswXTsKICAgIGlmIChmaXJzdEl0ZW0pIHsKICAgICAgZm9yIChjb25zdCBwcm9wIGluIGZpcnN0SXRlbSkgewogICAgICAgIGlmIChmaXJzdEl0ZW0uaGFzT3duUHJvcGVydHkocHJvcCkpIHsKICAgICAgICAgcmVzdWx0LnB1c2godGhpcy5wcm9wZXJ0eU5hbWVNYXBbcHJvcF0pOwogICAgICAgIH0KICAgICAgfQogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZUhlYWRlcnMgPSB0aGlzLl9nZXRUYWJsZUhlYWRlcnMocmVzdWx0WzFdKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy50YWJsZUhlYWRlcnMgPSB0aGlzLl9nZXRUYWJsZUhlYWRlcnMocmVzdWx0WzFdKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwdWJsaWMgY29weXJpZ2h0WWVhciA9IDIwMTc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgcHJvcGVydHlOYW1lTWFwOiB7IFtpZDogc3RyaW5nXTogc3RyaW5nIH0gPSB7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9nZXROYW1lc0NvbHVtbihoZWFsdGhDaGVja3M6IHsgW3A6IHN0cmluZ106IFJlc3VsdCB9KSB7CiAgICAKICAgIHJldHVybiBPYmplY3Qua2V5cyhoZWFsdGhDaGVja3MpOwogIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIHN5c3RlbUluZm86IFN5c3RlbUluZm87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5uYW1lc0NvbHVtbiA9IHRoaXMuX2dldE5hbWVzQ29sdW1uKHN5c3RlbUluZm8uaGVhbHRoQ2hlY2tzKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIG5hbWVzQ29sdW1uOiBhbnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
