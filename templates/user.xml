@@ -19,4 +19,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="if" value="if ($VARIABLE$) {&#10;$END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>

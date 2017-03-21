@@ -1,0 +1,55 @@
+<code_scheme name="Default copy3">
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+  <option name="HTML_KEEP_BLANK_LINES" value="0" />
+  <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
+  <option name="HTML_QUOTE_STYLE" value="Single" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <TypeScriptCodeStyleSettings>
+    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="300" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="WRAP_COMMENTS" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

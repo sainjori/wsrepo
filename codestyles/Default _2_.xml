@@ -1,0 +1,13 @@
+<code_scheme name="Default (2)">
+  <option name="HTML_KEEP_LINE_BREAKS" value="false" />
+  <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="100" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
