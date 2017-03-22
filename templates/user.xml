@@ -1,29 +1,29 @@
 <templateSet group="user">
   <template name="lg" value="console.log(&quot;$END$&quot;);" description="Console.log" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="lga" value="console.log(&quot;$VARIABLE$: &quot;, $VARIABLE$);&#10;$END$" description="Console log with arguments" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="dr" value="{{$END$}}" description="inperpolate" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="TypeScript" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="if" value="if ($VARIABLE$) {&#10;$END$&#10;}" description="if" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
