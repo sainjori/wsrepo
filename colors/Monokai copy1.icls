@@ -1,19 +1,19 @@
-<scheme name="Monokai copy" version="142" parent_scheme="Darcula">
+<scheme name="Monokai copy1" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-11-17T13:45:23</property>
+    <property name="created">2017-03-22T10:39:01</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-22T10:26:54</property>
-    <property name="originalScheme">_@user_Monokai</property>
+    <property name="ideVersion">2017.1.0.0</property>
+    <property name="modified">2017-03-22T10:40:50</property>
+    <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Arial monospaced for SAP" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
