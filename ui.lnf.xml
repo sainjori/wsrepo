@@ -1,16 +1,15 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Gadugi" />
-    <option name="FONT_SIZE" value="16" />
-    <option name="RECENT_FILES_LIMIT" value="1111" />
-    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="FONT_FACE" value="Fira Code Light" />
+    <option name="FONT_SIZE" value="14" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="COLOR_BLINDNESS" value="deuteranopia" />
-    <option name="MAX_CLIPBOARD_CONTENTS" value="1111" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="MAX_LOOKUP_WIDTH2" value="586" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="1111" />
+    <option name="MAX_LOOKUP_WIDTH2" value="586" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RECENT_FILES_LIMIT" value="1111" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
