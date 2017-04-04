@@ -67,6 +67,7 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1491329277583" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/pipes/hasPropertySet.ts" timestamp="1487760912992">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="4" />
@@ -481,6 +482,11 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1491329216279">
+        <mark key="[" line="89" column="7" />
+        <mark key="]" line="89" column="7" />
+        <mark key="." line="89" column="7" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="6" />
@@ -893,8 +899,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,
-                private changeDetectorRef: ChangeDetectorRef</text>
+        <text encoding="base64">Cjxhc2lkZSBjbGFzcz0iYXNpZGUtbWVudSI+CiAgICA8dGFic2V0PgogICAgICAgIDx0YWI+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc3BlZWNoIj48L2k+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc2V0dGluZ3MiPjwvaT4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L3RhYj4KICAgIDwvdGFic2V0Pgo8L2FzaWRlPg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -906,29 +911,29 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e3Jvdy5uYW1lfX0K</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">Cjxhc2lkZSBjbGFzcz0iYXNpZGUtbWVudSI+CiAgICA8dGFic2V0PgogICAgICAgIDx0YWI+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc3BlZWNoIj48L2k+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc2V0dGluZ3MiPjwvaT4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L3RhYj4KICAgIDwvdGFic2V0Pgo8L2FzaWRlPg==</text>
+      </register>
+      <register name="2" type="4">
         <text>,
                 private changeDetectorRef: ChangeDetectorRef</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">cHJpdmF0ZSBfZ2V0VGFibGVIZWFkZXJzKGRlcDogYW55KTogQXJyYXk8c3RyaW5nPiB7CiAgICBjb25zdCByZXN1bHQgPSBbXTsKICAgIGNvbnN0IGZpcnN0SXRlbSA9IGRlcCAmJiBkZXAubGVuZ3RoICYmIGRlcFswXTsKICAgIGlmIChmaXJzdEl0ZW0pIHsKICAgICAgZm9yIChjb25zdCBwcm9wIGluIGZpcnN0SXRlbSkgewogICAgICAgIGlmIChmaXJzdEl0ZW0uaGFzT3duUHJvcGVydHkocHJvcCkpIHsKICAgICAgICAgcmVzdWx0LnB1c2godGhpcy5wcm9wZXJ0eU5hbWVNYXBbcHJvcF0pOwogICAgICAgIH0KICAgICAgfQogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZUhlYWRlcnMgPSB0aGlzLl9nZXRUYWJsZUhlYWRlcnMocmVzdWx0WzFdKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgdGhpcy50YWJsZUhlYWRlcnMgPSB0aGlzLl9nZXRUYWJsZUhlYWRlcnMocmVzdWx0WzFdKTsK</text>
