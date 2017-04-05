@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
@@ -20,6 +23,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -48,6 +54,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="FindNext" />
   <action id="Forward">
     <mouse-shortcut keystroke="shift button143" />
@@ -93,6 +102,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="Print" />
+  <action id="Replace" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl #10000d6" />
   </action>

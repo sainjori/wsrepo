@@ -26,11 +26,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1491326762019">
-        <mark key="[" line="47" column="78" />
-        <mark key="]" line="47" column="78" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1491384148414">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="124" />
         <mark key="^" line="47" column="78" />
-        <mark key="." line="47" column="78" />
+        <mark key="." line="47" column="30" />
       </file>
       <file name="/a.dummy" timestamp="1489398890499">
         <mark key="[" line="0" column="0" />
@@ -67,7 +67,6 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.html" timestamp="1491329277583" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/pipes/hasPropertySet.ts" timestamp="1487760912992">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="4" />
@@ -80,6 +79,7 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/tslint/lib/rules/typedefRule.js" timestamp="1491383997765" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/pipes/orderByPipe.ts" timestamp="1486131841659">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="36" />
@@ -517,9 +517,9 @@
         <mark key="^" line="5" column="59" />
         <mark key="." line="5" column="59" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1491326729221">
-        <mark key="[" line="81" column="82" />
-        <mark key="]" line="81" column="82" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1491383632794">
+        <mark key="[" line="81" column="34" />
+        <mark key="]" line="81" column="127" />
         <mark key="^" line="81" column="82" />
         <mark key="." line="81" column="82" />
       </file>
@@ -689,7 +689,10 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491328082495">
+      <file name="/__dummy.ts" timestamp="1491384074098">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491384139927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -899,16 +902,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cjxhc2lkZSBjbGFzcz0iYXNpZGUtbWVudSI+CiAgICA8dGFic2V0PgogICAgICAgIDx0YWI+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc3BlZWNoIj48L2k+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc2V0dGluZ3MiPjwvaT4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L3RhYj4KICAgIDwvdGFic2V0Pgo8L2FzaWRlPg==</text>
+        <text>Cannot download logfile because it hasn\'t been uploaded yet</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Cannot download logfile because it hasn\'t been uploaded yet</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e3Jvdy5uYW1lfX0K</text>
+      <register name="0" type="4">
+        <text>The logfile can\'t be downloaded because it hasn\'t been uploaded yet or because it is expired</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Cjxhc2lkZSBjbGFzcz0iYXNpZGUtbWVudSI+CiAgICA8dGFic2V0PgogICAgICAgIDx0YWI+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc3BlZWNoIj48L2k+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc2V0dGluZ3MiPjwvaT4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L3RhYj4KICAgIDwvdGFic2V0Pgo8L2FzaWRlPg==</text>
