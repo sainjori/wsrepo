@@ -66,11 +66,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/file-chooser-dialog/file-chooser-dialog.component.html" timestamp="1491579702416" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/simple-input-dialog/simple-input-dialog-data.ts" timestamp="1491570407043" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1491579482859">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1491582685437">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="92" column="7" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1491329216279">
         <mark key="[" line="89" column="7" />
@@ -83,6 +84,13 @@
         <mark key="." line="101" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-dropdown/filter-dropdown.component.ts" timestamp="1491567783611" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" timestamp="1489408405173">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1491328075108">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="26" />
@@ -128,6 +136,13 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1489071061947">
+        <mark key="'" line="140" column="35" />
+        <mark key="[" line="155" column="46" />
+        <mark key="]" line="155" column="46" />
+        <mark key="." line="155" column="46" />
+        <mark key="^" line="155" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1489398679566">
         <mark key="[" line="48" column="39" />
@@ -238,11 +253,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
@@ -251,32 +266,31 @@
         <text encoding="base64">aW1wb3J0IHsgU2ltcGxlSW5wdXREaWFsb2dDb21wb25lbnQgfSBmcm9tICcuL3NpbXBsZS1pbnB1dC1kaWFsb2cvc2ltcGxlLWlucHV0LWRpYWxvZy5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2ICpuZ0lmPSdzaG93bic+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2ICpuZ0lmPSJkYXRhIiBjbGFzcz0ibW9kYWwtZGlhbG9nIG1vZGFsLW1kIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">c2hvd0lucHV0RGlhbG9nKGRhdGE6IElucHV0RGlhbG9nRGF0YSk6IFByb21pc2U8RGlhbG9nUmVzdWx0PGFueT4+IHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHRoaXMuc2ltcGxlSW5wdXREaWFsb2cuZGF0YSA9IGRhdGE7CiAgICAgICAgcmV0dXJuIHRoaXMuX3Nob3dEaWFsb2codGhpcy5zaW1wbGVJbnB1dERpYWxvZyk7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2ICpuZ0lmPSdzaG93bic+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICA8ZGl2ICpuZ0lmPSJkYXRhIiBjbGFzcz0ibW9kYWwtZGlhbG9nIG1vZGFsLW1kIj4K</text>
       </register>
-      <register name="9" type="4">
-        <text>ngOnInit() {
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
