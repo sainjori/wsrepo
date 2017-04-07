@@ -79,7 +79,6 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/tslint/lib/rules/typedefRule.js" timestamp="1491383997765" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/pipes/orderByPipe.ts" timestamp="1486131841659">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="36" />
@@ -116,6 +115,7 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-dropdown/filter-dropdown.component.html" timestamp="1491567685718" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="11" />
@@ -281,6 +281,7 @@
         <mark key="." line="55" column="37" />
         <mark key="^" line="55" column="37" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ng2-bootstrap/modal/modal.component.d.ts" timestamp="1491567943548" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/event-logs/event-logs.module.ts" timestamp="1486051905167">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -464,6 +465,13 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" timestamp="1491569025557">
+        <mark key="'" line="94" column="21" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="141" column="69" />
+        <mark key="." line="142" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/event-logs-table/event-logs-table.component.ts" timestamp="1489077819865">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="15" />
@@ -576,6 +584,7 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-dropdown/filter-dropdown.component.ts" timestamp="1491567783611" />
       <file name="$USER_HOME$/sandbox/ehLeanTS/src/main.ts" timestamp="1482239859635">
         <mark key="[" line="9" column="52" />
         <mark key="]" line="9" column="52" />
@@ -612,12 +621,6 @@
         <mark key="]" line="12" column="25" />
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1489398729067">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1491328075108">
         <mark key="[" line="1" column="26" />
@@ -692,7 +695,7 @@
       <file name="/__dummy.ts" timestamp="1491384074098">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491384139927">
+      <file name="/Dummy.txt" timestamp="1491568143842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -714,6 +717,7 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/@angular/core/src/linker/element_ref.d.ts" timestamp="1491568751323" />
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/loggedIn.guard.ts" timestamp="1485864012337">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="25" />
@@ -754,6 +758,12 @@
         <mark key="]" line="25" column="71" />
         <mark key="." line="25" column="71" />
         <mark key="^" line="25" column="71" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.html" timestamp="1491568074391">
+        <mark key="[" line="127" column="24" />
+        <mark key="]" line="127" column="41" />
+        <mark key="." line="127" column="41" />
+        <mark key="^" line="127" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/common-components.module.ts" timestamp="1487099197633">
         <mark key="[" line="40" column="5" />
@@ -799,7 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="264" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="159" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="25" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/filter-dropdown/filter-dropdown.component.html" />
@@ -899,47 +908,49 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" />
       <jump line="54" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.ts" />
       <jump line="51" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" />
+      <jump line="94" column="21" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/dialogs.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Cannot download logfile because it hasn\'t been uploaded yet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Cannot download logfile because it hasn\'t been uploaded yet</text>
+        <text>onHidden</text>
       </register>
       <register name="/" type="4">
         <text>ngon</text>
       </register>
       <register name="0" type="4">
-        <text>The logfile can\'t be downloaded because it hasn\'t been uploaded yet or because it is expired</text>
+        <text>onInputDialogShown</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlucHV0RGlhbG9nRmllbGQubmF0aXZlRWxlbWVudC5mb2N1cygpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZmRkCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmlucHV0RGlhbG9nRmllbGQubmF0aXZlRWxlbWVudC5zZWxlY3QoKTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>debugger;
+        console.log(&quot;fewf&quot;);</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Cjxhc2lkZSBjbGFzcz0iYXNpZGUtbWVudSI+CiAgICA8dGFic2V0PgogICAgICAgIDx0YWI+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc3BlZWNoIj48L2k+CiAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgPC90YWI+CiAgICAgICAgPHRhYj4KICAgICAgICAgICAgPHRlbXBsYXRlIHRhYkhlYWRpbmc+PGkgY2xhc3M9Imljb24tc2V0dGluZ3MiPjwvaT4KICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L3RhYj4KICAgIDwvdGFic2V0Pgo8L2FzaWRlPg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text>,
                 private changeDetectorRef: ChangeDetectorRef</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpdmF0ZSBfZ2V0VGFibGVIZWFkZXJzKGRlcDogYW55KTogQXJyYXk8c3RyaW5nPiB7CiAgICBjb25zdCByZXN1bHQgPSBbXTsKICAgIGNvbnN0IGZpcnN0SXRlbSA9IGRlcCAmJiBkZXAubGVuZ3RoICYmIGRlcFswXTsKICAgIGlmIChmaXJzdEl0ZW0pIHsKICAgICAgZm9yIChjb25zdCBwcm9wIGluIGZpcnN0SXRlbSkgewogICAgICAgIGlmIChmaXJzdEl0ZW0uaGFzT3duUHJvcGVydHkocHJvcCkpIHsKICAgICAgICAgcmVzdWx0LnB1c2godGhpcy5wcm9wZXJ0eU5hbWVNYXBbcHJvcF0pOwogICAgICAgIH0KICAgICAgfQogICAgfQogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy50YWJsZUhlYWRlcnMgPSB0aGlzLl9nZXRUYWJsZUhlYWRlcnMocmVzdWx0WzFdKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>%d</text>
