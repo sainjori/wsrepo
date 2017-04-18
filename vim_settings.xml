@@ -9,14 +9,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492100753004">
-        <mark key="d" line="92" column="34" />
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="108" column="78" />
-        <mark key="]" line="108" column="78" />
-        <mark key="." line="108" column="78" />
-        <mark key="^" line="108" column="77" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="6" />
@@ -557,7 +549,6 @@
         <mark key="^" line="37" column="15" />
         <mark key="." line="37" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/node_modules/ng2-bootstrap/typeahead/typeahead-container.component.d.ts" timestamp="1492096922062" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/about/monitoring.module.ts" timestamp="1488984758699">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="28" />
@@ -580,15 +571,6 @@
         <mark key="]" line="18" column="11" />
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492101361405">
-        <mark key="'" line="19" column="75" />
-        <mark key="i" line="19" column="33" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="18" column="49" />
-        <mark key="m" line="19" column="33" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="73" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
