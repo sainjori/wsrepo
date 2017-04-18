@@ -9,6 +9,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492508501961" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="6" />
@@ -572,6 +573,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492508811513">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="58" />
+        <mark key="." line="19" column="58" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
         <mark key="]" line="7" column="6" />
@@ -1038,10 +1044,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
