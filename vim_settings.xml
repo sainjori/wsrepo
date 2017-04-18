@@ -479,6 +479,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/assets/css/style.css" timestamp="1492509318222" />
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/.gitignore" timestamp="1485791326394">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="3" column="12" />
@@ -573,10 +574,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492508811513">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492510620791">
         <mark key="[" line="19" column="58" />
         <mark key="]" line="19" column="58" />
         <mark key="." line="19" column="58" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -597,11 +599,11 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.scss" timestamp="1492022414009">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="11" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.scss" timestamp="1492510250926">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1486636197062">
         <mark key="[" line="42" column="41" />
@@ -822,7 +824,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492096787659">
+      <file name="/Dummy.txt" timestamp="1492509909560">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -914,6 +916,11 @@
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="39" />
         <mark key="." line="48" column="39" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/column-select-dialog/column-select-dialog.component.scss" timestamp="1492509957580">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482515546433">
         <mark key="[" line="80" column="16" />
@@ -1053,37 +1060,37 @@
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>customListTemplate</text>
+        <text>typeaheadWrap</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">LnR5cGVhaGVhZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHlwZWFoZWFkLm5hdGl2ZUVsZW1lbnQuZm9jdXMoKTsK</text>
+        <text encoding="base64">LmJsYSB7CiAgICBmb250LXNpemU6IDJlbTsKfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgPHRlbXBsYXRlICNjdXN0b21JdGVtVGVtcGxhdGUgbGV0LW1vZGVsPSJpdGVtIiBsZXQtaW5kZXg9ImluZGV4Ij4KICAgICAgICAgICAgICAgIDxoNT57e21vZGVsLmZpZWxkTmFtZX199mxqa/ZqPC9oNT4KICAgICAgICAgICAgICA8L3RlbXBsYXRlPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">LnRlc3RpbmdiYiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMmVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IG5nQWZ0ZXJWaWV3SW5pdCgpIHsKICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICBpZiAodGhpcy50eXBlYWhlYWQpIHsKICAgICAgICB0aGlzLnR5cGVhaGVhZC5vbkJsdXI9ZnVuY3Rpb24oKXsKICAgICAgICAgIAogICAgICAgIH07CiAgICAgICAgY29uc29sZS5sb2coKTsKICAgICAgICBkZWJ1Z2dlcjsKICAgICAgfQogICAgfSwgMTAwMDApOwoKICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">LnRlc3RpbmdiYnsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRlbXBsYXRlIFtuZ1RlbXBsYXRlT3V0bGV0XT0iaXRlbVRlbXBsYXRlIHx8IGJzSXRlbVRlbXBsYXRlIgogICAgICAgICAgICAgICAgICAgICAgICAgIFtuZ091dGxldENvbnRleHRdPSJ7aXRlbTptYXRjaC5pdGVtLCBpbmRleDppLCBtYXRjaDptYXRjaCwgcXVlcnk6cXVlcnl9IiA+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMmVtOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%d</text>
+        <text>4500</text>
       </register>
     </registers>
     <search>
@@ -1123,6 +1130,8 @@
         <entry>help</entry>
         <entry>%d</entry>
         <entry>set noim</entry>
+        <entry>2302</entry>
+        <entry>4500</entry>
       </history-cmd>
       <history-expr />
       <history-input />
