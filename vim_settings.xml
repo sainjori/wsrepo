@@ -9,12 +9,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492617170160">
-        <mark key="'" line="189" column="0" />
-        <mark key="[" line="149" column="67" />
-        <mark key="]" line="149" column="67" />
-        <mark key="^" line="149" column="67" />
-        <mark key="." line="149" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492623448729">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="82" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
@@ -140,6 +140,7 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.html" timestamp="1492619831525" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="11" />
@@ -406,6 +407,13 @@
         <mark key="^" line="81" column="49" />
         <mark key="." line="81" column="82" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/edit-filter-dialog/edit-filter-dialog.component.html" timestamp="1492621712549">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="83" />
+        <mark key="." line="34" column="83" />
+        <mark key="^" line="34" column="83" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/projects.component.ts" timestamp="1485800697335">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="12" />
@@ -557,11 +565,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492616957388">
-        <mark key="[" line="5" column="79" />
-        <mark key="]" line="5" column="79" />
-        <mark key="." line="5" column="79" />
-        <mark key="^" line="42" column="144" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492623490424">
+        <mark key="[" line="35" column="105" />
+        <mark key="]" line="35" column="114" />
+        <mark key="." line="35" column="114" />
+        <mark key="^" line="35" column="114" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -574,6 +582,11 @@
         <mark key="]" line="105" column="26" />
         <mark key="^" line="105" column="26" />
         <mark key="." line="105" column="26" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.scss" timestamp="1492621642137">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1486636197062">
         <mark key="[" line="42" column="41" />
@@ -775,7 +788,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492602559812">
+      <file name="/Dummy.txt" timestamp="1492621697567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -996,46 +1009,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.value;</text>
+        <text>comparatorValue</text>
       </register>
       <register name="-" type="4">
-        <text>.value;</text>
+        <text>comparatorValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>handleClick</text>
+        <text>isComperadValueValid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkTmFtZXMgPSB0aGlzLmRhdGEuZmllbGROYW1lczsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="3" type="4">
+        <text>checkFormValidity() {
+
+    this.
+    this.isComperadValueValid
+    debugger;
+  }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGlzQ29tcGVyYWRWYWx1ZVZhbGlkOiBhbnk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF0YS5maWVsZC5maWVsZE5hbWUgPSB0aGlzLm15Rm9ybS5jb250cm9sc1snZmllbGRSZWFjdGl2ZSddLnZhbHVlOwogICAgdGhpcy5kYXRhLmNvbXBhcmF0b3IgPSB0aGlzLm15Rm9ybS5jb250cm9sc1snY29tcGFyYXRvciddLnZhbHVlOwogICAgdGhpcy5kYXRhLmNvbXBhcmVkVmFsdWUgPSB0aGlzLm15Rm9ybS5jb250cm9sc1snY29tcGFyYXRvclZhbHVlJ10udmFsdWU7CiAgICB0aGlzLm9rQ2xpY2tlZC5lbWl0KHRoaXMuZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciB0ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0nYnRuIGJ0bi1vdXRsaW5lLXByaW1hcnknIChtb3VzZWVudGVyKT0nY2hlY2tGb3JtVmFsaWRpdHkoKScgW2Rpc2FibGVkXT0nIWFkZEZpbHRlckZvcm0udmFsaWQnIChjbGljayk9ImhhbmRsZUNsaWNrKCkiIHR5cGU9J2J1dHRvbic+Q29uZmlybTwvYnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpc0NvbmZpcm1EaXNhYmxlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LyoqCiAgICogRm9ybWF0IGRhdGEgZm9yIHR5cGVhaGVhZCBhbmQgc29ydCBhbHBoZWJldGljYWxseS4KICAgKi8KICBwdWJsaWMgcHJvY2Vzc0RhdGEoZGF0YSkgewogICAgdGhpcy5kYXRhID0gZGF0YTsKICAgIGNvbnN0IGZpZWxkTmFtZXMgPSB0aGlzLmRhdGEuZmllbGROYW1lczsKICAgIHRoaXMucHJvY2Vzc2VkID0gT2JqZWN0LmtleXMoZmllbGROYW1lcykuZmlsdGVyKGUgPT4gZSAhPT0gJ2Rhc2hib2FyZEZpZWxkcycpLm1hcCgoa2V5KSA9PiB7CiAgICAgIHJldHVybiBmaWVsZE5hbWVzW2tleV0ubWFwKGUgPT4gewogICAgICAgIGVbJ2dyb3VwJ10gPSBrZXk7CiAgICAgICAgcmV0dXJuIGU7CiAgICAgIH0pOwogICAgfSkucmVkdWNlKChhLCBiKSA9PiBhLmNvbmNhdChiKSkKICAgICAgLnNvcnQoKGEsIGIpID0+IGEuZmllbGROYW1lLmxvY2FsZUNvbXBhcmUoYi5maWVsZE5hbWUpKTsKICB9</text>
+        <text>.tooltipWrap{
+    display: inline;
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>4500</text>
