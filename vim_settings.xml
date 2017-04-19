@@ -9,11 +9,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492601549314">
-        <mark key="[" line="156" column="46" />
-        <mark key="]" line="156" column="46" />
-        <mark key="." line="156" column="46" />
-        <mark key="^" line="156" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492604524503">
+        <mark key="'" line="166" column="3" />
+        <mark key="[" line="83" column="72" />
+        <mark key="]" line="91" column="28" />
+        <mark key="." line="91" column="28" />
+        <mark key="^" line="91" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
@@ -581,10 +582,10 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492602313950">
-        <mark key="[" line="30" column="109" />
-        <mark key="]" line="30" column="109" />
-        <mark key="." line="30" column="109" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492603287584">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
         <mark key="^" line="30" column="109" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
@@ -825,7 +826,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492535142385">
+      <file name="/Dummy.txt" timestamp="1492602559812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -955,7 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="32" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="245" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="292" column="46" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1055,13 +1055,14 @@
       <jump line="22" column="75" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" />
       <jump line="84" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" />
       <jump line="89" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" />
+      <jump line="163" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>invalid</text>
+        <text>myCustomValidator</text>
       </register>
       <register name="-" type="4">
-        <text>invalid</text>
+        <text>myCustomValidator</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
@@ -1069,32 +1070,59 @@
       <register name="0" type="4">
         <text>myForm.controls['fieldReactive'].invalid</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICh7CiAgICBmaWVsZFJlYWN0aXZlOiBuZXcgRm9ybUNvbnRyb2woKQogIH0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBteUN1c3RvbVZhbGlkYXRvcihjOiBBYnN0cmFjdENvbnRyb2wsIGNvbnRleHQpOiB7IFtrZXk6IHN0cmluZ106IGJvb2xlYW4gfSB8IG51bGwgewogICAgZGVidWdnZXI7CiAgICBjb25zdCBzb21ldGhpbmdJc3dyb25nID0gZmFsc2U7CiAgICBpZiAoc29tZXRoaW5nSXN3cm9uZykgewoKICAgICAgcmV0dXJuIHsKICAgICAgICAnbXl2YWxpZGF0b3InOiB0cnVlCiAgICAgIH07CiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGdldEN1c3RvbVZhbGlkYXRvcihhZGRGaWx0ZXJEaWFsb2dDb21wb25lbnQ6IEFkZEZpbHRlckRpYWxvZ0NvbXBvbmVudCkgewogICAgCiAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>function myCustomValidator(c: AbstractControl): { [key: string]: boolean } | null {
+  debugger;
+  const somethingIswrong = false;
+  if (somethingIswrong) {
+
+    return {
+      'myvalidator': true
+    };
+  }
+  return null;
+}</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0nY29sLW1kLTQnPgogICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9J2Zvcm0tY29udHJvbCcgWyhuZ01vZGVsKV09J2RhdGEuY29tcGFyYXRvcic+CiAgICAgICAgICAgICAgICA8b3B0aW9uIFt2YWx1ZV09J3VuZGVmaW5lZCcgZGlzYWJsZWQ+Q29tcGFyYXRvcjwvb3B0aW9uPgogICAgICAgICAgICAgICAgPG9wdGlvbiBbdmFsdWVdPSdjb21wYXJhdG9yLnNpZ24nICpuZ0Zvcj0nbGV0IGNvbXBhcmF0b3Igb2YgY29tcGFyYXRvcnMnPnt7Y29tcGFyYXRvci5uYW1lIHx8IGNvbXBhcmF0b3Iuc2lnbn19PC9vcHRpb24+CiAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSdjb2wtbWQtNCc+CiAgICAgICAgICAgICAgPGlucHV0IHR5cGU9J3RleHQnIHBsYWNlaG9sZGVyPSdDb21wYXJlZCBWYWx1ZScgY2xhc3M9J2Zvcm0tY29udHJvbCcgKGtleXVwLmVudGVyKT0nb2tDbGlja2VkLmVtaXQoZGF0YSknIFsobmdNb2RlbCldPSdkYXRhLmNvbXBhcmVkVmFsdWUnPgogICAgICAgICAgICA8L2Rpdj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0nY29sLW1kLTQnPgogICAgICAgICAgICAgIDwhLS0gQm9vdHN0cmFwIDMgb3B0aW9ucyBsaXN0IHRlbXBsYXRlIC0tPgogICAgICAgICAgICAgIDx0ZW1wbGF0ZSAjYnMzVGVtcGxhdGUgIGxldC1tYXRjaGVzPSdtYXRjaGVzJyBsZXQtaXRlbVRlbXBsYXRlPSdpdGVtVGVtcGxhdGUnIGxldC1xdWVyeT0ncXVlcnknPgogICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgICAgICAgPHRlbXBsYXRlIG5nRm9yIGxldC1tYXRjaCBsZXQtaT0iaW5kZXgiIFtuZ0Zvck9mXT0ibWF0Y2hlcyIgPgogICAgICAgICAgICAgICAgICAgIDwhLS17e21hdGNoIHwganNvbn19LS0+CiAgICAgICAgICAgICAgICAgICAgPGxpICpuZ0lmPSJtYXRjaC5oZWFkZXIiIGNsYXNzPSJkcm9wZG93bi1oZWFkZXIiPnt7Zm9ybWF0SGVhZGVyKG1hdGNoLnZhbHVlKX19PC9saT4KICAgICAgICAgICAgICAgICAgICA8bGkgKm5nSWY9IiFtYXRjaC5oZWFkZXIiIFtjbGFzcy5hY3RpdmVdPSJpc0FjdGl2ZShtYXRjaCkiIChtb3VzZWVudGVyKT0ic2VsZWN0QWN0aXZlKG1hdGNoKSI+CiAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiAoY2xpY2spPSJzZWxlY3RNYXRjaChtYXRjaCwgJGV2ZW50KSIgdGFiaW5kZXg9Ii0xIj4KICAgICAgICAgICAgICAgICAgICAgICAge3ttYXRjaC52YWx1ZX19CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZW1wbGF0ZSBbbmdUZW1wbGF0ZU91dGxldF09Iml0ZW1UZW1wbGF0ZSB8fCBic0l0ZW1UZW1wbGF0ZSIgW25nT3V0bGV0Q29udGV4dF09IntpdGVtOm1hdGNoLml0ZW0sIGluZGV4OmksIG1hdGNoOm1hdGNoLCBxdWVyeTpxdWVyeX0iPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RlbXBsYXRlPgogICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgI3R5cGVhaGVhZElucHV0IFtmb3JtQ29udHJvbF09ImZpZWxkUmVhY3RpdmUiIHR5cGU9J3RleHQnIHBsYWNlaG9sZGVyPSdTZWxlY3QgZmllbGQnIFtvcHRpb25zTGlzdFRlbXBsYXRlXT0nYnMzVGVtcGxhdGUnIGNsYXNzPSdmb3JtLWNvbnRyb2wnICAgdHlwZWFoZWFkT3B0aW9uRmllbGQ9J2ZpZWxkTmFtZScgW3R5cGVhaGVhZE1pbkxlbmd0aF09IjAiIHR5cGVhaGVhZEdyb3VwRmllbGQ9Imdyb3VwIiBbdHlwZWFoZWFkXT0ncHJvY2Vzc2VkJz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8IS0tPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIFsobmdNb2RlbCldPSJkYXRhLmZpZWxkIj4tLT4KICAgICAgICAgICAgPC9kaXY+</text>
+        <text>createForm() {
+    this.myForm = this.fb.group({
+      fieldReactive: ['', Validators.required, myCustomValidator],
+      comparator: ['', Validators.required],
+      comparatorValue: ['', Validators.required]
+    });
+  }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>myCustomValidator(c: AbstractControl): { [key: string]: boolean } | null {
+    if (somethingIswrong) {
+
+      return {
+        'myvalidator': true
+      }
+      return null;
+    }
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gW3ZhbHVlXT0ndW5kZWZpbmVkJyBkaXNhYmxlZD5Db21wYXJhdG9yPC9vcHRpb24+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICh7CiAgICBmaWVsZFJlYWN0aXZlOiBuZXcgRm9ybUNvbnRyb2woKQogIH0pOw==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgI3R5cGVhaGVhZElucHV0IFtmb3JtQ29udHJvbF09ImZpZWxkUmVhY3RpdmUiIHR5cGU9J3RleHQnIHBsYWNlaG9sZGVyPSdTZWxlY3QgZmllbGQnIFtvcHRpb25zTGlzdFRlbXBsYXRlXT0nYnMzVGVtcGxhdGUnIGNsYXNzPSdmb3JtLWNvbnRyb2wnICAgdHlwZWFoZWFkT3B0aW9uRmllbGQ9J2ZpZWxkTmFtZScgW3R5cGVhaGVhZE1pbkxlbmd0aF09IjAiIHR5cGVhaGVhZEdyb3VwRmllbGQ9Imdyb3VwIiBbdHlwZWFoZWFkXT0ncHJvY2Vzc2VkJz4KICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>4500</text>
