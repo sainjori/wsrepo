@@ -9,12 +9,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492604524503">
-        <mark key="'" line="166" column="3" />
-        <mark key="[" line="83" column="72" />
-        <mark key="]" line="91" column="28" />
-        <mark key="." line="91" column="28" />
-        <mark key="^" line="91" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492607080969">
+        <mark key="'" line="165" column="3" />
+        <mark key="[" line="87" column="31" />
+        <mark key="]" line="87" column="29" />
+        <mark key="." line="87" column="29" />
+        <mark key="^" line="87" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
@@ -582,11 +582,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492603287584">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="30" column="109" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492607285563">
+        <mark key="[" line="48" column="62" />
+        <mark key="]" line="48" column="62" />
+        <mark key="." line="48" column="62" />
+        <mark key="^" line="48" column="62" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -1059,10 +1059,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>myCustomValidator</text>
+        <text>invalid</text>
       </register>
       <register name="-" type="4">
-        <text>myCustomValidator</text>
+        <text>invalid</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
@@ -1071,58 +1071,34 @@
         <text>myForm.controls['fieldReactive'].invalid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBteUN1c3RvbVZhbGlkYXRvcihjOiBBYnN0cmFjdENvbnRyb2wsIGNvbnRleHQpOiB7IFtrZXk6IHN0cmluZ106IGJvb2xlYW4gfSB8IG51bGwgewogICAgZGVidWdnZXI7CiAgICBjb25zdCBzb21ldGhpbmdJc3dyb25nID0gZmFsc2U7CiAgICBpZiAoc29tZXRoaW5nSXN3cm9uZykgewoKICAgICAgcmV0dXJuIHsKICAgICAgICAnbXl2YWxpZGF0b3InOiB0cnVlCiAgICAgIH07CiAgICB9CiAgICByZXR1cm4gbnVsbDsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGdldEN1c3RvbVZhbGlkYXRvcihhZGRGaWx0ZXJEaWFsb2dDb21wb25lbnQ6IEFkZEZpbHRlckRpYWxvZ0NvbXBvbmVudCkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGZpZWxkTmFtZXMuaW5kZXhPZih0aGlzLmRhdGEuZmllbGQuZmllbGROYW1lKSA+IDApIHsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KICAgIH0KICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>function myCustomValidator(c: AbstractControl): { [key: string]: boolean } | null {
-  debugger;
-  const somethingIswrong = false;
-  if (somethingIswrong) {
-
-    return {
-      'myvalidator': true
-    };
-  }
-  return null;
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc29tZXRoaW5nSXN3cm9uZyA9IGZhbHNlOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>createForm() {
-    this.myForm = this.fb.group({
-      fieldReactive: ['', Validators.required, myCustomValidator],
-      comparator: ['', Validators.required],
-      comparatorValue: ['', Validators.required]
-    });
-  }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgY29tcCA9IGFkZEZpbHRlckRpYWxvZ0NvbXBvbmVudAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>myCustomValidator(c: AbstractControl): { [key: string]: boolean } | null {
-    if (somethingIswrong) {
-
-      return {
-        'myvalidator': true
-      }
-      return null;
-    }
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gW3ZhbHVlXT0ndW5kZWZpbmVkJyBkaXNhYmxlZD5Db21wYXJhdG9yPC9vcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICh7CiAgICBmaWVsZFJlYWN0aXZlOiBuZXcgRm9ybUNvbnRyb2woKQogIH0pOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciB0ZWdnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0ZXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>4500</text>
