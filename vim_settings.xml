@@ -9,12 +9,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="4" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492680338242">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.ts" timestamp="1492683827809">
         <mark key="'" line="188" column="0" />
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+        <mark key="[" line="118" column="6" />
+        <mark key="]" line="118" column="11" />
+        <mark key="." line="118" column="11" />
+        <mark key="^" line="118" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/tslint.json" timestamp="1482406085383">
         <mark key="[" line="19" column="6" />
@@ -565,11 +565,11 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492680346127">
-        <mark key="[" line="35" column="105" />
-        <mark key="]" line="35" column="114" />
-        <mark key="." line="35" column="114" />
-        <mark key="^" line="35" column="114" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.html" timestamp="1492682428259">
+        <mark key="[" line="30" column="195" />
+        <mark key="]" line="30" column="195" />
+        <mark key="^" line="29" column="24" />
+        <mark key="." line="30" column="195" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/auth/auth-routing.module.ts" timestamp="1485187018898">
         <mark key="[" line="7" column="43" />
@@ -583,10 +583,11 @@
         <mark key="^" line="105" column="26" />
         <mark key="." line="105" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.scss" timestamp="1492621642137">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/add-filter-dialog/add-filter-dialog.component.scss" timestamp="1492683630137">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/common-components/event-log-details/event-log-details.component.ts" timestamp="1486636197062">
         <mark key="[" line="42" column="41" />
@@ -1009,10 +1010,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comparatorValue</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>comparatorValue</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdFNlbGVjdFw+</text>
