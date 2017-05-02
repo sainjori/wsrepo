@@ -139,11 +139,11 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493721421407">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493724242042">
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+        <mark key="." line="35" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/timeinterval-select/timeinterval-select.component.ts" timestamp="1493389506345" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
@@ -795,7 +795,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493719734363">
+      <file name="/Dummy.txt" timestamp="1493721619481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1029,10 +1029,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>undefined</text>
+        <text>delete dashboard.linkedObjectType</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>delete dashboard.linkedObjectType</text>
       </register>
       <register name="/" type="4">
         <text>autocompleteResolver</text>
