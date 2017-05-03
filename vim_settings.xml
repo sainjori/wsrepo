@@ -59,12 +59,12 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1493803216704">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1493811595579">
         <mark key="'" line="107" column="74" />
-        <mark key="[" line="110" column="45" />
-        <mark key="]" line="110" column="44" />
-        <mark key="." line="110" column="44" />
-        <mark key="^" line="110" column="44" />
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
+        <mark key="^" line="98" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" timestamp="1493744571156">
         <mark key="[" line="37" column="0" />
@@ -153,12 +153,15 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
       </file>
+      <file name="/fragment.ts" timestamp="1493810622171">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/column-select-dialog/dynamic-data-table-config.ts" timestamp="1491837141162">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1493806121416" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.ts" timestamp="1493806561877" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/app.module.ts" timestamp="1493806420292">
         <mark key="'" line="4" column="22" />
         <mark key="[" line="92" column="0" />
@@ -198,10 +201,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.html" timestamp="1493743565802">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.html" timestamp="1493809554107">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
         <mark key="^" line="42" column="6" />
       </file>
     </filemarks>
@@ -308,11 +311,11 @@
       <jump line="107" column="74" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRDb21wb25lbnQsCg==</text>
+      <register name="&quot;" type="4">
+        <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>===</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text>autocompleteResolver</text>
@@ -321,34 +324,34 @@
         <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUucGFyZW50LnBhcmVudC5wYXJlbnQuZGF0YVsnbm9QYWRkaW5nJ10gPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXNoYm9hcmRDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICAgIGFjdGlvbkJ1dHRvbkRlZi5hZGRpdGlvbmFsT3B0aW9ucy5pdGVtcyA9IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLgo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImV2ZW50cyIsIGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhc2hib2FyZDogS2liYW5hRGFzaGJvYXJkUG9qb1tdID0gZGFzaGJvYXJkcy5lbGVtZW50czsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOyovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubm9QYWRkaW5nID0gdGhpcy5yb3V0ZXIudXJsLnNlYXJjaCgvZGFzaGJvYXJkLykgPiAtMSA/IHRydWUgOiBmYWxzZTsK</text>
+        <text encoding="base64">LyogIC5zdWJzY3JpYmUocmVzdWx0ID0+IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUuZGF0YS5zdWJzY3JpYmUoZGF0YSA9PiB0aGlzLm5vUGFkZGluZyA9IGRhdGFbJ25vUGFkZGluZyddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUudXJsLnN1YnNjcmliZShlID0+IGNvbnNvbGUubG9nKCJiYWEiLCBlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fc2V0dXBBY3Rpb25CYXIocmVzdWx0LmVsZW1lbnRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYWN0aXZhdGVkUm91dGUuZGF0YS5zdWJzY3JpYmUoZSA9PiBjb25zb2xlLmxvZygiZGF0YSIsIGUpKTsK</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZShyZXN1bHQgPT4gewogICAgICAgIHRoaXMuX3NldHVwQWN0aW9uQmFyKHJlc3VsdC5lbGVtZW50cyk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ0aGlzcm91dGVyLnVybCIsIHRoaXMucm91dGVyLnVybClkZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
