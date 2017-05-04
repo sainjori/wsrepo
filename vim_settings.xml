@@ -74,11 +74,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493730895670">
-        <mark key="[" line="34" column="38" />
-        <mark key="]" line="34" column="38" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493898544231">
+        <mark key="'" line="37" column="38" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="40" column="71" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
         <mark key="[" line="7" column="7" />
@@ -1030,7 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="18" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="76" column="26" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="258" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="445" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1130,71 +1130,64 @@
       <jump line="38" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="107" column="74" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" />
       <jump line="43" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" />
+      <jump line="38" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNMSUVOVCI+Q2xpZW50PC9vcHRpb24+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this._showDashboard(null)</text>
+        <text>SAP Content Server</text>
       </register>
       <register name="/" type="4">
-        <text>autocompleteResolver</text>
+        <text>DSC_PROF</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImVlZWUiLCBlLnVybCk7Cg==</text>
+      <register name="0" type="4">
+        <text>DSC_BATCH_ENGINE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNMSUVOVCI+Q2xpZW50PC9vcHRpb24+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERTQ19CQVRDSF9FTkdJTkUgPSAiRFNDX0JBVENIX0VOR0lORSI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>onChange(event: string) {
-    if (event === 'undefined') {
-      this.dashboard.linkedObjectType = Infinity;
-    } else {
-      this.dashboard.linkedObjectType = event;
-    }
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENPTlRFTlRfU0VSVkVSX1RZUEUgPSAiU0FQX0NPTlRFTlQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlNFUlZFUiI+U2VydmVyPC9vcHRpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IlNFUlZFUiI+U2VydmVyPC9vcHRpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERTQ19QUk9DQUNIRSA9ICJEU0NfUFJPQ0FDSEUiOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>_showDashboard(dashboard) {
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERTQ19QUk9GSUxFID0gIkRTQ19QUk9GSUxFIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnZGFzaGJvYXJkLycgKyBkYXNoYm9hcmQuZGlzcGxheWVkTmFtZV0sIHsgcmVsYXRpdmVUbzogdGhpcy5hY3RpdmF0ZWRSb3V0ZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIENBQ0hFX1NFUlZFUl9UWVBFID0gIlNBUF9DQUNIRSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
       </register>
     </registers>
     <search>
-      <last-search>autocompleteResolver</last-search>
+      <last-search>DSC_PROF</last-search>
       <last-offset />
-      <last-pattern>autocompleteResolver</last-pattern>
+      <last-pattern>DSC_PROF</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
         <entry>column</entry>
         <entry>provi</entry>
         <entry>required</entry>
@@ -1214,6 +1207,7 @@
         <entry>app-timeinterval-select</entry>
         <entry>button</entry>
         <entry>autocompleteResolver</entry>
+        <entry>DSC_PROF</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
