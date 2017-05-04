@@ -777,11 +777,11 @@
         <mark key="^" line="9" column="86" />
         <mark key="." line="9" column="79" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.ts" timestamp="1493729373640">
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="67" />
-        <mark key="." line="51" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.ts" timestamp="1493888317510">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
         <mark key="^" line="51" column="67" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.module.ts" timestamp="1485190400132">
         <mark key="[" line="19" column="42" />
@@ -1149,27 +1149,33 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="3" type="4">
+        <text>onChange(event: string) {
+    if (event === 'undefined') {
+      this.dashboard.linkedObjectType = Infinity;
+    } else {
+      this.dashboard.linkedObjectType = event;
+    }
+  }</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>_showDashboard(dashboard) {
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFsnZGFzaGJvYXJkLycgKyBkYXNoYm9hcmQuZGlzcGxheWVkTmFtZV0sIHsgcmVsYXRpdmVUbzogdGhpcy5hY3RpdmF0ZWRSb3V0ZSB9KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcml2YXRlIGtpYmFuYURhc2hib2FyZEVuZHBvaW50QXBpOiBLaWJhbmFEYXNoYm9hcmRFbmRwb2ludEFwaSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
