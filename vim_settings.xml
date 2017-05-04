@@ -74,13 +74,6 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493900968176">
-        <mark key="'" line="38" column="38" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="11" />
@@ -158,12 +151,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1493899405041">
-        <mark key="'" line="107" column="74" />
-        <mark key="[" line="51" column="61" />
-        <mark key="]" line="51" column="61" />
-        <mark key="." line="51" column="61" />
-        <mark key="^" line="40" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1493902929275">
+        <mark key="'" line="115" column="74" />
+        <mark key="[" line="53" column="66" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="59" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1487087360282">
         <mark key="[" line="103" column="73" />
@@ -447,7 +440,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/fragment.ts" timestamp="1493810622171">
+      <file name="/fragment.ts" timestamp="1493902309719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
@@ -747,12 +740,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1493901307170">
-        <mark key="[" line="70" column="32" />
-        <mark key="]" line="70" column="32" />
-        <mark key="." line="70" column="32" />
-        <mark key="^" line="70" column="32" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1493901307170" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/edit-filter-dialog/edit-filter-dialog.component.html" timestamp="1492621712549">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="34" column="61" />
@@ -781,7 +769,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.ts" timestamp="1493888317510">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
-        <mark key="^" line="51" column="67" />
+        <mark key="^" line="20" column="67" />
         <mark key="." line="60" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/client-overview/client-overview.module.ts" timestamp="1485190400132">
@@ -1133,47 +1121,47 @@
       <jump line="38" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getResourceTypes</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getResourceTypes</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IkNMSUVOVCI+Q2xpZW50PC9vcHRpb24+Cg==</text>
+      <register name="0" type="4">
+        <text>Object.keys(this.serverAppReadableNameMap).push('fef')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hY3Rpb25UYWJTZXJ2aWNlLmFkZEFjdGlvbkJ1dHRvbih0aGlzLmdldExpbmtlZERhc2hib2FyZERyb3Bkb3duKHJlc3VsdC5lbGVtZW50cykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgc3ViRmlsdGVyLnN1YmV4cHJzLnB1c2goY29uZGl0aW9uYWxGaWx0ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hY3Rpb25UYWJTZXJ2aWNlLmFkZEFjdGlvbkJ1dHRvbih0aGlzLmdldExpbmtlZERhc2hib2FyZERyb3Bkb3duKHJlc3VsdC5lbGVtZW50cykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgc3ViRmlsdGVyLnN1YmV4cHJzLnB1c2goY29uZGl0aW9uYWxGaWx0ZXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgcmVzb3VyY2VzLm1hcChlID0+IHsKICAgIHJldHVybiB7CiAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgIGZpZWxkOiAnbGlua2VkX29iamVjdF90eXBlJywKICAgICAgb3BlcmFuZDogJz0nLAogICAgICB2YWx1ZTogZQogICAgfTsKICAgfSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBmaWx0ZXI6IENvbmRpdGlvbkZpbHRlciA9IHsKICAgIH07Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgcmVzb3VyY2VzLm1hcChlID0+IHsKICAgIHJldHVybiB7CiAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgIGZpZWxkOiAnbGlua2VkX29iamVjdF90eXBlJywKICAgICAgb3BlcmFuZDogJz0nLAogICAgICB2YWx1ZTogZQogICAgfTsKICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxldCBmaWx0ZXI6IENvbmRpdGlvbkZpbHRlciA9IHsKICAgIH07Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdsaW5rZWRfb2JqZWN0X3R5cGUnLAogICAgICBvcGVyYW5kOiAnPScsCiAgICAgIHZhbHVlOiByZXNvdXJjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iU0FQX0NBQ0hFIj5DYWNoZSBTZXJ2ZXI8L29wdGlvbj4KPG9wdGlvbiB2YWx1ZT0iRFNDX1BST0ZJTEUiPkRTQyBQcm9maWxlIFNlcnZlcjwvb3B0aW9uPgo8b3B0aW9uIHZhbHVlPSJEU0NfUFJPQ0FDSEUiPkRTQyBQcm9jYWNoZSBTZXJ2ZXI8L29wdGlvbj4KPG9wdGlvbiB2YWx1ZT0iU0FQX0NPTlRFTlQiPlNBUCBDb250ZW50IFNlcnZlcjwvb3B0aW9uPgo8b3B0aW9uIHZhbHVlPSJEU0NfQkFUQ0hfRU5HSU5FIj5EU0MgQmF0Y2ggRW5naW5lIFNlcnZlcjwvb3B0aW9uPgogIHByaXZhdGUgcmVzb3VyY2UgPSAnU0VSVkVSJzsK</text>
+        <text encoding="base64">ICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdsaW5rZWRfb2JqZWN0X3R5cGUnLAogICAgICBvcGVyYW5kOiAnPScsCiAgICAgIHZhbHVlOiByZXNvdXJjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
