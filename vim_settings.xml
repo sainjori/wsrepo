@@ -463,7 +463,7 @@
         <mark key="^" line="126" column="7" />
         <mark key="." line="126" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493819875983">
+      <file name="/Dummy.txt" timestamp="1493905834247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -891,10 +891,10 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493904605215">
-        <mark key="[" line="177" column="52" />
-        <mark key="]" line="375" column="0" />
-        <mark key="." line="375" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493905997874">
+        <mark key="[" line="369" column="26" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/status-pill/status-pill.component.ts" timestamp="1493386349143" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1493392437204">
@@ -1121,8 +1121,8 @@
       <jump line="38" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getResourceTypes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getResourceTypes</text>
@@ -1134,34 +1134,34 @@
         <text>Object.keys(this.serverAppReadableNameMap).push('fef')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hY3Rpb25UYWJTZXJ2aWNlLmFkZEFjdGlvbkJ1dHRvbih0aGlzLmdldExpbmtlZERhc2hib2FyZERyb3Bkb3duKHJlc3VsdC5lbGVtZW50cykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgc3ViRmlsdGVyLnN1YmV4cHJzLnB1c2goY29uZGl0aW9uYWxGaWx0ZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hY3Rpb25UYWJTZXJ2aWNlLmFkZEFjdGlvbkJ1dHRvbih0aGlzLmdldExpbmtlZERhc2hib2FyZERyb3Bkb3duKHJlc3VsdC5lbGVtZW50cykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgc3ViRmlsdGVyLnN1YmV4cHJzLnB1c2goY29uZGl0aW9uYWxGaWx0ZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgcmVzb3VyY2VzLm1hcChlID0+IHsKICAgIHJldHVybiB7CiAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgIGZpZWxkOiAnbGlua2VkX29iamVjdF90eXBlJywKICAgICAgb3BlcmFuZDogJz0nLAogICAgICB2YWx1ZTogZQogICAgfTsKICAgfSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBmaWx0ZXI6IENvbmRpdGlvbkZpbHRlciA9IHsKICAgIH07Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgcmVzb3VyY2VzLm1hcChlID0+IHsKICAgIHJldHVybiB7CiAgICAgIF90eXBlOiAnQ09ORCcsCiAgICAgIGZpZWxkOiAnbGlua2VkX29iamVjdF90eXBlJywKICAgICAgb3BlcmFuZDogJz0nLAogICAgICB2YWx1ZTogZQogICAgfTsKICAgfSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCBmaWx0ZXI6IENvbmRpdGlvbkZpbHRlciA9IHsKICAgIH07Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgX3R5cGU6ICdDT05EJywKICAgICAgZmllbGQ6ICdsaW5rZWRfb2JqZWN0X3R5cGUnLAogICAgICBvcGVyYW5kOiAnPScsCiAgICAgIHZhbHVlOiByZXNvdXJjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
