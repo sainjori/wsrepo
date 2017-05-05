@@ -74,6 +74,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/maintain-dashboard/maintain-dashboard.component.html" timestamp="1493993613986">
+        <mark key="[" line="34" column="40" />
+        <mark key="]" line="34" column="57" />
+        <mark key="." line="34" column="57" />
+        <mark key="^" line="34" column="57" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/about/about.component.scss" timestamp="1489150547452">
         <mark key="[" line="7" column="7" />
         <mark key="]" line="7" column="11" />
@@ -1130,11 +1136,11 @@
       <jump line="212" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Default</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Default</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
