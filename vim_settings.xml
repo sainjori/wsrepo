@@ -663,11 +663,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1493995366314">
-        <mark key="[" line="82" column="27" />
-        <mark key="]" line="82" column="41" />
-        <mark key="^" line="82" column="41" />
-        <mark key="." line="82" column="41" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1493996087630">
+        <mark key="[" line="85" column="30" />
+        <mark key="]" line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" timestamp="1493985136220">
         <mark key="'" line="124" column="2" />
@@ -905,11 +905,11 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493995339195">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493996040923">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="470" column="40" />
-        <mark key="]" line="470" column="55" />
-        <mark key="." line="470" column="55" />
+        <mark key="]" line="470" column="79" />
+        <mark key="." line="470" column="40" />
         <mark key="^" line="470" column="55" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/status-pill/status-pill.component.ts" timestamp="1493386349143" />
@@ -1142,16 +1142,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Default</text>
+        <text>routeParameter</text>
       </register>
       <register name="-" type="4">
-        <text>Default</text>
+        <text>routeParameter</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
       </register>
       <register name="0" type="4">
-        <text>routeParam</text>
+        <text>this.linkedResourcesMap[routeParameter]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
