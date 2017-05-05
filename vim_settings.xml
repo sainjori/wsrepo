@@ -440,7 +440,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/fragment.ts" timestamp="1493902309719">
+      <file name="/fragment.ts" timestamp="1493980901486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
@@ -893,12 +893,12 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493978271477">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493981448350">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="464" column="65" />
-        <mark key="]" line="464" column="65" />
-        <mark key="." line="464" column="65" />
-        <mark key="^" line="464" column="66" />
+        <mark key="[" line="205" column="47" />
+        <mark key="]" line="205" column="46" />
+        <mark key="." line="205" column="46" />
+        <mark key="^" line="205" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/status-pill/status-pill.component.ts" timestamp="1493386349143" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1493392437204">
@@ -1130,10 +1130,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
