@@ -893,12 +893,12 @@
         <mark key="." line="22" column="85" />
         <mark key="^" line="22" column="60" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493981448350">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493984355175">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="205" column="47" />
-        <mark key="]" line="205" column="46" />
-        <mark key="." line="205" column="46" />
-        <mark key="^" line="205" column="46" />
+        <mark key="[" line="469" column="92" />
+        <mark key="]" line="469" column="118" />
+        <mark key="." line="469" column="118" />
+        <mark key="^" line="469" column="118" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/status-pill/status-pill.component.ts" timestamp="1493386349143" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/layouts/action-bar.component.ts" timestamp="1493392437204">
@@ -1130,52 +1130,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY2xpZW50TmFtZSI6ICJjbGllbnQiCg==</text>
+      <register name="0" type="4">
+        <text>routeParam</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>else if (params['clientName']) {
-                          console.log(&quot;aaaaaaaaaa&quot;);
-                            const kibanaURLQuery = this._getParsedIframeURL();
-//                            const queryModifier = new KibanaURLModifier(kibanaURLQuery);
-//                                queryModifier.addTermFilter('stats_ectr*', this.linkedResourceFilterMap['clientName'], params['clientName']);
-//                                this._encodeAndAssignQuery(queryModifier.getQuery());
-                            this._assignDashboardURL(this._getKibanaIframeUrl());</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlbGYgPSB0aGlzOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGxldCBraWJhbmFVUkxRdWVyeSA9IEtpYmFuYVVSTFBhcnNlci5kZWNvZGVRdWVyeUZyb21SaXNvbih0aGlzLl9nZXRLaWJhbmFJZnJhbWVVcmwoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHF1ZXJ5TW9kaWZpZXIuYWRkVGFibGVGaWx0ZXIoJ3N0YXRzX2VjdHIqJywgZGFzaGJvYXJkRmlsdGVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHF1ZXJ5TW9kaWZpZXIgPSBuZXcgS2liYW5hVVJMTW9kaWZpZXIoa2liYW5hVVJMUXVlcnkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5TW9kaWZpZXIuYWRkVGVybUZpbHRlcignc3RhdHNfZWN0cionLCB0aGlzLmxpbmtlZFJlc291cmNlRmlsdGVyTWFwWydjbGllbnROYW1lJ10sIHBhcmFtc1snY2xpZW50TmFtZSddKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLl9lbmNvZGVBbmRBc3NpZ25RdWVyeShxdWVyeU1vZGlmaWVyLmdldFF1ZXJ5KCkpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLl9hc3NpZ25EYXNoYm9hcmRVUkwodGhpcy5fZ2V0S2liYW5hSWZyYW1lVXJsKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoaXMuX2Fzc2lnbkRhc2hib2FyZFVSTCh0aGlzLl9nZXRLaWJhbmFJZnJhbWVVcmwoKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZWxzZSBpZiAocGFyYW1zWydjbGllbnROYW1lJ10pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiYWFhYWFhYWFhYSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qga2liYW5hVVJMUXVlcnkgPSB0aGlzLl9nZXRQYXJzZWRJZnJhbWVVUkwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHF1ZXJ5TW9kaWZpZXIgPSBuZXcgS2liYW5hVVJMTW9kaWZpZXIoa2liYW5hVVJMUXVlcnkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHF1ZXJ5TW9kaWZpZXIuYWRkVGVybUZpbHRlcignc3RhdHNfZWN0cionLCB0aGlzLmxpbmtlZFJlc291cmNlRmlsdGVyTWFwWydjbGllbnROYW1lJ10sIHBhcmFtc1snY2xpZW50TmFtZSddKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLl9lbmNvZGVBbmRBc3NpZ25RdWVyeShxdWVyeU1vZGlmaWVyLmdldFF1ZXJ5KCkpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLl9hc3NpZ25EYXNoYm9hcmRVUkwodGhpcy5fZ2V0S2liYW5hSWZyYW1lVXJsKCkpOwogICAgICAgICAgICAgICAgICAgICAgICB9IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdGVzdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXN1bHQuZGF0YS5jb21wYXJhdG9yID09PSAnficpIHsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5fdGVzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQga2V5czIgPSBPYmplY3Qua2V5cyhwYXJhbXMpOwogICAgICAgIGxldCBtYXAgPSBrZXlzLm1hcChlID0+IGtleXMyLnNvbWUodiA9PiBlID09PSB2KSk7CiAgICAgICAgcmV0dXJuIHBhcmFtc1snY2xpZW50TmFtZSddOwo=</text>
       </register>
       <register name=":" type="4">
         <text>249</text>
