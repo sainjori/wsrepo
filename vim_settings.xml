@@ -409,6 +409,7 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="/server-detail.component.ts" timestamp="1494238531027" />
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/tst.js" timestamp="1482492753186">
         <mark key="[" line="4" column="10" />
         <mark key="]" line="7" column="0" />
@@ -796,7 +797,7 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1493996040923">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1494239079665">
         <mark key="'" line="212" column="0" />
         <mark key="[" line="470" column="40" />
         <mark key="]" line="470" column="79" />
@@ -1173,7 +1174,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>249</text>
+        <text>55</text>
       </register>
     </registers>
     <search>
@@ -1217,6 +1218,9 @@
         <entry>4500</entry>
         <entry>51</entry>
         <entry>249</entry>
+        <entry>205</entry>
+        <entry>468</entry>
+        <entry>55</entry>
       </history-cmd>
       <history-expr />
       <history-input />
