@@ -283,7 +283,7 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1494344223066">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1494344357115">
         <mark key="[" line="93" column="24" />
         <mark key="]" line="93" column="23" />
         <mark key="^" line="93" column="23" />
@@ -801,12 +801,12 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1494342752299">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1494346819834">
         <mark key="'" line="486" column="4" />
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="67" column="45" />
-        <mark key="." line="67" column="45" />
-        <mark key="^" line="67" column="45" />
+        <mark key="[" line="481" column="20" />
+        <mark key="]" line="481" column="20" />
+        <mark key="." line="481" column="20" />
+        <mark key="^" line="481" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482166062762">
         <mark key="[" line="17" column="60" />
@@ -1143,11 +1143,11 @@
       <jump line="65" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtczogaXRlbXMK</text>
+      <register name="&quot;" type="4">
+        <text>addShouldFilterForHostname</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>addShouldFilterForHostname</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
