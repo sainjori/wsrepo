@@ -44,7 +44,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dashboard.component.ts" timestamp="1494336930112" />
+      <file name="/dashboard.component.ts" timestamp="1494354255191" />
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="12" column="15" />
@@ -283,11 +283,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1494344357115">
-        <mark key="[" line="93" column="24" />
-        <mark key="]" line="93" column="23" />
-        <mark key="^" line="93" column="23" />
-        <mark key="." line="93" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/kibana/KibanaURLModifier.ts" timestamp="1494352291220">
+        <mark key="[" line="111" column="35" />
+        <mark key="]" line="111" column="33" />
+        <mark key="^" line="111" column="33" />
+        <mark key="." line="111" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1494336766167">
         <mark key="'" line="115" column="74" />
@@ -438,22 +438,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview-routing.module.ts" timestamp="1493821456402">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview-routing.module.ts" timestamp="1494353629853">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-dropdown/filter-dropdown.component.html" timestamp="1488453055555">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1494336835808">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="74" column="3" />
-        <mark key="." line="72" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1494353568517">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="72" column="3" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/about-dialog/about.component.ts" timestamp="1488979902768">
         <mark key="[" line="1" column="0" />
@@ -801,12 +801,12 @@
         <mark key="^" line="158" column="86" />
         <mark key="." line="158" column="86" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1494346819834">
-        <mark key="'" line="486" column="4" />
-        <mark key="[" line="481" column="20" />
-        <mark key="]" line="481" column="20" />
-        <mark key="." line="481" column="20" />
-        <mark key="^" line="481" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" timestamp="1494354380814">
+        <mark key="'" line="480" column="64" />
+        <mark key="[" line="477" column="73" />
+        <mark key="]" line="477" column="91" />
+        <mark key="." line="226" column="117" />
+        <mark key="^" line="477" column="91" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1482166062762">
         <mark key="[" line="17" column="60" />
@@ -1041,7 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
       <jump line="376" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="486" column="40" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="140" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/filter-bar/filter-bar.component.ts" />
@@ -1141,13 +1140,14 @@
       <jump line="212" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="474" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
       <jump line="65" column="35" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" />
+      <jump line="480" column="64" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/dashboard/dashboard.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>addShouldFilterForHostname</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub1BhZGRpbmc6IHRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text>addShouldFilterForHostname</text>
+        <text>routeParamValue</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
@@ -1156,36 +1156,39 @@
         <text encoding="base64">bmdPbkRlc3Ryb3koKTogdm9pZCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtczogaXRlbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub1BhZGRpbmc6IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtczogaXRlbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtczogaXRlbXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="8">
+        <text>routeParameterName
+routeParameterName</text>
       </register>
-      <register name="5" type="4">
-        <text>getName() {
-    return URLParser.getPathElements(this.router.url).pop();
-  }</text>
+      <register name="5" type="8">
+        <text>resource
+resource
+resource
+resource</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHlwZSA9IGxpbmtlZC5yZXNvdXJjZTsK</text>
+      <register name="6" type="8">
+        <text>routeParams[routeParameterName]
+routeParams[routeParameterName]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHR5cGU6IGFueTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxpbmtlZFJlc291cmNlTWFwID0gdGhpcy5nZXRMaW5rZWRSZXNvdXJjZU1hcCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHF1ZXJ5W3RoaXMudHlwZV0gPSB0aGlzLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIGxldCByZXNvdXJjZSA9IGxpbmtlZFJlc291cmNlTWFwW3JvdXRlUGFyYW1ldGVyTmFtZV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHF1ZXJ5ID0ge307Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>55</text>
