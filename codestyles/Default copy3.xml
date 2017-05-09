@@ -43,9 +43,9 @@
   <codeStyleSettings language="TypeScript">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE" value="false" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
