@@ -329,11 +329,10 @@
         <mark key="." line="0" column="110" />
         <mark key="^" line="0" column="110" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" timestamp="1494356903701">
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="61" column="24" />
-        <mark key="^" line="61" column="24" />
-        <mark key="." line="61" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/LinkedDashboardsService.ts" timestamp="1497954349921">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-overview.component.ts" timestamp="1493734181884">
         <mark key="[" line="71" column="0" />
@@ -452,11 +451,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1494411215939">
-        <mark key="[" line="94" column="65" />
-        <mark key="]" line="94" column="83" />
-        <mark key="^" line="94" column="83" />
-        <mark key="." line="94" column="83" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/client-overview/client-info/client-info.component.ts" timestamp="1497954327593">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="7" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dialogs/about-dialog/about.component.ts" timestamp="1488979902768">
         <mark key="[" line="1" column="0" />
@@ -908,7 +907,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497953071401">
+      <file name="/Dummy.txt" timestamp="1497954255147">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1146,10 +1145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlZFJvdXRlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>filter term for these property's</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
@@ -1158,34 +1157,34 @@
         <text encoding="base64">bmdPbkRlc3Ryb3koKTogdm9pZCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlZFJvdXRlLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbG9hZGluZyA9IHRydWU7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBsaW5rZWREYXNoYm9hcmREYXRhID0gewogICAgICAgICAgICByZXNvdXJjZTogJ2NsaWVudCcsCiAgICAgICAgICAgIHR5cGVzOiBbJ0NMSUVOVCddCiAgICAgICAgfTsKCiAgICAgICAgdGhpcy5saW5rZWREYXNoYm9hcmRzU2VydmljZS5hZGRMaW5rZWREYXNoYm9hcmRzRHJvcGRvd24obGlua2VkRGFzaGJvYXJkRGF0YSwgdGhpcy5hY3RpdmF0ZWRSb3V0ZSk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxpbmtlZERhc2hib2FyZHNTZXJ2aWNlLmFkZExpbmtlZERhc2hib2FyZHNEcm9wZG93bihsaW5rZWREYXNoYm9hcmREYXRhLCB0aGlzLmFjdGl2YXRlZFJvdXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBldmVudC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgbGlua2VkRGFzaGJvYXJkRGF0YSgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucm91dGVyLmV2ZW50cy5tYXAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjdGl2YXRlZFJvdXRlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0IHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgICdtYXRjaCcgOgogICAgICAgICAgICAgICAgICAgICBbcHJvcGVydHldCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9hZGluZyA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>55</text>
