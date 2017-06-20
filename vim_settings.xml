@@ -610,11 +610,12 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" timestamp="1497966737871">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="26" column="117" />
-        <mark key="^" line="17" column="55" />
-        <mark key="." line="26" column="84" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" timestamp="1497969456044">
+        <mark key="'" line="20" column="55" />
+        <mark key="[" line="27" column="94" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/systemjs.config.js" timestamp="1484249071851">
         <mark key="[" line="16" column="56" />
@@ -1055,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" />
-      <jump line="485" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="483" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="491" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="1" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1155,6 +1154,8 @@
       <jump line="48" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="133" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="29" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
+      <jump line="26" column="84" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
+      <jump line="20" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1164,7 +1165,7 @@
         <text>let</text>
       </register>
       <register name="/" type="4">
-        <text>DSC_PROF</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gcXVlcnlQYXJhbXNTdGFydCA9PT0gLTEgPyB1cmwubGVuZ3RoIDogcXVlcnlQYXJhbXNTdGFydDsKICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZygwLCBxdWVyeVBhcmFtc1N0YXJ0KTsK</text>
@@ -1200,19 +1201,18 @@
         <text encoding="base64">ICAgICAgICBxdWVkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text encoding="base64">JzwsJz4vPw==</text>
       </register>
     </registers>
     <search>
-      <last-search>DSC_PROF</last-search>
+      <last-search>?</last-search>
       <last-offset />
-      <last-pattern>DSC_PROF</last-pattern>
+      <last-pattern>?</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>column</entry>
         <entry>provi</entry>
         <entry>required</entry>
         <entry>projectS</entry>
@@ -1232,6 +1232,7 @@
         <entry>button</entry>
         <entry>autocompleteResolver</entry>
         <entry>DSC_PROF</entry>
+        <entry>?</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
@@ -1247,6 +1248,7 @@
         <entry>205</entry>
         <entry>468</entry>
         <entry>55</entry>
+        <entry encoding="base64">JzwsJz4vPw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
