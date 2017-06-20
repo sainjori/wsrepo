@@ -86,11 +86,11 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1497967079671">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="48" column="27" />
-        <mark key="." line="49" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1497968574762">
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="13" />
+        <mark key="." line="50" column="13" />
+        <mark key="^" line="50" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/webpack.config.js" timestamp="1487775430145">
         <mark key="[" line="0" column="13" />
@@ -1157,47 +1157,47 @@
       <jump line="29" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
       </register>
-      <register name="0" type="4">
-        <text>?last_filter_batch-engine-logs=()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gcXVlcnlQYXJhbXNTdGFydCA9PT0gLTEgPyB1cmwubGVuZ3RoIDogcXVlcnlQYXJhbXNTdGFydDsKICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZygwLCBxdWVyeVBhcmFtc1N0YXJ0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gdXJsLmluZGV4T2YoJzsnKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgcXVldWUgfSBmcm9tICdyeGpzL3NjaGVkdWxlci9xdWV1ZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcXVlcnlQYXJhbXNTdGFydCA9IHVybC5pbmRleE9mKCc/Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlQYXJhbXNTdGFydCA9IHF1ZXJ5UGFyYW1zU3RhcnQgPT09IC0xID8gdXJsLmxlbmd0aCA6IHF1ZXJ5UGFyYW1zU3RhcnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocXVlcnlQYXJhbXNTdGFydCA9PT0gLTEpIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBkZWNsYXJhdGlvbnM6IFsvKiBjb21wb25lbnRzLCBkaXJlY3RpdmVzLCBhbmQgcGlwZXMgKi9dCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwcm92aWRlcnM6IFsvKiBhZGQgcHJvdmlkZXJzICovXSwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gTWF0aC5taW4odXJsLmluZGV4T2YoJzsnKSwgdXJsLmluZGV4T2YoJz8nKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBxdWVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>55</text>
