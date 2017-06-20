@@ -86,10 +86,11 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1497960023554">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="60" />
-        <mark key="." line="47" column="12" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.ts" timestamp="1497964122321">
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/webpack.config.js" timestamp="1487775430145">
         <mark key="[" line="0" column="13" />
@@ -179,6 +180,9 @@
         <mark key="]" line="14" column="14" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
+      </file>
+      <file name="/" timestamp="1497961559983">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1486034856548">
         <mark key="[" line="16" column="17" />
@@ -606,12 +610,11 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" timestamp="1497961434925">
-        <mark key="'" line="139" column="14" />
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" timestamp="1497964497361">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="55" />
+        <mark key="^" line="17" column="55" />
+        <mark key="." line="17" column="55" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/systemjs.config.js" timestamp="1484249071851">
         <mark key="[" line="16" column="56" />
@@ -859,6 +862,9 @@
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
+      <file name="/JavaScript Console" timestamp="1497961581023">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
         <mark key="[" line="6" column="33" />
         <mark key="]" line="6" column="35" />
@@ -1049,7 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="3" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="104" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/DataTableQueryExecutor.ts" />
       <jump line="485" column="19" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="483" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1149,49 +1154,50 @@
       <jump line="40" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="48" column="42" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="133" column="14" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
+      <jump line="29" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, Location</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>, Location</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>DSC_PROF</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25UYWJTZXJ2aWNlID0gbmV3IEFjdGlvblRhYlNlcnZpY2UoX3JvdXRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cmwgPSAiL3NlcnZlcnMvc2VydmVyLWRldGFpbHMvS09OVkVSVFNSVjE3O2xhc3RfZmlsdGVyX2JhdGNoLWVuZ2luZS1sb2dzPSgpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml4dHVyZSA9IFRlc3RCZWQuY3JlYXRlQ29tcG9uZW50KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkZWNsYXJhdGlvbnM6IFsvKiBjb21wb25lbnRzLCBkaXJlY3RpdmVzLCBhbmQgcGlwZXMgKi9dCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcCA9IGZpeHR1cmUuY29tcG9uZW50SW5zdGFuY2U7IC8vIE1pZGRsZVJvd0NvbXBvbmVudCB0ZXN0IGluc3RhbmNlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBwcm92aWRlcnM6IFsvKiBhZGQgcHJvdmlkZXJzICovXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml4dHVyZSA9IFRlc3RCZWQuY3JlYXRlQ29tcG9uZW50KE1pZGRsZVJvd0NvbXBvbmVudCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVjbGFyYXRpb25zOiBbTWlkZGxlUm93Q29tcG9uZW50LCBDaXJjbGVzQ29tcG9uZW50LCBCdXR0b25Db21wb25lbnRdLCAvLyBkZWNsYXJlIHRoZSB0ZXN0IGNvbXBvbmVudAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcXVlcnk6IEtpYmFuYVVSTFF1ZXJ5ID0gewogICAgZ2xvYmFsT3B0aW9uczogZ2xvYmFsLAogICAgdmlzdWFsaXphdGlvbk9wdGlvbnM6IHZpc29wdGlvbnMsCiAgICBkYXNoYm9hcmRPcmlnaW5hbFVSTDogJycKfTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgdmlzb3B0aW9uczogVmlzdWFsaXphdGlvbk9wdGlvbnMgPSB7CiAgICAib3B0aW9ucyI6IHsKICAgICAgICAiZGFya1RoZW1lIjogZmFsc2UKICAgIH0sCiAgICAicXVlcnkiOiB7CiAgICAgICAgInF1ZXJ5X3N0cmluZyI6IHsKICAgICAgICAgICAgImFuYWx5emVfd2lsZGNhcmQiOiB0cnVlLAogICAgICAgICAgICAicXVlcnkiOiAiKiIKICAgICAgICB9CiAgICB9LAogICAgInRpdGxlIjogIlBpbmcgRGFzaGJvYXJkIgp9OwoKY29uc3QgZ2xvYmFsOiBHbG9iYWxPcHRpb25zID0gewogICAgInJlZnJlc2hJbnRlcnZhbCI6IHsKICAgICAgICAiZGlzcGxheSI6ICJPZmYiLAogICAgICAgICJwYXVzZSI6IGZhbHNlLAogICAgICAgICJ2YWx1ZSI6IDAKICAgIH0sCiAgICAidGltZSI6IHsKICAgICAgICAiZnJvbSI6ICJub3cvZCIsCiAgICAgICAgIm1vZGUiOiAicXVpY2siLAogICAgICAgICJ0byI6ICJub3ciCiAgICB9Cn07Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIF9nZXRVcmxXaXRob3V0UXVlcnlQYXJhbXModXJsOiBzdHJpbmcpOiBzdHJpbmcgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdCIpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgYWN0aW9uVGFiU2VydmljZTsKICAgICAgICBiZWZvcmVFYWNoKGluamVjdChbUm91dGVyLCBMb2NhdGlvbl0sIChfcm91dGVyOiBSb3V0ZXIsIF9sb2NhdGlvbjogTG9jYXRpb24pID0+IHsKICAgICAgICAgICBhY3Rpb25UYWJTZXJ2aWNlID0gbmV3IEFjdGlvblRhYlNlcnZpY2UoX3JvdXRlcik7CiAgICAgICAgfSkpOwo=</text>
+        <text encoding="base64">Ly9kZXNjcmliZSgnS2liYW5hVVJMTW9kaWZpZXInLCBmdW5jdGlvbiAoKSB7Ci8vICAgIGl0KCdpdCBzaG91bGQgcHJvcGVybHkgYWRkIGEgdGVybSBxdWVyeSBpZiBub25lIHdhcyBwcmVzZW50JywgZnVuY3Rpb24gKCkgewovLwovLyAgICAgICAgY29uc3QgcmVzdWx0MSA9IG5ldyBLaWJhbmFVUkxNb2RpZmllcihxdWVyeSkKLy8gICAgICAgICAgICAuYWRkVGVybUZpbHRlcigic3RhdHNfZWN0cioiLCAiY2xpZW50IiwgIk5CLU00NzAwLTIiKQovLyAgICAgICAgICAgIC5nZXRRdWVyeSgpOwovLyAgICAgICAgZXhwZWN0KHJlc3VsdDEudmlzdWFsaXphdGlvbk9wdGlvbnMuZmlsdGVycykudG9FcXVhbChbCi8vICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAibWV0YSI6IHsKLy8gICAgICAgICAgICAgICAgICAgICJhbGlhcyI6ICdjbGllbnR+TkItTTQ3MDAtMicsCi8vICAgICAgICAgICAgICAgICAgICAiZGlzYWJsZWQiOiBmYWxzZSwKLy8gICAgICAgICAgICAgICAgICAgICJpbmRleCI6ICJzdGF0c19lY3RyKiIsCi8vICAgICAgICAgICAgICAgICAgICAia2V5IjogImNsaWVudCIsCi8vICAgICAgICAgICAgICAgICAgICAibmVnYXRlIjogZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiTkItTTQ3MDAtMiIKLy8gICAgICAgICAgICAgICAgfSwKLy8gICAgICAgICAgICAgICAgInF1ZXJ5IjogewovLyAgICAgICAgICAgICAgICAgICAgIndpbGRjYXJkIjogewovLyAgICAgICAgICAgICAgICAgICAgICAgICJjbGllbnQiOiAiTkItTTQ3MDAtMiIKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIF0pOwovLyAgICB9KTsKLy8KLy8gICAgaXQoJ2l0IHNob3VkIHByb3Blcmx5IGFkZCBhIHJhbmdlIGZpbHRlcicsIGZ1bmN0aW9uICgpIHsKLy8gICAgICAgIGNvbnN0IHJhbmdlOiBSYW5nZU9wdGlvbnMgPSB7Ci8vICAgICAgICAgICAgbHQ6IDEsCi8vICAgICAgICAgICAgZ3Q6IDAKLy8gICAgICAgIH0KLy8gICAgICAgIGNvbnN0IHJlc3VsdDEgPSBuZXcgS2liYW5hVVJMTW9kaWZpZXIocXVlcnkpCi8vICAgICAgICAgICAgLmFkZFJhbmdlRmlsdGVyKCJzdGF0c19lY3RyKiIsICJjbGllbnQiLCByYW5nZSkKLy8gICAgICAgICAgICAuZ2V0UXVlcnkoKTsKLy8KLy8gICAgICAgIGV4cGVjdChyZXN1bHQxLnZpc3VhbGl6YXRpb25PcHRpb25zLmZpbHRlcnMpLnRvRXF1YWwoWwovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgIm1ldGEiOiB7Ci8vICAgICAgICAgICAgICAgICAgICAiYWxpYXMiOiBudWxsLAovLyAgICAgICAgICAgICAgICAgICAgImRpc2FibGVkIjogZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICAiaW5kZXgiOiAic3RhdHNfZWN0cioiLAovLyAgICAgICAgICAgICAgICAgICAgImtleSI6ICJjbGllbnQiLAovLyAgICAgICAgICAgICAgICAgICAgIm5lZ2F0ZSI6IGZhbHNlLAovLyAgICAgICAgICAgICAgICB9LAovLyAgICAgICAgICAgICAgICByYW5nZTogewovLyAgICAgICAgICAgICAgICAgICAgY2xpZW50OiByYW5nZQovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgfSwKLy8gICAgICAgIF0pOwovLyAgICB9KTsKLy8gICAgaXQoJ2l0IHNob3VsZCBhZGQgYSBmaWx0ZXIgdG8gYW4gZXhpc3RpbmcgYXJyYXknLCBmdW5jdGlvbiAoKSB7Ci8vICAgICAgICBjb25zdCByZXN1bHQyID0gbmV3IEtpYmFuYVVSTE1vZGlmaWVyKHF1ZXJ5KQovLyAgICAgICAgICAgIC5hZGRUZXJtRmlsdGVyKCJzdGF0c19lY3RyKiIsICJjbGllbnQiLCAiTkItTTQ3MDAtMiIpCi8vICAgICAgICAgICAgLmFkZFRlcm1GaWx0ZXIoInN0YXRzX2VjdHIqIiwgImNsaWVudCIsICJOQi1NNDcwMC0zIikKLy8gICAgICAgICAgICAuZ2V0UXVlcnkoKTsKLy8KLy8gICAgICAgIGV4cGVjdChyZXN1bHQyLnZpc3VhbGl6YXRpb25PcHRpb25zLmZpbHRlcnMpLnRvRXF1YWwoWwovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgIm1ldGEiOiB7Ci8vICAgICAgICAgICAgICAgICAgICAiYWxpYXMiOiAnY2xpZW50fk5CLU00NzAwLTInLAovLyAgICAgICAgICAgICAgICAgICAgImRpc2FibGVkIjogZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICAiaW5kZXgiOiAic3RhdHNfZWN0cioiLAovLyAgICAgICAgICAgICAgICAgICAgImtleSI6ICJjbGllbnQiLAovLyAgICAgICAgICAgICAgICAgICAgIm5lZ2F0ZSI6IGZhbHNlLAovLyAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIk5CLU00NzAwLTIiCi8vICAgICAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgICAgICJxdWVyeSI6IHsKLy8gICAgICAgICAgICAgICAgICAgICJ3aWxkY2FyZCI6IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAiY2xpZW50IjogIk5CLU00NzAwLTIiCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9LAovLyAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgIm1ldGEiOiB7Ci8vICAgICAgICAgICAgICAgICAgICAiYWxpYXMiOiAnY2xpZW50fk5CLU00NzAwLTMnLAovLyAgICAgICAgICAgICAgICAgICAgImRpc2FibGVkIjogZmFsc2UsCi8vICAgICAgICAgICAgICAgICAgICAiaW5kZXgiOiAic3RhdHNfZWN0cioiLAovLyAgICAgICAgICAgICAgICAgICAgImtleSI6ICJjbGllbnQiLAovLyAgICAgICAgICAgICAgICAgICAgIm5lZ2F0ZSI6IGZhbHNlLAovLyAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogIk5CLU00NzAwLTMiCi8vICAgICAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgICAgICJxdWVyeSI6IHsKLy8gICAgICAgICAgICAgICAgICAgICJ3aWxkY2FyZCI6IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAiY2xpZW50IjogIk5CLU00NzAwLTMiCi8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9Ci8vICAgICAgICBdKTsKLy8gICAgfSkKLy99KTsK</text>
       </register>
       <register name=":" type="4">
         <text>55</text>
