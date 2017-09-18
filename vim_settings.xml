@@ -44,6 +44,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" timestamp="1505744990764">
+        <mark key="'" line="75" column="12" />
+      </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/projectSummary.component.ts" timestamp="1485799924158">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="12" column="15" />
@@ -181,7 +184,7 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="/" timestamp="1497961559983">
+      <file name="/" timestamp="1505747077795">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1486034856548">
@@ -635,6 +638,7 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/BatchEngineStatusUtil.ts" timestamp="1505744934175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/index.html" timestamp="1492516268680">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="26" />
@@ -706,6 +710,7 @@
         <mark key="." line="42" column="47" />
         <mark key="^" line="42" column="47" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/CSVConverter.ts" timestamp="1505747089737" />
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/templates/login.component.html" timestamp="1485861233468">
         <mark key="[" line="7" column="84" />
         <mark key="]" line="4" column="94" />
@@ -795,6 +800,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="58" column="118" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/api/BatchEngineEndpointApi.ts" timestamp="1505744915173" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/monitoring/monitoring-routing.module.ts" timestamp="1488985311886">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="6" column="29" />
@@ -863,7 +869,7 @@
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/JavaScript Console" timestamp="1497961581023">
+      <file name="/JavaScript Console" timestamp="1505747000519">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
@@ -921,7 +927,7 @@
         <mark key="^" line="11" column="53" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497954255147">
+      <file name="/Dummy.txt" timestamp="1505744933731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -1056,9 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="7" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="491" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="1" column="27" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="147" column="62" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="493" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="162" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1156,6 +1159,9 @@
       <jump line="29" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="26" column="84" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
       <jump line="20" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/services/ActionTabService.spec.ts" />
+      <jump line="0" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
+      <jump line="93" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
+      <jump line="75" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1165,7 +1171,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>?</text>
+        <text encoding="base64">XDxiYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gcXVlcnlQYXJhbXNTdGFydCA9PT0gLTEgPyB1cmwubGVuZ3RoIDogcXVlcnlQYXJhbXNTdGFydDsKICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZygwLCBxdWVyeVBhcmFtc1N0YXJ0KTsK</text>
@@ -1205,16 +1211,14 @@
       </register>
     </registers>
     <search>
-      <last-search>?</last-search>
+      <last-search encoding="base64">XDxiYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</last-search>
       <last-offset />
-      <last-pattern>?</last-pattern>
+      <last-pattern encoding="base64">XDxiYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>provi</entry>
-        <entry>required</entry>
         <entry>projectS</entry>
         <entry>dec</entry>
         <entry>route</entry>
@@ -1233,6 +1237,8 @@
         <entry>autocompleteResolver</entry>
         <entry>DSC_PROF</entry>
         <entry>?</entry>
+        <entry encoding="base64">XDxCYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</entry>
+        <entry encoding="base64">XDxiYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>dd</entry>
