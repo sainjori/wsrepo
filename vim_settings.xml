@@ -101,6 +101,9 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" timestamp="1505751078302">
+        <mark key="'" line="380" column="31" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/date-range-dialog/add-filter-dialog.component.html" timestamp="1491835524942">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -184,7 +187,7 @@
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="14" />
       </file>
-      <file name="/" timestamp="1505747077795">
+      <file name="/" timestamp="1505749270154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/layouts/full-layout.component.html" timestamp="1486034856548">
@@ -299,12 +302,6 @@
         <mark key="]" line="86" column="46" />
         <mark key="." line="86" column="46" />
         <mark key="^" line="86" column="46" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/server-detail/server-detail.component.ts" timestamp="1494356778491">
-        <mark key="'" line="113" column="74" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/kibana/kibana.component.ts" timestamp="1487087360282">
         <mark key="[" line="103" column="73" />
@@ -430,6 +427,9 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/platform-browser/@angular/platform-browser.es5.js" timestamp="1505749243603">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-frontend/src/app/dashboard/dashboard-routing.module.ts" timestamp="1482160143000">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="15" column="5" />
@@ -536,6 +536,9 @@
         <mark key="^" line="4" column="69" />
         <mark key="." line="4" column="69" />
       </file>
+      <file name="ng:///ServersModule/ServersComponent.html" timestamp="1505749195896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Monitoring/V2fromSVN/dashboard/dashboard-frontend/src/app/app.routing.ts" timestamp="1481646103042">
         <mark key="[" line="63" column="7" />
         <mark key="]" line="63" column="7" />
@@ -565,6 +568,9 @@
         <mark key="]" line="9" column="13" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="13" />
+      </file>
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/@angular/core/@angular/core.es5.js" timestamp="1505749198619">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/kibana/kibana.module.ts" timestamp="1493744005211">
         <mark key="[" line="12" column="0" />
@@ -639,6 +645,9 @@
         <mark key="^" line="10" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/utils/BatchEngineStatusUtil.ts" timestamp="1505744934175" />
+      <file name="/fragment.js" timestamp="1505749318728">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/index.html" timestamp="1492516268680">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="23" column="26" />
@@ -869,7 +878,7 @@
         <mark key="]" line="0" column="52" />
         <mark key="." line="0" column="52" />
       </file>
-      <file name="/JavaScript Console" timestamp="1505747211751">
+      <file name="/JavaScript Console" timestamp="1505751123282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/tuts/andrewB-ng2-tut/myProjector/app/auth.service.ts" timestamp="1485879308664">
@@ -877,6 +886,9 @@
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
+      </file>
+      <file name="chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/adblock-uiscripts-rightclick_hook.js" timestamp="1505749347563">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489401231114">
         <mark key="[" line="10" column="0" />
@@ -967,6 +979,7 @@
         <mark key="^" line="132" column="437" />
         <mark key="." line="132" column="437" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" timestamp="1505749188713" />
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/gulpfile.js" timestamp="1482254559851">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="15" column="39" />
@@ -978,6 +991,12 @@
         <mark key="]" line="85" column="47" />
         <mark key="." line="85" column="47" />
         <mark key="^" line="85" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1505751210997">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/tsconfig.json" timestamp="1482238391124">
         <mark key="[" line="14" column="18" />
@@ -996,6 +1015,9 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="webpack://C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/~/zone.js/dist/zone.js" timestamp="1505749507935">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/ehLeanTS/index.html" timestamp="1482231867948">
         <mark key="[" line="25" column="61" />
         <mark key="]" line="25" column="71" />
@@ -1008,11 +1030,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1492793982269">
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1505750126343">
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/common-components/dialogs/column-select-dialog/column-select-dialog.component.scss" timestamp="1492509957580">
         <mark key="[" line="0" column="0" />
@@ -1062,8 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="62" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
-      <jump line="493" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="162" column="43" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="480" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
       <jump line="484" column="72" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/common-components/dynamic-data-table/dynamic-data-table.component.ts" />
@@ -1162,13 +1182,15 @@
       <jump line="0" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
       <jump line="93" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
       <jump line="75" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/src/app/servers/servers.component.ts" />
+      <jump line="1082" column="58" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
+      <jump line="380" column="31" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>750m</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>750m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXRjaEVuZ2luZVN0YXR1c1V0aWxcPg==</text>
