@@ -870,7 +870,7 @@
         <mark key="^" line="8" column="94" />
         <mark key="." line="8" column="94" />
       </file>
-      <file name="/JavaScript Console" timestamp="1505816151509">
+      <file name="/JavaScript Console" timestamp="1505817236302">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-frontend/src/app/info/health/health.component.html" timestamp="1489401231114">
@@ -933,11 +933,11 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1505750126343">
-        <mark key="[" line="66" column="19" />
-        <mark key="]" line="66" column="24" />
-        <mark key="." line="66" column="24" />
-        <mark key="^" line="66" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-frontend/package.json" timestamp="1505817926345">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="37" />
       </file>
       <file name="$USER_HOME$/sandbox/laracastsLearnFlexbox/index.html" timestamp="1482515546433">
         <mark key="[" line="80" column="16" />
@@ -1074,16 +1074,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>750m</text>
+        <text>prod</text>
       </register>
       <register name="-" type="4">
-        <text>750m</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmVha3BvaW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVBhcmFtc1N0YXJ0ID0gcXVlcnlQYXJhbXNTdGFydCA9PT0gLTEgPyB1cmwubGVuZ3RoIDogcXVlcnlQYXJhbXNTdGFydDsKICAgICAgICByZXR1cm4gdXJsLnN1YnN0cmluZygwLCBxdWVyeVBhcmFtc1N0YXJ0KTsK</text>
+        <text encoding="base64">ICAgICJwcm9kLWJ1aWxkIjogIm5nIGJ1aWxkIC0tYW90IC0tcHJvZCIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodXJsKSB7Cg==</text>
