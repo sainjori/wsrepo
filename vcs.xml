@@ -6,9 +6,17 @@
           <option name="url" value="https://github.com/sainjori/typscriptghead.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://localhost:4200/#/servershttps://github.com/prigara/debugging-webpack.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/prigara/debugging-webpack.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\bya\sandbox\ehLeanTS" />
+    <option name="cloneParentDir" value="C:\Users\bya\sandbox\" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\bya\sandbox\buildingng2Componens" />
